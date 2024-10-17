@@ -1,0 +1,907 @@
+"","sampleCode","sampleCode.y","speciesCode","Plot.x","binomial","family","genus","plot_Binomial","Plot.y","Binomial","Abundance"
+"PP_Chaqui_32_Clusia multiflora","MDP0209","MDP0209.mzXML","clumul","PP_Chaqui_32","Clusia multiflora","Clusiaceae","Clusia","PP_Chaqui_32_Clusia multiflora","PP_Chaqui_32","Clusia multiflora",181
+"PP_Chaqui_32_Miconia biacuta","MDP0213","MDP0213.mzXML","mic1bia","PP_Chaqui_32","Miconia biacuta","Melastomataceae","Miconia","PP_Chaqui_32_Miconia biacuta","PP_Chaqui_32","Miconia biacuta",42
+"PP_Chaqui_32_Cinchona pubescens","MDP0206","MDP0206.mzXML","cin1pub","PP_Chaqui_32","Cinchona pubescens","Rubiaceae","Cinchona","PP_Chaqui_32_Cinchona pubescens","PP_Chaqui_32","Cinchona pubescens",1
+"PP_Chaqui_32_Weinmannia davidsonii","MDP0221","MDP0221.mzXML","weidav","PP_Chaqui_32","Weinmannia davidsonii","Cunoniaceae","Weinmannia","PP_Chaqui_32_Weinmannia davidsonii","PP_Chaqui_32","Weinmannia davidsonii",1
+"PP_Chaqui_32_Hedyosmum lechleri","MDP0211","MDP0211.mzXML","hedlec","PP_Chaqui_32","Hedyosmum lechleri","Chloranthaceae","Hedyosmum","PP_Chaqui_32_Hedyosmum lechleri","PP_Chaqui_32","Hedyosmum lechleri",64
+"PP_Chaqui_32_Persea AF-15646","MDP0215","MDP0215.mzXML","per6AF15646","PP_Chaqui_32","Persea AF-15646","Lauraceae","Persea","PP_Chaqui_32_Persea AF-15646",NA,NA,NA
+"PP_Chaqui_32_Hedyosmum racemosum","MDP0212","MDP0212.mzXML","hedrac","PP_Chaqui_32","Hedyosmum racemosum","Chloranthaceae","Hedyosmum","PP_Chaqui_32_Hedyosmum racemosum","PP_Chaqui_32","Hedyosmum racemosum",4
+"PP_Chaqui_32_Brunellia boliviana","MDP0204","MDP0204.mzXML","bru1bol","PP_Chaqui_32","Brunellia boliviana","Brunelliaceae","Brunellia","PP_Chaqui_32_Brunellia boliviana","PP_Chaqui_32","Brunellia boliviana",7
+"PP_Chaqui_32_Weinmannia crassifolia","MDP0220","MDP0220.mzXML","weicra","PP_Chaqui_32","Weinmannia crassifolia","Cunoniaceae","Weinmannia","PP_Chaqui_32_Weinmannia crassifolia","PP_Chaqui_32","Weinmannia crassifolia",166
+"PP_Chaqui_32_Clethra GAT-2810","MDP0208","MDP0208.mzXML","cle3GAT2810","PP_Chaqui_32","Clethra GAT-2810","Clethraceae","Clethra","PP_Chaqui_32_Clethra GAT-2810",NA,NA,NA
+"PP_Chaqui_32_Myrsine coriacea","MDP0214","MDP0214.mzXML","myr8cor","PP_Chaqui_32","Myrsine coriacea","Primulaceae","Myrsine","PP_Chaqui_32_Myrsine coriacea","PP_Chaqui_32","Myrsine coriacea",35
+"PP_Chaqui_32_Weinmannia LC-4951","MDP0223","MDP0223.mzXML","weiLC4951","PP_Chaqui_32","Weinmannia LC-4951","Cunoniaceae","Weinmannia","PP_Chaqui_32_Weinmannia LC-4951",NA,NA,NA
+"PP_Chaqui_32_Clethra cuneata","MDP0207","MDP0207.mzXML","cle3cun","PP_Chaqui_32","Clethra cuneata","Clethraceae","Clethra","PP_Chaqui_32_Clethra cuneata","PP_Chaqui_32","Clethra cuneata",5
+"PP_Chaqui_32_Weinmannia pinnata","MDP0224","MDP0224.mzXML","weipin","PP_Chaqui_32","Weinmannia pinnata","Cunoniaceae","Weinmannia","PP_Chaqui_32_Weinmannia pinnata","PP_Chaqui_32","Weinmannia pinnata",6
+"PP_Chaqui_32_Symplocos mapiriensis","MDP0219","MDP0219.mzXML","sym2map","PP_Chaqui_32","Symplocos mapiriensis","Symplocaceae","Symplocos","PP_Chaqui_32_Symplocos mapiriensis","PP_Chaqui_32","Symplocos mapiriensis",9
+"PP_Chaqui_32_Weinmannia haenkeana","MDP0222","MDP0222.mzXML","weihae","PP_Chaqui_32","Weinmannia haenkeana","Cunoniaceae","Weinmannia","PP_Chaqui_32_Weinmannia haenkeana","PP_Chaqui_32","Weinmannia haenkeana",2
+"PP_Chaqui_32_Clusia ternstroemioides","MDP0210","MDP0210.mzXML","cluter","PP_Chaqui_32","Clusia ternstroemioides","Clusiaceae","Clusia","PP_Chaqui_32_Clusia ternstroemioides","PP_Chaqui_32","Clusia ternstroemioides",1
+"PP_Chaqui_32_Cavendishia bracteata","MDP0205","MDP0205.mzXML","cav2bra","PP_Chaqui_32","Cavendishia bracteata","Ericaceae","Cavendishia","PP_Chaqui_32_Cavendishia bracteata","PP_Chaqui_32","Cavendishia bracteata",3
+"PP_Chaqui_32_Prunus brittoniana","MDP0216","MDP0216.mzXML","pru2bri","PP_Chaqui_32","Prunus brittoniana","Rosaceae","Prunus","PP_Chaqui_32_Prunus brittoniana","PP_Chaqui_32","Prunus brittoniana",2
+"PP_Chaqui_32_Bejaria aestuans","MDP0203","MDP0203.mzXML","bejaes","PP_Chaqui_32","Bejaria aestuans","Ericaceae","Bejaria","PP_Chaqui_32_Bejaria aestuans","PP_Chaqui_32","Bejaria aestuans",20
+"PP_Chaqui_32_Sciodaphyllum ECQ-54","MDP0218","MDP0218.mzXML","sci2ECQ54","PP_Chaqui_32","Sciodaphyllum ECQ-54","Araliaceae","Sciodaphyllum","PP_Chaqui_32_Sciodaphyllum ECQ-54",NA,NA,NA
+"PP_Chaqui_32_Prunus integrifolia","MDP0217","MDP0217.mzXML","pru2int","PP_Chaqui_32","Prunus integrifolia","Rosaceae","Prunus","PP_Chaqui_32_Prunus integrifolia","PP_Chaqui_32","Prunus integrifolia",25
+"PP_Fuerte_27_Prunus pleiantha","MDP0587","MDP0587.mzXML","pru2ple","PP_Fuerte_27","Prunus pleiantha","Rosaceae","Prunus","PP_Fuerte_27_Prunus pleiantha","PP_Fuerte_27","Prunus pleiantha",1
+"PP_Fuerte_27_Pouteria hispida","MDP0585","MDP0585.mzXML","pou3his","PP_Fuerte_27","Pouteria hispida","Sapotaceae","Pouteria","PP_Fuerte_27_Pouteria hispida","PP_Fuerte_27","Pouteria hispida",1
+"PP_Fuerte_27_Myrcia sylvatica","MDP0572","MDP0572.mzXML","myr2syl","PP_Fuerte_27","Myrcia sylvatica","Myrtaceae","Myrcia","PP_Fuerte_27_Myrcia sylvatica","PP_Fuerte_27","Myrcia sylvatica",2
+"PP_Fuerte_27_Protium montanum","MDP0586","MDP0586.mzXML","pro2mon","PP_Fuerte_27","Protium montanum","Burseraceae","Protium","PP_Fuerte_27_Protium montanum","PP_Fuerte_27","Protium montanum",22
+"PP_Fuerte_27_Myrcia sintenisii","MDP0571","MDP0571.mzXML","myr2sin","PP_Fuerte_27","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Fuerte_27_Myrcia sintenisii","PP_Fuerte_27","Myrcia sintenisii",4
+"PP_Fuerte_27_Helicostylis tovarensis","MDP0554","MDP0554.mzXML","hel2tov","PP_Fuerte_27","Helicostylis tovarensis","Moraceae","Helicostylis","PP_Fuerte_27_Helicostylis tovarensis","PP_Fuerte_27","Helicostylis tovarensis",51
+"PP_Fuerte_27_Ocotea FZR-18951","MDP0580","MDP0580.mzXML","ocoFZR18951","PP_Fuerte_27","Ocotea FZR-18951","Lauraceae","Ocotea","PP_Fuerte_27_Ocotea FZR-18951",NA,NA,NA
+"PP_Fuerte_27_Tapirira guianensis","MDP0596","MDP0596.mzXML","tap1gui","PP_Fuerte_27","Tapirira guianensis","Anacardiaceae","Tapirira","PP_Fuerte_27_Tapirira guianensis","PP_Fuerte_27","Tapirira guianensis",9
+"PP_Fuerte_27_Guatteria punctata","MDP0553","MDP0553.mzXML","gua4pun","PP_Fuerte_27","Guatteria punctata","Annonaceae","Guatteria","PP_Fuerte_27_Guatteria punctata","PP_Fuerte_27","Guatteria punctata",43
+"PP_Fuerte_27_Ladenbergia oblongifolia","MDP0561","MDP0561.mzXML","ladobl","PP_Fuerte_27","Ladenbergia oblongifolia","Rubiaceae","Ladenbergia","PP_Fuerte_27_Ladenbergia oblongifolia","PP_Fuerte_27","Ladenbergia oblongifolia",1
+"PP_Fuerte_27_Ocotea aciphylla","MDP0576","MDP0576.mzXML","ocoaci","PP_Fuerte_27","Ocotea aciphylla","Lauraceae","Ocotea","PP_Fuerte_27_Ocotea aciphylla","PP_Fuerte_27","Ocotea aciphylla",21
+"PP_Fuerte_27_Oreopanax trollii","MDP0582","MDP0582.mzXML","oretro","PP_Fuerte_27","Oreopanax trollii","Araliaceae","Oreopanax","PP_Fuerte_27_Oreopanax trollii","PP_Fuerte_27","Oreopanax trollii",1
+"PP_Fuerte_27_Sloanea rufa","MDP0594","MDP0594.mzXML","sloruf","PP_Fuerte_27","Sloanea rufa","Elaeocarpaceae","Sloanea","PP_Fuerte_27_Sloanea rufa","PP_Fuerte_27","Sloanea rufa",2
+"PP_Fuerte_27_Cupania CMG-2731","MDP0545","MDP0545.mzXML","cupCMG2731","PP_Fuerte_27","Cupania CMG-2731","Sapindaceae","Cupania","PP_Fuerte_27_Cupania CMG-2731",NA,NA,NA
+"PP_Fuerte_27_Myrsine DAR-264","MDP0573","MDP0573.mzXML","myr8DAR264","PP_Fuerte_27","Myrsine DAR-264","Primulaceae","Myrsine","PP_Fuerte_27_Myrsine DAR-264",NA,NA,NA
+"PP_Fuerte_27_Myrsine pellucida","MDP0574","MDP0574.mzXML","myr8pel","PP_Fuerte_27","Myrsine pellucida","Primulaceae","Myrsine","PP_Fuerte_27_Myrsine pellucida","PP_Fuerte_27","Myrsine pellucida",13
+"PP_Fuerte_27_Mollinedia repanda","MDP0568","MDP0568.mzXML","molrep","PP_Fuerte_27","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Fuerte_27_Mollinedia repanda","PP_Fuerte_27","Mollinedia repanda",8
+"PP_Fuerte_27_Ocotea floribunda","MDP0579","MDP0579.mzXML","ocoflo","PP_Fuerte_27","Ocotea floribunda","Lauraceae","Ocotea","PP_Fuerte_27_Ocotea floribunda","PP_Fuerte_27","Ocotea floribunda",8
+"PP_Fuerte_27_Endlicheria AF-20980","MDP0548","MDP0548.mzXML","endAF20980","PP_Fuerte_27","Endlicheria AF-20980","Lauraceae","Endlicheria","PP_Fuerte_27_Endlicheria AF-20980",NA,NA,NA
+"PP_Fuerte_27_Persea AF-12248","MDP0583","MDP0583.mzXML","per6AF12248","PP_Fuerte_27","Persea AF-12248","Lauraceae","Persea","PP_Fuerte_27_Persea AF-12248",NA,NA,NA
+"PP_Fuerte_27_Weinmannia lechleriana","MDP0599","MDP0599.mzXML","weilec","PP_Fuerte_27","Weinmannia lechleriana","Cunoniaceae","Weinmannia","PP_Fuerte_27_Weinmannia lechleriana","PP_Fuerte_27","Weinmannia lechleriana",14
+"PP_Fuerte_27_Banisteriopsis padifolia","MDP0534","MDP0534.mzXML","ban2pad","PP_Fuerte_27","Banisteriopsis padifolia","Malpighiaceae","Banisteriopsis","PP_Fuerte_27_Banisteriopsis padifolia","PP_Fuerte_27","Banisteriopsis padifolia",1
+"PP_Fuerte_27_Podocarpus ingensis","MDP0584","MDP0584.mzXML","poding","PP_Fuerte_27","Podocarpus ingensis","Podocarpaceae","Podocarpus","PP_Fuerte_27_Podocarpus ingensis","PP_Fuerte_27","Podocarpus ingensis",2
+"PP_Fuerte_27_Miconia AF-7149","MDP0563","MDP0563.mzXML","mic1AF7149","PP_Fuerte_27","Miconia AF-7149","Melastomataceae","Miconia","PP_Fuerte_27_Miconia AF-7149",NA,NA,NA
+"PP_Fuerte_27_Aiouea AF-9030","MDP0529","MDP0529.mzXML","aioAF9030","PP_Fuerte_27","Aiouea AF-9030","Lauraceae","Aiouea","PP_Fuerte_27_Aiouea AF-9030",NA,NA,NA
+"PP_Fuerte_27_Agouticarpa curviflora","MDP0528","MDP0528.mzXML","ago2cur","PP_Fuerte_27","Agouticarpa curviflora","Rubiaceae","Agouticarpa","PP_Fuerte_27_Agouticarpa curviflora","PP_Fuerte_27","Agouticarpa curviflora",1
+"PP_Fuerte_27_Simarouba amara","MDP0593","MDP0593.mzXML","sim1ama","PP_Fuerte_27","Simarouba amara","Simaroubaceae","Simarouba","PP_Fuerte_27_Simarouba amara","PP_Fuerte_27","Simarouba amara",1
+"PP_Fuerte_27_Mollinedia ovata","MDP0567","MDP0567.mzXML","molova","PP_Fuerte_27","Mollinedia ovata","Monimiaceae","Mollinedia","PP_Fuerte_27_Mollinedia ovata","PP_Fuerte_27","Mollinedia ovata",14
+"PP_Fuerte_27_Endlicheria canescens","MDP0549","MDP0549.mzXML","endcan","PP_Fuerte_27","Endlicheria canescens","Lauraceae","Endlicheria","PP_Fuerte_27_Endlicheria canescens","PP_Fuerte_27","Endlicheria canescens",5
+"PP_Fuerte_27_Coussarea boliviensis","MDP0543","MDP0543.mzXML","cou3bol","PP_Fuerte_27","Coussarea boliviensis","Rubiaceae","Coussarea","PP_Fuerte_27_Coussarea boliviensis","PP_Fuerte_27","Coussarea boliviensis",3
+"PP_Fuerte_27_Miconia CMG-2345","MDP0564","MDP0564.mzXML","mic1CMG2345","PP_Fuerte_27","Miconia CMG-2345","Melastomataceae","Miconia","PP_Fuerte_27_Miconia CMG-2345",NA,NA,NA
+"PP_Fuerte_27_Bathysa australis","MDP0535","MDP0535.mzXML","bat1aus","PP_Fuerte_27","Bathysa australis","Rubiaceae","Bathysa","PP_Fuerte_27_Bathysa australis","PP_Fuerte_27","Bathysa australis",2
+"PP_Fuerte_27_Blakea multiflora","MDP0537","MDP0537.mzXML","blamul","PP_Fuerte_27","Blakea multiflora","Melastomataceae","Blakea","PP_Fuerte_27_Blakea multiflora","PP_Fuerte_27","Blakea multiflora",9
+"PP_Fuerte_27_Ficus banosensis","MDP0551","MDP0551.mzXML","ficban","PP_Fuerte_27","Ficus banosensis","Moraceae","Ficus","PP_Fuerte_27_Ficus banosensis","PP_Fuerte_27","Ficus banosensis",2
+"PP_Fuerte_27_Inga fendleriana","MDP0559","MDP0559.mzXML","ingfen","PP_Fuerte_27","Inga fendleriana","Fabaceae","Inga","PP_Fuerte_27_Inga fendleriana","PP_Fuerte_27","Inga fendleriana",3
+"PP_Fuerte_27_Alchornea latifolia","MDP0532","MDP0532.mzXML","alclat","PP_Fuerte_27","Alchornea latifolia","Euphorbiaceae","Alchornea","PP_Fuerte_27_Alchornea latifolia","PP_Fuerte_27","Alchornea latifolia",34
+"PP_Fuerte_27_Clusia elongata","MDP0542","MDP0542.mzXML","cluelo","PP_Fuerte_27","Clusia elongata","Clusiaceae","Clusia","PP_Fuerte_27_Clusia elongata","PP_Fuerte_27","Clusia elongata",1
+"PP_Fuerte_27_Dendropanax inaequalipedunculatus","MDP0546","MDP0546.mzXML","den2ina","PP_Fuerte_27","Dendropanax inaequalipedunculatus","Araliaceae","Dendropanax","PP_Fuerte_27_Dendropanax inaequalipedunculatus","PP_Fuerte_27","Dendropanax inaequalipedunculatus",3
+"PP_Fuerte_27_Elaeagia mariae","MDP0547","MDP0547.mzXML","elamar","PP_Fuerte_27","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Fuerte_27_Elaeagia mariae","PP_Fuerte_27","Elaeagia mariae",68
+"PP_Fuerte_27_Myrcia fallax","MDP0569","MDP0569.mzXML","myr2fal","PP_Fuerte_27","Myrcia fallax","Myrtaceae","Myrcia","PP_Fuerte_27_Myrcia fallax","PP_Fuerte_27","Myrcia fallax",8
+"PP_Fuerte_27_Miconia elongata","MDP0565","MDP0565.mzXML","mic1elo","PP_Fuerte_27","Miconia elongata","Melastomataceae","Miconia","PP_Fuerte_27_Miconia elongata","PP_Fuerte_27","Miconia elongata",14
+"PP_Fuerte_27_Clethra elongata","MDP0541","MDP0541.mzXML","cle3elo","PP_Fuerte_27","Clethra elongata","Clethraceae","Clethra","PP_Fuerte_27_Clethra elongata","PP_Fuerte_27","Clethra elongata",5
+"PP_Fuerte_27_Hieronyma MVH-157","MDP0555","MDP0555.mzXML","hieMVH157","PP_Fuerte_27","Hieronyma MVH-157","Phyllanthaceae","Hieronyma","PP_Fuerte_27_Hieronyma MVH-157",NA,NA,NA
+"PP_Fuerte_27_Hyptidendron arboreum","MDP0556","MDP0556.mzXML","hyp2arb","PP_Fuerte_27","Hyptidendron arboreum","Lamiaceae","Hyptidendron","PP_Fuerte_27_Hyptidendron arboreum",NA,NA,NA
+"PP_Fuerte_27_Inga cylindrica","MDP0558","MDP0558.mzXML","ingcyl","PP_Fuerte_27","Inga cylindrica","Fabaceae","Inga","PP_Fuerte_27_Inga cylindrica","PP_Fuerte_27","Inga cylindrica",1
+"PP_Fuerte_27_Croton rusbyi","MDP0544","MDP0544.mzXML","cro2rus","PP_Fuerte_27","Croton rusbyi","Euphorbiaceae","Croton","PP_Fuerte_27_Croton rusbyi","PP_Fuerte_27","Croton rusbyi",4
+"PP_Fuerte_27_Rudgea verticillata","MDP0591","MDP0591.mzXML","rudver","PP_Fuerte_27","Rudgea verticillata","Rubiaceae","Rudgea","PP_Fuerte_27_Rudgea verticillata","PP_Fuerte_27","Rudgea verticillata",1
+"PP_Fuerte_27_Caryocar dentatum","MDP0539","MDP0539.mzXML","car5den","PP_Fuerte_27","Caryocar dentatum","Caryocaraceae","Caryocar","PP_Fuerte_27_Caryocar dentatum","PP_Fuerte_27","Caryocar dentatum",2
+"PP_Fuerte_27_Ocotea PCL-181","MDP0581","MDP0581.mzXML","ocoPCL181","PP_Fuerte_27","Ocotea PCL-181","Lauraceae","Ocotea","PP_Fuerte_27_Ocotea PCL-181",NA,NA,NA
+"PP_Fuerte_27_Ternstroemia subserrata","MDP0597","MDP0597.mzXML","ter2sub","PP_Fuerte_27","Ternstroemia subserrata","Pentaphylacaceae","Ternstroemia","PP_Fuerte_27_Ternstroemia subserrata","PP_Fuerte_27","Ternstroemia subserrata",1
+"PP_Fuerte_27_Rhodostemonodaphne longiflora","MDP0589","MDP0589.mzXML","rholon","PP_Fuerte_27","Rhodostemonodaphne longiflora","Lauraceae","Rhodostemonodaphne","PP_Fuerte_27_Rhodostemonodaphne longiflora","PP_Fuerte_27","Rhodostemonodaphne longiflora",4
+"PP_Fuerte_27_Alchornea glandulosa","MDP0531","MDP0531.mzXML","alcgla","PP_Fuerte_27","Alchornea glandulosa","Euphorbiaceae","Alchornea","PP_Fuerte_27_Alchornea glandulosa","PP_Fuerte_27","Alchornea glandulosa",2
+"PP_Fuerte_27_Miconia punctata","MDP0566","MDP0566.mzXML","mic1pun","PP_Fuerte_27","Miconia punctata","Melastomataceae","Miconia","PP_Fuerte_27_Miconia punctata","PP_Fuerte_27","Miconia punctata",5
+"PP_Fuerte_27_Saurauia spectabilis","MDP0592","MDP0592.mzXML","sauspe","PP_Fuerte_27","Saurauia spectabilis","Actinidiaceae","Saurauia","PP_Fuerte_27_Saurauia spectabilis",NA,NA,NA
+"PP_Fuerte_27_Miconia AF-17614A","MDP0562","MDP0562.mzXML","mic1AF17614A","PP_Fuerte_27","Miconia AF-17614A","Melastomataceae","Miconia","PP_Fuerte_27_Miconia AF-17614A",NA,NA,NA
+"PP_Fuerte_27_Ficus americana","MDP0550","MDP0550.mzXML","ficame","PP_Fuerte_27","Ficus americana","Moraceae","Ficus","PP_Fuerte_27_Ficus americana","PP_Fuerte_27","Ficus americana",23
+"PP_Fuerte_27_Cecropia angustifolia","MDP0540","MDP0540.mzXML","cecang","PP_Fuerte_27","Cecropia angustifolia","Urticaceae","Cecropia","PP_Fuerte_27_Cecropia angustifolia","PP_Fuerte_27","Cecropia angustifolia",11
+"PP_Fuerte_27_Aniba muca","MDP0533","MDP0533.mzXML","animuc","PP_Fuerte_27","Aniba muca","Lauraceae","Aniba","PP_Fuerte_27_Aniba muca","PP_Fuerte_27","Aniba muca",2
+"PP_Fuerte_27_Nectandra acutifolia","MDP0575","MDP0575.mzXML","necacu","PP_Fuerte_27","Nectandra acutifolia","Lauraceae","Nectandra","PP_Fuerte_27_Nectandra acutifolia","PP_Fuerte_27","Nectandra acutifolia",20
+"PP_Fuerte_27_Myrcia paivae","MDP0570","MDP0570.mzXML","myr2pai","PP_Fuerte_27","Myrcia paivae","Myrtaceae","Myrcia","PP_Fuerte_27_Myrcia paivae","PP_Fuerte_27","Myrcia paivae",13
+"PP_Fuerte_27_Ladenbergia bullata","MDP0560","MDP0560.mzXML","ladbul","PP_Fuerte_27","Ladenbergia bullata","Rubiaceae","Ladenbergia","PP_Fuerte_27_Ladenbergia bullata","PP_Fuerte_27","Ladenbergia bullata",5
+"PP_Fuerte_27_Graffenrieda emarginata","MDP0552","MDP0552.mzXML","graema","PP_Fuerte_27","Graffenrieda emarginata","Melastomataceae","Graffenrieda","PP_Fuerte_27_Graffenrieda emarginata","PP_Fuerte_27","Graffenrieda emarginata",13
+"PP_Fuerte_27_Calyptranthes AM-3415","MDP0538","MDP0538.mzXML","cal7AM3415","PP_Fuerte_27","Calyptranthes AM-3415","Myrtaceae","Calyptranthes","PP_Fuerte_27_Calyptranthes AM-3415",NA,NA,NA
+"PP_Fuerte_27_Ocotea AF-15396","MDP0577","MDP0577.mzXML","ocoAF15396","PP_Fuerte_27","Ocotea AF-15396","Lauraceae","Ocotea","PP_Fuerte_27_Ocotea AF-15396",NA,NA,NA
+"PP_Fuerte_27_Beilschmiedia tovarensis","MDP0536","MDP0536.mzXML","beitov","PP_Fuerte_27","Beilschmiedia tovarensis","Lauraceae","Beilschmiedia","PP_Fuerte_27_Beilschmiedia tovarensis","PP_Fuerte_27","Beilschmiedia tovarensis",35
+"PP_Fuerte_27_Solanum aphyodendron","MDP0595","MDP0595.mzXML","solaph","PP_Fuerte_27","Solanum aphyodendron","Solanaceae","Solanum","PP_Fuerte_27_Solanum aphyodendron","PP_Fuerte_27","Solanum aphyodendron",0
+"PP_Fuerte_27_Prunus stipulata","MDP0588","MDP0588.mzXML","pru2sti","PP_Fuerte_27","Prunus stipulata","Rosaceae","Prunus","PP_Fuerte_27_Prunus stipulata","PP_Fuerte_27","Prunus stipulata",0
+"PP_Fuerte_27_Vismia glabra","MDP0598","MDP0598.mzXML","visgla","PP_Fuerte_27","Vismia glabra","Hypericaceae","Vismia","PP_Fuerte_27_Vismia glabra","PP_Fuerte_27","Vismia glabra",1
+"PP_Fuerte_27_Ilex aggregata","MDP0557","MDP0557.mzXML","ileagg","PP_Fuerte_27","Ilex aggregata","Aquifoliaceae","Ilex","PP_Fuerte_27_Ilex aggregata","PP_Fuerte_27","Ilex aggregata",2
+"PP_Fuerte_27_Ocotea albida","MDP0578","MDP0578.mzXML","ocoalb1","PP_Fuerte_27","Ocotea albida","Lauraceae","Ocotea","PP_Fuerte_27_Ocotea albida","PP_Fuerte_27","Ocotea albida",8
+"PP_Fuerte_27_Aiouea montana","MDP0530","MDP0530.mzXML","aiomon","PP_Fuerte_27","Aiouea montana","Lauraceae","Aiouea","PP_Fuerte_27_Aiouea montana","PP_Fuerte_27","Aiouea montana",2
+"PP_Fuerte_27_Ruagea glabra","MDP0590","MDP0590.mzXML","ruagla","PP_Fuerte_27","Ruagea glabra","Meliaceae","Ruagea","PP_Fuerte_27_Ruagea glabra","PP_Fuerte_27","Ruagea glabra",0
+"PP_Kañupa_44_Nordenstamia repanda","MDP0197","MDP0197.mzXML","norrep","PP_Kañupa_44","Nordenstamia repanda","Asteraceae","Nordenstamia","PP_Kañupa_44_Nordenstamia repanda",NA,NA,NA
+"PP_Kañupa_44_Symplocos fimbriata","MDP0201","MDP0201.mzXML","sym2fim","PP_Kañupa_44","Symplocos fimbriata","Symplocaceae","Symplocos","PP_Kañupa_44_Symplocos fimbriata",NA,NA,NA
+"PP_Kañupa_44_Clethra ferruginea","MDP0191","MDP0191.mzXML","cle3fer","PP_Kañupa_44","Clethra ferruginea","Clethraceae","Clethra","PP_Kañupa_44_Clethra ferruginea",NA,NA,NA
+"PP_Kañupa_44_Persea LSC-27","MDP0199","MDP0199.mzXML","per6LSC27","PP_Kañupa_44","Persea LSC-27","Lauraceae","Persea","PP_Kañupa_44_Persea LSC-27",NA,NA,NA
+"PP_Kañupa_44_Weinmannia fagaroides","MDP0202","MDP0202.mzXML","weifag","PP_Kañupa_44","Weinmannia fagaroides","Cunoniaceae","Weinmannia","PP_Kañupa_44_Weinmannia fagaroides",NA,NA,NA
+"PP_Kañupa_44_Myrsine dependens","MDP0196","MDP0196.mzXML","myr8dep","PP_Kañupa_44","Myrsine dependens","Primulaceae","Myrsine","PP_Kañupa_44_Myrsine dependens",NA,NA,NA
+"PP_Kañupa_44_Hesperomeles ferruginea","MDP0193","MDP0193.mzXML","hesfer","PP_Kañupa_44","Hesperomeles ferruginea","Rosaceae","Hesperomeles","PP_Kañupa_44_Hesperomeles ferruginea",NA,NA,NA
+"PP_Kañupa_44_Prunus brittoniana","MDP0200","MDP0200.mzXML","pru2bri","PP_Kañupa_44","Prunus brittoniana","Rosaceae","Prunus","PP_Kañupa_44_Prunus brittoniana",NA,NA,NA
+"PP_Kañupa_44_Miconia mandonii","MDP0194","MDP0194.mzXML","mic1man","PP_Kañupa_44","Miconia mandonii","Melastomataceae","Miconia","PP_Kañupa_44_Miconia mandonii",NA,NA,NA
+"PP_Kañupa_44_Miconia theaezans","MDP0195","MDP0195.mzXML","mic1the","PP_Kañupa_44","Miconia theaezans","Melastomataceae","Miconia","PP_Kañupa_44_Miconia theaezans",NA,NA,NA
+"PP_Kañupa_44_Pentacalia herzogii","MDP0198","MDP0198.mzXML","pen1her","PP_Kañupa_44","Pentacalia herzogii","Asteraceae","Pentacalia","PP_Kañupa_44_Pentacalia herzogii",NA,NA,NA
+"PP_Kañupa_44_Gynoxys mandonii","MDP0192","MDP0192.mzXML","gynman","PP_Kañupa_44","Gynoxys mandonii","Asteraceae","Gynoxys","PP_Kañupa_44_Gynoxys mandonii",NA,NA,NA
+"PP_Lomaka_40_Miconia AF-7149","MDP0352","MDP0352.mzXML","mic1AF7149","PP_Lomaka_40","Miconia AF-7149","Melastomataceae","Miconia","PP_Lomaka_40_Miconia AF-7149",NA,NA,NA
+"PP_Lomaka_40_Hieronyma GAT-658","MDP0332","MDP0332.mzXML","hieGAT658","PP_Lomaka_40","Hieronyma GAT-658","Phyllanthaceae","Hieronyma","PP_Lomaka_40_Hieronyma GAT-658",NA,NA,NA
+"PP_Lomaka_40_Guapira opposita","MDP0325","MDP0325.mzXML","gua2opp","PP_Lomaka_40","Guapira opposita","Nyctaginaceae","Guapira","PP_Lomaka_40_Guapira opposita","PP_Lomaka_40","Guapira opposita",5
+"PP_Lomaka_40_Helicostylis tomentosa","MDP0330","MDP0330.mzXML","hel2tom","PP_Lomaka_40","Helicostylis tomentosa","Moraceae","Helicostylis","PP_Lomaka_40_Helicostylis tomentosa","PP_Lomaka_40","Helicostylis tomentosa",3
+"PP_Lomaka_40_Miconia chrysophylla","MDP0355","MDP0355.mzXML","mic1chr","PP_Lomaka_40","Miconia chrysophylla","Melastomataceae","Miconia","PP_Lomaka_40_Miconia chrysophylla","PP_Lomaka_40","Miconia chrysophylla",7
+"PP_Lomaka_40_Inga cylindrica","MDP0338","MDP0338.mzXML","ingcyl","PP_Lomaka_40","Inga cylindrica","Fabaceae","Inga","PP_Lomaka_40_Inga cylindrica","PP_Lomaka_40","Inga cylindrica",10
+"PP_Lomaka_40_Cupania CMG-2731","MDP0315","MDP0315.mzXML","cupCMG2731","PP_Lomaka_40","Cupania CMG-2731","Sapindaceae","Cupania","PP_Lomaka_40_Cupania CMG-2731",NA,NA,NA
+"PP_Lomaka_40_Hirtella triandra","MDP0334","MDP0334.mzXML","hir2tri","PP_Lomaka_40","Hirtella triandra","Chrysobalanaceae","Hirtella","PP_Lomaka_40_Hirtella triandra","PP_Lomaka_40","Hirtella triandra",5
+"PP_Lomaka_40_Inga edulis","MDP0339","MDP0339.mzXML","ingedu","PP_Lomaka_40","Inga edulis","Fabaceae","Inga","PP_Lomaka_40_Inga edulis","PP_Lomaka_40","Inga edulis",1
+"PP_Lomaka_40_Pouteria durlandii","MDP0380","MDP0380.mzXML","pou3dur","PP_Lomaka_40","Pouteria durlandii","Sapotaceae","Pouteria","PP_Lomaka_40_Pouteria durlandii","PP_Lomaka_40","Pouteria durlandii",1
+"PP_Lomaka_40_Dendropanax williamsii","MDP0317","MDP0317.mzXML","den2wil","PP_Lomaka_40","Dendropanax williamsii","Araliaceae","Dendropanax","PP_Lomaka_40_Dendropanax williamsii","PP_Lomaka_40","Dendropanax williamsii",2
+"PP_Lomaka_40_Miconia amnicola","MDP0353","MDP0353.mzXML","mic1amn","PP_Lomaka_40","Miconia amnicola","Melastomataceae","Miconia","PP_Lomaka_40_Miconia amnicola","PP_Lomaka_40","Miconia amnicola",3
+"PP_Lomaka_40_Pouteria caimito","MDP0379","MDP0379.mzXML","pou3cai","PP_Lomaka_40","Pouteria caimito","Sapotaceae","Pouteria","PP_Lomaka_40_Pouteria caimito","PP_Lomaka_40","Pouteria caimito",9
+"PP_Lomaka_40_Guatteria sanctae-crucis","MDP0328","MDP0328.mzXML","gua4san","PP_Lomaka_40","Guatteria sanctae-crucis","Annonaceae","Guatteria","PP_Lomaka_40_Guatteria sanctae-crucis","PP_Lomaka_40","Guatteria sanctae-crucis",1
+"PP_Lomaka_40_Inga multinervis","MDP0340","MDP0340.mzXML","ingmul","PP_Lomaka_40","Inga multinervis","Fabaceae","Inga","PP_Lomaka_40_Inga multinervis","PP_Lomaka_40","Inga multinervis",1
+"PP_Lomaka_40_Bathysa australis","MDP0309","MDP0309.mzXML","bat1aus","PP_Lomaka_40","Bathysa australis","Rubiaceae","Bathysa","PP_Lomaka_40_Bathysa australis","PP_Lomaka_40","Bathysa australis",1
+"PP_Lomaka_40_Schizocalyx obovatus","MDP0394","MDP0394.mzXML","sch4obo","PP_Lomaka_40","Schizocalyx obovatus","Rubiaceae","Schizocalyx","PP_Lomaka_40_Schizocalyx obovatus","PP_Lomaka_40","Schizocalyx obovatus",23
+"PP_Lomaka_40_Mouriri LC-4151A","MDP0359","MDP0359.mzXML","mou1LC4151A","PP_Lomaka_40","Mouriri LC-4151A","Melastomataceae","Mouriri","PP_Lomaka_40_Mouriri LC-4151A",NA,NA,NA
+"PP_Lomaka_40_Matayba macrostylis","MDP0349","MDP0349.mzXML","mat1mac","PP_Lomaka_40","Matayba macrostylis","Sapindaceae","Matayba","PP_Lomaka_40_Matayba macrostylis","PP_Lomaka_40","Matayba macrostylis",5
+"PP_Lomaka_40_Eugenia LC-6319","MDP0321","MDP0321.mzXML","eugLC6319","PP_Lomaka_40","Eugenia LC-6319","Myrtaceae","Eugenia","PP_Lomaka_40_Eugenia LC-6319",NA,NA,NA
+"PP_Lomaka_40_Inga alba","MDP0336","MDP0336.mzXML","ingalb","PP_Lomaka_40","Inga alba","Fabaceae","Inga","PP_Lomaka_40_Inga alba","PP_Lomaka_40","Inga alba",3
+"PP_Lomaka_40_Hevea guianensis","MDP0331","MDP0331.mzXML","hevgui","PP_Lomaka_40","Hevea guianensis","Euphorbiaceae","Hevea","PP_Lomaka_40_Hevea guianensis","PP_Lomaka_40","Hevea guianensis",56
+"PP_Lomaka_40_Dacryodes sudyungasensis","MDP0316","MDP0316.mzXML","dacsud","PP_Lomaka_40","Dacryodes sudyungasensis","Burseraceae","Dacryodes","PP_Lomaka_40_Dacryodes sudyungasensis","PP_Lomaka_40","Dacryodes sudyungasensis",4
+"PP_Lomaka_40_Miconia aureoides","MDP0354","MDP0354.mzXML","mic1aur","PP_Lomaka_40","Miconia aureoides","Melastomataceae","Miconia","PP_Lomaka_40_Miconia aureoides","PP_Lomaka_40","Miconia aureoides",2
+"PP_Lomaka_40_Miconia dolichorrhyncha","MDP0357","MDP0357.mzXML","mic1dol","PP_Lomaka_40","Miconia dolichorrhyncha","Melastomataceae","Miconia","PP_Lomaka_40_Miconia dolichorrhyncha","PP_Lomaka_40","Miconia dolichorrhyncha",3
+"PP_Lomaka_40_Mabea macbridei","MDP0346","MDP0346.mzXML","mabmac","PP_Lomaka_40","Mabea macbridei","Euphorbiaceae","Mabea","PP_Lomaka_40_Mabea macbridei","PP_Lomaka_40","Mabea macbridei",54
+"PP_Lomaka_40_Miconia AEC-285","MDP0350","MDP0350.mzXML","mic1AEC285","PP_Lomaka_40","Miconia AEC-285","Melastomataceae","Miconia","PP_Lomaka_40_Miconia AEC-285",NA,NA,NA
+"PP_Lomaka_40_Eschweilera coriacea","MDP0319","MDP0319.mzXML","esc2cor","PP_Lomaka_40","Eschweilera coriacea","Lecythidaceae","Eschweilera","PP_Lomaka_40_Eschweilera coriacea","PP_Lomaka_40","Eschweilera coriacea",7
+"PP_Lomaka_40_Rhodostemonodaphne longiflora","MDP0392","MDP0392.mzXML","rholon","PP_Lomaka_40","Rhodostemonodaphne longiflora","Lauraceae","Rhodostemonodaphne","PP_Lomaka_40_Rhodostemonodaphne longiflora","PP_Lomaka_40","Rhodostemonodaphne longiflora",0
+"PP_Lomaka_40_Aniba AEC-243","MDP0305","MDP0305.mzXML","aniAEC243","PP_Lomaka_40","Aniba AEC-243","Lauraceae","Aniba","PP_Lomaka_40_Aniba AEC-243",NA,NA,NA
+"PP_Lomaka_40_Protium AF-4603","MDP0384","MDP0384.mzXML","pro2AF4603","PP_Lomaka_40","Protium AF-4603","Burseraceae","Protium","PP_Lomaka_40_Protium AF-4603",NA,NA,NA
+"PP_Lomaka_40_Joosia sericea","MDP0342","MDP0342.mzXML","jooser","PP_Lomaka_40","Joosia sericea","Rubiaceae","Joosia","PP_Lomaka_40_Joosia sericea","PP_Lomaka_40","Joosia sericea",3
+"PP_Lomaka_40_Protium AEC-227","MDP0383","MDP0383.mzXML","pro2AEC227","PP_Lomaka_40","Protium AEC-227","Burseraceae","Protium","PP_Lomaka_40_Protium AEC-227",NA,NA,NA
+"PP_Lomaka_40_Pleurothyrium trianae","MDP0374","MDP0374.mzXML","ple3tri","PP_Lomaka_40","Pleurothyrium trianae","Lauraceae","Pleurothyrium","PP_Lomaka_40_Pleurothyrium trianae","PP_Lomaka_40","Pleurothyrium trianae",15
+"PP_Lomaka_40_Miconia AF-17127","MDP0351","MDP0351.mzXML","mic1AF17127","PP_Lomaka_40","Miconia AF-17127","Melastomataceae","Miconia","PP_Lomaka_40_Miconia AF-17127",NA,NA,NA
+"PP_Lomaka_40_Perebea guianensis","MDP0373","MDP0373.mzXML","per2gui","PP_Lomaka_40","Perebea guianensis","Moraceae","Perebea","PP_Lomaka_40_Perebea guianensis","PP_Lomaka_40","Perebea guianensis",26
+"PP_Lomaka_40_Guarea kunthiana","MDP0326","MDP0326.mzXML","gua3kun","PP_Lomaka_40","Guarea kunthiana","Meliaceae","Guarea","PP_Lomaka_40_Guarea kunthiana","PP_Lomaka_40","Guarea kunthiana",1
+"PP_Lomaka_40_Protium montanum","MDP0385","MDP0385.mzXML","pro2mon","PP_Lomaka_40","Protium montanum","Burseraceae","Protium","PP_Lomaka_40_Protium montanum","PP_Lomaka_40","Protium montanum",4
+"PP_Lomaka_40_Parkia nitida","MDP0372","MDP0372.mzXML","par5nit","PP_Lomaka_40","Parkia nitida","Fabaceae","Parkia","PP_Lomaka_40_Parkia nitida","PP_Lomaka_40","Parkia nitida",3
+"PP_Lomaka_40_Tapirira guianensis","MDP0406","MDP0406.mzXML","tap1gui","PP_Lomaka_40","Tapirira guianensis","Anacardiaceae","Tapirira","PP_Lomaka_40_Tapirira guianensis","PP_Lomaka_40","Tapirira guianensis",28
+"PP_Lomaka_40_Palicourea conephoroides","MDP0370","MDP0370.mzXML","palcon","PP_Lomaka_40","Palicourea conephoroides","Rubiaceae","Palicourea","PP_Lomaka_40_Palicourea conephoroides","PP_Lomaka_40","Palicourea conephoroides",5
+"PP_Lomaka_40_Ixora LC-6464","MDP0341","MDP0341.mzXML","ixoLC6464","PP_Lomaka_40","Ixora LC-6464","Rubiaceae","Ixora","PP_Lomaka_40_Ixora LC-6464",NA,NA,NA
+"PP_Lomaka_40_Myrcia fallax","MDP0360","MDP0360.mzXML","myr2fal","PP_Lomaka_40","Myrcia fallax","Myrtaceae","Myrcia","PP_Lomaka_40_Myrcia fallax","PP_Lomaka_40","Myrcia fallax",11
+"PP_Lomaka_40_Brosimum guianense","MDP0310","MDP0310.mzXML","bro2gui","PP_Lomaka_40","Brosimum guianense","Moraceae","Brosimum","PP_Lomaka_40_Brosimum guianense","PP_Lomaka_40","Brosimum guianense",3
+"PP_Lomaka_40_Pourouma bicolor","MDP0375","MDP0375.mzXML","pou2bic","PP_Lomaka_40","Pourouma bicolor","Urticaceae","Pourouma","PP_Lomaka_40_Pourouma bicolor","PP_Lomaka_40","Pourouma bicolor",2
+"PP_Lomaka_40_Tachigali alba","MDP0405","MDP0405.mzXML","tac2alb","PP_Lomaka_40","Tachigali alba","Fabaceae","Tachigali","PP_Lomaka_40_Tachigali alba","PP_Lomaka_40","Tachigali alba",1
+"PP_Lomaka_40_Pouteria bilocularis","MDP0378","MDP0378.mzXML","pou3bil","PP_Lomaka_40","Pouteria bilocularis","Sapotaceae","Pouteria","PP_Lomaka_40_Pouteria bilocularis","PP_Lomaka_40","Pouteria bilocularis",1
+"PP_Lomaka_40_Ocotea ALM-63","MDP0367","MDP0367.mzXML","ocoALM63","PP_Lomaka_40","Ocotea ALM-63","Lauraceae","Ocotea","PP_Lomaka_40_Ocotea ALM-63",NA,NA,NA
+"PP_Lomaka_40_Stryphnodendron guianense","MDP0403","MDP0403.mzXML","str3gui","PP_Lomaka_40","Stryphnodendron guianense","Fabaceae","Stryphnodendron","PP_Lomaka_40_Stryphnodendron guianense","PP_Lomaka_40","Stryphnodendron guianense",4
+"PP_Lomaka_40_Terminalia tetraphylla","MDP0407","MDP0407.mzXML","ter1tet","PP_Lomaka_40","Terminalia tetraphylla","Combretaceae","Terminalia","PP_Lomaka_40_Terminalia tetraphylla","PP_Lomaka_40","Terminalia tetraphylla",2
+"PP_Lomaka_40_Psychotria AEC-305","MDP0390","MDP0390.mzXML","psy2AEC305","PP_Lomaka_40","Psychotria AEC-305","Rubiaceae","Psychotria","PP_Lomaka_40_Psychotria AEC-305",NA,NA,NA
+"PP_Lomaka_40_Pseudolmedia laevigata","MDP0387","MDP0387.mzXML","pse2lae1","PP_Lomaka_40","Pseudolmedia laevigata","Moraceae","Pseudolmedia","PP_Lomaka_40_Pseudolmedia laevigata","PP_Lomaka_40","Pseudolmedia laevigata",5
+"PP_Lomaka_40_Miconia CMG-2345","MDP0356","MDP0356.mzXML","mic1CMG2345","PP_Lomaka_40","Miconia CMG-2345","Melastomataceae","Miconia","PP_Lomaka_40_Miconia CMG-2345",NA,NA,NA
+"PP_Lomaka_40_Pouteria torta","MDP0382","MDP0382.mzXML","pou3tor","PP_Lomaka_40","Pouteria torta","Sapotaceae","Pouteria","PP_Lomaka_40_Pouteria torta","PP_Lomaka_40","Pouteria torta",4
+"PP_Lomaka_40_Myrcia sintenisii","MDP0361","MDP0361.mzXML","myr2sin","PP_Lomaka_40","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Lomaka_40_Myrcia sintenisii","PP_Lomaka_40","Myrcia sintenisii",4
+"PP_Lomaka_40_Casearia arborea","MDP0314","MDP0314.mzXML","casarb","PP_Lomaka_40","Casearia arborea","Salicaceae","Casearia","PP_Lomaka_40_Casearia arborea","PP_Lomaka_40","Casearia arborea",0
+"PP_Lomaka_40_Garcinia macrophylla","MDP0323","MDP0323.mzXML","garmac","PP_Lomaka_40","Garcinia macrophylla","Clusiaceae","Garcinia","PP_Lomaka_40_Garcinia macrophylla","PP_Lomaka_40","Garcinia macrophylla",7
+"PP_Lomaka_40_Neea LC-2607","MDP0364","MDP0364.mzXML","neeLC2607","PP_Lomaka_40","Neea LC-2607","Nyctaginaceae","Neea","PP_Lomaka_40_Neea LC-2607",NA,NA,NA
+"PP_Lomaka_40_Alchornea glandulosa","MDP0304","MDP0304.mzXML","alcgla","PP_Lomaka_40","Alchornea glandulosa","Euphorbiaceae","Alchornea","PP_Lomaka_40_Alchornea glandulosa","PP_Lomaka_40","Alchornea glandulosa",15
+"PP_Lomaka_40_Pseudolmedia macrophylla","MDP0389","MDP0389.mzXML","pse2mac","PP_Lomaka_40","Pseudolmedia macrophylla","Moraceae","Pseudolmedia","PP_Lomaka_40_Pseudolmedia macrophylla","PP_Lomaka_40","Pseudolmedia macrophylla",8
+"PP_Lomaka_40_Virola AEC-312","MDP0410","MDP0410.mzXML","virAEC312","PP_Lomaka_40","Virola AEC-312","Myristicaceae","Virola","PP_Lomaka_40_Virola AEC-312",NA,NA,NA
+"PP_Lomaka_40_Guarea macrophylla","MDP0327","MDP0327.mzXML","gua3mac","PP_Lomaka_40","Guarea macrophylla","Meliaceae","Guarea","PP_Lomaka_40_Guarea macrophylla","PP_Lomaka_40","Guarea macrophylla",1
+"PP_Lomaka_40_Hieronyma NA-445","MDP0333","MDP0333.mzXML","hieNA445","PP_Lomaka_40","Hieronyma NA-445","Phyllanthaceae","Hieronyma","PP_Lomaka_40_Hieronyma NA-445",NA,NA,NA
+"PP_Lomaka_40_Licania micrantha","MDP0345","MDP0345.mzXML","lic1mic","PP_Lomaka_40","Licania micrantha","Chrysobalanaceae","Licania","PP_Lomaka_40_Licania micrantha","PP_Lomaka_40","Licania micrantha",5
+"PP_Lomaka_40_Sloanea tuerckheimii","MDP0401","MDP0401.mzXML","slotue","PP_Lomaka_40","Sloanea tuerckheimii","Elaeocarpaceae","Sloanea","PP_Lomaka_40_Sloanea tuerckheimii","PP_Lomaka_40","Sloanea tuerckheimii",11
+"PP_Lomaka_40_Pseudolmedia laevis","MDP0388","MDP0388.mzXML","pse2lae2","PP_Lomaka_40","Pseudolmedia laevis","Moraceae","Pseudolmedia","PP_Lomaka_40_Pseudolmedia laevis","PP_Lomaka_40","Pseudolmedia laevis",1
+"PP_Lomaka_40_Licania boliviensis","MDP0344","MDP0344.mzXML","lic1bol","PP_Lomaka_40","Licania boliviensis","Chrysobalanaceae","Licania","PP_Lomaka_40_Licania boliviensis","PP_Lomaka_40","Licania boliviensis",6
+"PP_Lomaka_40_Pouteria LC-6325","MDP0381","MDP0381.mzXML","pou3LC6325","PP_Lomaka_40","Pouteria LC-6325","Sapotaceae","Pouteria","PP_Lomaka_40_Pouteria LC-6325",NA,NA,NA
+"PP_Lomaka_40_Faramea LC-6412","MDP0322","MDP0322.mzXML","farLC6412","PP_Lomaka_40","Faramea LC-6412","Rubiaceae","Faramea","PP_Lomaka_40_Faramea LC-6412",NA,NA,NA
+"PP_Lomaka_40_Aspidosperma rigidum","MDP0308","MDP0308.mzXML","asp1rig","PP_Lomaka_40","Aspidosperma rigidum","Apocynaceae","Aspidosperma","PP_Lomaka_40_Aspidosperma rigidum","PP_Lomaka_40","Aspidosperma rigidum",11
+"PP_Lomaka_40_Mollinedia ovata","MDP0358","MDP0358.mzXML","molova","PP_Lomaka_40","Mollinedia ovata","Monimiaceae","Mollinedia","PP_Lomaka_40_Mollinedia ovata","PP_Lomaka_40","Mollinedia ovata",5
+"PP_Lomaka_40_Byrsonima arthropoda","MDP0312","MDP0312.mzXML","byrart","PP_Lomaka_40","Byrsonima arthropoda","Malpighiaceae","Byrsonima","PP_Lomaka_40_Byrsonima arthropoda","PP_Lomaka_40","Byrsonima arthropoda",1
+"PP_Lomaka_40_Sloanea pubescens","MDP0400","MDP0400.mzXML","slopub","PP_Lomaka_40","Sloanea pubescens","Elaeocarpaceae","Sloanea","PP_Lomaka_40_Sloanea pubescens","PP_Lomaka_40","Sloanea pubescens",8
+"PP_Lomaka_40_Calophyllum brasiliense","MDP0313","MDP0313.mzXML","cal5bra","PP_Lomaka_40","Calophyllum brasiliense","Calophyllaceae","Calophyllum","PP_Lomaka_40_Calophyllum brasiliense","PP_Lomaka_40","Calophyllum brasiliense",1
+"PP_Lomaka_40_Ocotea LC-6389","MDP0368","MDP0368.mzXML","ocoLC6389","PP_Lomaka_40","Ocotea LC-6389","Lauraceae","Ocotea","PP_Lomaka_40_Ocotea LC-6389",NA,NA,NA
+"PP_Lomaka_40_Ladenbergia oblongifolia","MDP0343","MDP0343.mzXML","ladobl","PP_Lomaka_40","Ladenbergia oblongifolia","Rubiaceae","Ladenbergia","PP_Lomaka_40_Ladenbergia oblongifolia","PP_Lomaka_40","Ladenbergia oblongifolia",0
+"PP_Lomaka_40_Eugenia LC-6317","MDP0320","MDP0320.mzXML","eugLC6317","PP_Lomaka_40","Eugenia LC-6317","Myrtaceae","Eugenia","PP_Lomaka_40_Eugenia LC-6317",NA,NA,NA
+"PP_Lomaka_40_Ocotea AEC-335","MDP0366","MDP0366.mzXML","ocoAEC335","PP_Lomaka_40","Ocotea AEC-335","Lauraceae","Ocotea","PP_Lomaka_40_Ocotea AEC-335",NA,NA,NA
+"PP_Lomaka_40_Geissanthus ambigua","MDP0324","MDP0324.mzXML","geiamb","PP_Lomaka_40","Geissanthus ambigua","Primulaceae","Geissanthus","PP_Lomaka_40_Geissanthus ambigua","PP_Lomaka_40","Geissanthus ambigua",1
+"PP_Lomaka_40_Buchenavia oxycarpa","MDP0311","MDP0311.mzXML","bucoxy","PP_Lomaka_40","Buchenavia oxycarpa","Combretaceae","Buchenavia","PP_Lomaka_40_Buchenavia oxycarpa","PP_Lomaka_40","Buchenavia oxycarpa",2
+"PP_Lomaka_40_Magnolia madidiensis","MDP0347","MDP0347.mzXML","mag1mad","PP_Lomaka_40","Magnolia madidiensis","Magnoliaceae","Magnolia","PP_Lomaka_40_Magnolia madidiensis","PP_Lomaka_40","Magnolia madidiensis",1
+"PP_Lomaka_40_Simarouba amara","MDP0395","MDP0395.mzXML","sim1ama","PP_Lomaka_40","Simarouba amara","Simaroubaceae","Simarouba","PP_Lomaka_40_Simarouba amara","PP_Lomaka_40","Simarouba amara",4
+"PP_Lomaka_40_Roucheria laxiflora","MDP0393","MDP0393.mzXML","rou1lax","PP_Lomaka_40","Roucheria laxiflora","Linaceae","Roucheria","PP_Lomaka_40_Roucheria laxiflora","PP_Lomaka_40","Roucheria laxiflora",4
+"PP_Lomaka_40_Sloanea grandiflora","MDP0399","MDP0399.mzXML","slogra","PP_Lomaka_40","Sloanea grandiflora","Elaeocarpaceae","Sloanea","PP_Lomaka_40_Sloanea grandiflora","PP_Lomaka_40","Sloanea grandiflora",19
+"PP_Lomaka_40_Aniba guianensis","MDP0306","MDP0306.mzXML","anigui","PP_Lomaka_40","Aniba guianensis","Lauraceae","Aniba","PP_Lomaka_40_Aniba guianensis","PP_Lomaka_40","Aniba guianensis",1
+"PP_Lomaka_40_Endlicheria szyszylowiczii","MDP0318","MDP0318.mzXML","endszy","PP_Lomaka_40","Endlicheria szyszylowiczii","Lauraceae","Endlicheria","PP_Lomaka_40_Endlicheria szyszylowiczii","PP_Lomaka_40","Endlicheria szyszylowiczii",3
+"PP_Lomaka_40_Siparuna bifida","MDP0396","MDP0396.mzXML","sip1bif","PP_Lomaka_40","Siparuna bifida","Siparunaceae","Siparuna","PP_Lomaka_40_Siparuna bifida","PP_Lomaka_40","Siparuna bifida",7
+"PP_Lomaka_40_Nectandra JCS-9565","MDP0362","MDP0362.mzXML","necJCS9565","PP_Lomaka_40","Nectandra JCS-9565","Lauraceae","Nectandra","PP_Lomaka_40_Nectandra JCS-9565",NA,NA,NA
+"PP_Lomaka_40_Inga capitata","MDP0337","MDP0337.mzXML","ingcap","PP_Lomaka_40","Inga capitata","Fabaceae","Inga","PP_Lomaka_40_Inga capitata","PP_Lomaka_40","Inga capitata",1
+"PP_Lomaka_40_Heisteria nitida","MDP0329","MDP0329.mzXML","heinit","PP_Lomaka_40","Heisteria nitida","Olacaceae","Heisteria","PP_Lomaka_40_Heisteria nitida","PP_Lomaka_40","Heisteria nitida",1
+"PP_Lomaka_40_Siparuna guianensis","MDP0397","MDP0397.mzXML","sip1gui","PP_Lomaka_40","Siparuna guianensis","Siparunaceae","Siparuna","PP_Lomaka_40_Siparuna guianensis","PP_Lomaka_40","Siparuna guianensis",1
+"PP_Lomaka_40_Unonopsis floribunda","MDP0409","MDP0409.mzXML","unoflo","PP_Lomaka_40","Unonopsis floribunda","Annonaceae","Unonopsis","PP_Lomaka_40_Unonopsis floribunda","PP_Lomaka_40","Unonopsis floribunda",1
+"PP_Lomaka_40_Pouteria AEC-357","MDP0376","MDP0376.mzXML","pou3AEC357","PP_Lomaka_40","Pouteria AEC-357","Sapotaceae","Pouteria","PP_Lomaka_40_Pouteria AEC-357",NA,NA,NA
+"PP_Lomaka_40_Tovomita micrantha","MDP0408","MDP0408.mzXML","tovmic","PP_Lomaka_40","Tovomita micrantha","Clusiaceae","Tovomita","PP_Lomaka_40_Tovomita micrantha","PP_Lomaka_40","Tovomita micrantha",3
+"PP_Lomaka_40_Vochysia kosnipatae","MDP0412","MDP0412.mzXML","vockos","PP_Lomaka_40","Vochysia kosnipatae","Vochysiaceae","Vochysia","PP_Lomaka_40_Vochysia kosnipatae","PP_Lomaka_40","Vochysia kosnipatae",10
+"PP_Lomaka_40_Neea AF-11752","MDP0363","MDP0363.mzXML","neeAF11752","PP_Lomaka_40","Neea AF-11752","Nyctaginaceae","Neea","PP_Lomaka_40_Neea AF-11752",NA,NA,NA
+"PP_Lomaka_40_Sloanea fendleriana","MDP0398","MDP0398.mzXML","slofen","PP_Lomaka_40","Sloanea fendleriana","Elaeocarpaceae","Sloanea","PP_Lomaka_40_Sloanea fendleriana","PP_Lomaka_40","Sloanea fendleriana",4
+"PP_Lomaka_40_Solanum aphyodendron","MDP0402","MDP0402.mzXML","solaph","PP_Lomaka_40","Solanum aphyodendron","Solanaceae","Solanum","PP_Lomaka_40_Solanum aphyodendron","PP_Lomaka_40","Solanum aphyodendron",1
+"PP_Lomaka_40_Ilex petiolaris","MDP0335","MDP0335.mzXML","ilepet","PP_Lomaka_40","Ilex petiolaris","Aquifoliaceae","Ilex","PP_Lomaka_40_Ilex petiolaris","PP_Lomaka_40","Ilex petiolaris",0
+"PP_Lomaka_40_Ocotea aciphylla","MDP0365","MDP0365.mzXML","ocoaci","PP_Lomaka_40","Ocotea aciphylla","Lauraceae","Ocotea","PP_Lomaka_40_Ocotea aciphylla","PP_Lomaka_40","Ocotea aciphylla",4
+"PP_Lomaka_40_Virola peruviana","MDP0411","MDP0411.mzXML","virper","PP_Lomaka_40","Virola peruviana","Myristicaceae","Virola","PP_Lomaka_40_Virola peruviana","PP_Lomaka_40","Virola peruviana",8
+"PP_Lomaka_40_Marila laxiflora","MDP0348","MDP0348.mzXML","mar5lax","PP_Lomaka_40","Marila laxiflora","Calophyllaceae","Marila","PP_Lomaka_40_Marila laxiflora","PP_Lomaka_40","Marila laxiflora",1
+"PP_Lomaka_40_Palicourea tinctoria","MDP0371","MDP0371.mzXML","paltin","PP_Lomaka_40","Palicourea tinctoria","Rubiaceae","Palicourea","PP_Lomaka_40_Palicourea tinctoria","PP_Lomaka_40","Palicourea tinctoria",1
+"PP_Lomaka_40_Pouteria baehniana","MDP0377","MDP0377.mzXML","pou3bae","PP_Lomaka_40","Pouteria baehniana","Sapotaceae","Pouteria","PP_Lomaka_40_Pouteria baehniana","PP_Lomaka_40","Pouteria baehniana",6
+"PP_Lomaka_40_Annona RSS-85","MDP0307","MDP0307.mzXML","annRSS85","PP_Lomaka_40","Annona RSS-85","Annonaceae","Annona","PP_Lomaka_40_Annona RSS-85",NA,NA,NA
+"PP_Lomaka_40_Prunus amplifolia","MDP0386","MDP0386.mzXML","pru2amp","PP_Lomaka_40","Prunus amplifolia","Rosaceae","Prunus","PP_Lomaka_40_Prunus amplifolia","PP_Lomaka_40","Prunus amplifolia",3
+"PP_Lomaka_40_Rauvolfia leptophylla","MDP0391","MDP0391.mzXML","rau2lep","PP_Lomaka_40","Rauvolfia leptophylla","Apocynaceae","Rauvolfia","PP_Lomaka_40_Rauvolfia leptophylla","PP_Lomaka_40","Rauvolfia leptophylla",5
+"PP_Lomaka_40_Symphonia globulifera","MDP0404","MDP0404.mzXML","sym1glo","PP_Lomaka_40","Symphonia globulifera","Clusiaceae","Symphonia","PP_Lomaka_40_Symphonia globulifera","PP_Lomaka_40","Symphonia globulifera",48
+"PP_Lomaka_40_Ocotea puberula","MDP0369","MDP0369.mzXML","ocopub","PP_Lomaka_40","Ocotea puberula","Lauraceae","Ocotea","PP_Lomaka_40_Ocotea puberula","PP_Lomaka_40","Ocotea puberula",5
+"PP_Lomasa_39_Eschweilera coriacea","MDP0723","MDP0723.mzXML","esc2cor","PP_Lomasa_39","Eschweilera coriacea","Lecythidaceae","Eschweilera","PP_Lomasa_39_Eschweilera coriacea","PP_Lomasa_39","Eschweilera coriacea",2
+"PP_Lomasa_39_Preslianthus pittieri","MDP0768","MDP0768.mzXML","pre1pit","PP_Lomasa_39","Preslianthus pittieri","Capparaceae","Preslianthus","PP_Lomasa_39_Preslianthus pittieri","PP_Lomasa_39","Preslianthus pittieri",1
+"PP_Lomasa_39_Schizocalyx obovatus","MDP0772","MDP0772.mzXML","sch4obo","PP_Lomasa_39","Schizocalyx obovatus","Rubiaceae","Schizocalyx","PP_Lomasa_39_Schizocalyx obovatus","PP_Lomasa_39","Schizocalyx obovatus",2
+"PP_Lomasa_39_Inga alba","MDP0735","MDP0735.mzXML","ingalb","PP_Lomasa_39","Inga alba","Fabaceae","Inga","PP_Lomasa_39_Inga alba","PP_Lomasa_39","Inga alba",4
+"PP_Lomasa_39_Myrcia sintenisii","MDP0749","MDP0749.mzXML","myr2sin","PP_Lomasa_39","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Lomasa_39_Myrcia sintenisii","PP_Lomasa_39","Myrcia sintenisii",3
+"PP_Lomasa_39_Miconia dolichorrhyncha","MDP0744","MDP0744.mzXML","mic1dol","PP_Lomasa_39","Miconia dolichorrhyncha","Melastomataceae","Miconia","PP_Lomasa_39_Miconia dolichorrhyncha","PP_Lomasa_39","Miconia dolichorrhyncha",20
+"PP_Lomasa_39_Hirtella LC-6215","MDP0732","MDP0732.mzXML","hir2LC6215","PP_Lomasa_39","Hirtella LC-6215","Chrysobalanaceae","Hirtella","PP_Lomasa_39_Hirtella LC-6215",NA,NA,NA
+"PP_Lomasa_39_Helicostylis tomentosa","MDP0729","MDP0729.mzXML","hel2tom","PP_Lomasa_39","Helicostylis tomentosa","Moraceae","Helicostylis","PP_Lomasa_39_Helicostylis tomentosa","PP_Lomasa_39","Helicostylis tomentosa",25
+"PP_Lomasa_39_Byrsonima arthropoda","MDP0709","MDP0709.mzXML","byrart","PP_Lomasa_39","Byrsonima arthropoda","Malpighiaceae","Byrsonima","PP_Lomasa_39_Byrsonima arthropoda","PP_Lomasa_39","Byrsonima arthropoda",0
+"PP_Lomasa_39_Dacryodes sudyungasensis","MDP0716","MDP0716.mzXML","dacsud","PP_Lomasa_39","Dacryodes sudyungasensis","Burseraceae","Dacryodes","PP_Lomasa_39_Dacryodes sudyungasensis","PP_Lomasa_39","Dacryodes sudyungasensis",2
+"PP_Lomasa_39_Podocarpus celatus","MDP0763","MDP0763.mzXML","podcel","PP_Lomasa_39","Podocarpus celatus","Podocarpaceae","Podocarpus","PP_Lomasa_39_Podocarpus celatus","PP_Lomasa_39","Podocarpus celatus",2
+"PP_Lomasa_39_Sloanea pubescens","MDP0775","MDP0775.mzXML","slopub","PP_Lomasa_39","Sloanea pubescens","Elaeocarpaceae","Sloanea","PP_Lomasa_39_Sloanea pubescens","PP_Lomasa_39","Sloanea pubescens",76
+"PP_Lomasa_39_Miconia aureoides","MDP0743","MDP0743.mzXML","mic1aur","PP_Lomasa_39","Miconia aureoides","Melastomataceae","Miconia","PP_Lomasa_39_Miconia aureoides","PP_Lomasa_39","Miconia aureoides",4
+"PP_Lomasa_39_Miconia AF-17127","MDP0742","MDP0742.mzXML","mic1AF17127","PP_Lomasa_39","Miconia AF-17127","Melastomataceae","Miconia","PP_Lomasa_39_Miconia AF-17127",NA,NA,NA
+"PP_Lomasa_39_Pleurothyrium LC-4542","MDP0761","MDP0761.mzXML","ple3LC4542","PP_Lomasa_39","Pleurothyrium LC-4542","Lauraceae","Pleurothyrium","PP_Lomasa_39_Pleurothyrium LC-4542",NA,NA,NA
+"PP_Lomasa_39_Cupania CMG-2731","MDP0715","MDP0715.mzXML","cupCMG2731","PP_Lomasa_39","Cupania CMG-2731","Sapindaceae","Cupania","PP_Lomasa_39_Cupania CMG-2731",NA,NA,NA
+"PP_Lomasa_39_Roucheria laxiflora","MDP0771","MDP0771.mzXML","rou1lax","PP_Lomasa_39","Roucheria laxiflora","Linaceae","Roucheria","PP_Lomasa_39_Roucheria laxiflora","PP_Lomasa_39","Roucheria laxiflora",5
+"PP_Lomasa_39_Hieronyma GAT-658","MDP0731","MDP0731.mzXML","hieGAT658","PP_Lomasa_39","Hieronyma GAT-658","Phyllanthaceae","Hieronyma","PP_Lomasa_39_Hieronyma GAT-658",NA,NA,NA
+"PP_Lomasa_39_Tachigali alba","MDP0780","MDP0780.mzXML","tac2alb","PP_Lomasa_39","Tachigali alba","Fabaceae","Tachigali","PP_Lomasa_39_Tachigali alba","PP_Lomasa_39","Tachigali alba",2
+"PP_Lomasa_39_Pourouma bicolor","MDP0764","MDP0764.mzXML","pou2bic","PP_Lomasa_39","Pourouma bicolor","Urticaceae","Pourouma","PP_Lomasa_39_Pourouma bicolor","PP_Lomasa_39","Pourouma bicolor",5
+"PP_Lomasa_39_Calyptranthes AEC-151","MDP0711","MDP0711.mzXML","cal7AEC151","PP_Lomasa_39","Calyptranthes AEC-151","Myrtaceae","Calyptranthes","PP_Lomasa_39_Calyptranthes AEC-151",NA,NA,NA
+"PP_Lomasa_39_Ocotea oblonga","MDP0755","MDP0755.mzXML","ocoobl","PP_Lomasa_39","Ocotea oblonga","Lauraceae","Ocotea","PP_Lomasa_39_Ocotea oblonga","PP_Lomasa_39","Ocotea oblonga",7
+"PP_Lomasa_39_Hymenopus krukovii","MDP0733","MDP0733.mzXML","hym2kru","PP_Lomasa_39","Hymenopus krukovii","Chrysobalanaceae","Hymenopus","PP_Lomasa_39_Hymenopus krukovii","PP_Lomasa_39","Hymenopus krukovii",1
+"PP_Lomasa_39_Swartzia LC-6193","MDP0778","MDP0778.mzXML","swaLC6193","PP_Lomasa_39","Swartzia LC-6193","Fabaceae","Swartzia","PP_Lomasa_39_Swartzia LC-6193",NA,NA,NA
+"PP_Lomasa_39_Miconia punctata","MDP0746","MDP0746.mzXML","mic1pun","PP_Lomasa_39","Miconia punctata","Melastomataceae","Miconia","PP_Lomasa_39_Miconia punctata","PP_Lomasa_39","Miconia punctata",2
+"PP_Lomasa_39_Tapirira guianensis","MDP0781","MDP0781.mzXML","tap1gui","PP_Lomasa_39","Tapirira guianensis","Anacardiaceae","Tapirira","PP_Lomasa_39_Tapirira guianensis","PP_Lomasa_39","Tapirira guianensis",9
+"PP_Lomasa_39_Geissanthus ambigua","MDP0727","MDP0727.mzXML","geiamb","PP_Lomasa_39","Geissanthus ambigua","Primulaceae","Geissanthus","PP_Lomasa_39_Geissanthus ambigua","PP_Lomasa_39","Geissanthus ambigua",2
+"PP_Lomasa_39_Alchornea glandulosa","MDP0707","MDP0707.mzXML","alcgla","PP_Lomasa_39","Alchornea glandulosa","Euphorbiaceae","Alchornea","PP_Lomasa_39_Alchornea glandulosa","PP_Lomasa_39","Alchornea glandulosa",5
+"PP_Lomasa_39_Miconia poeppigii","MDP0745","MDP0745.mzXML","mic1poe","PP_Lomasa_39","Miconia poeppigii","Melastomataceae","Miconia","PP_Lomasa_39_Miconia poeppigii","PP_Lomasa_39","Miconia poeppigii",49
+"PP_Lomasa_39_Souroubea guianensis","MDP0777","MDP0777.mzXML","sougui","PP_Lomasa_39","Souroubea guianensis","Marcgraviaceae","Souroubea","PP_Lomasa_39_Souroubea guianensis","PP_Lomasa_39","Souroubea guianensis",2
+"PP_Lomasa_39_Faramea candelabrum","MDP0724","MDP0724.mzXML","farcan","PP_Lomasa_39","Faramea candelabrum","Rubiaceae","Faramea","PP_Lomasa_39_Faramea candelabrum","PP_Lomasa_39","Faramea candelabrum",3
+"PP_Lomasa_39_Panopsis yungasensis","MDP0758","MDP0758.mzXML","panyun","PP_Lomasa_39","Panopsis yungasensis","Proteaceae","Panopsis","PP_Lomasa_39_Panopsis yungasensis","PP_Lomasa_39","Panopsis yungasensis",3
+"PP_Lomasa_39_Graffenrieda emarginata","MDP0728","MDP0728.mzXML","graema","PP_Lomasa_39","Graffenrieda emarginata","Melastomataceae","Graffenrieda","PP_Lomasa_39_Graffenrieda emarginata","PP_Lomasa_39","Graffenrieda emarginata",16
+"PP_Lomasa_39_Ocotea puberula","MDP0756","MDP0756.mzXML","ocopub","PP_Lomasa_39","Ocotea puberula","Lauraceae","Ocotea","PP_Lomasa_39_Ocotea puberula","PP_Lomasa_39","Ocotea puberula",0
+"PP_Lomasa_39_Hevea guianensis","MDP0730","MDP0730.mzXML","hevgui","PP_Lomasa_39","Hevea guianensis","Euphorbiaceae","Hevea","PP_Lomasa_39_Hevea guianensis","PP_Lomasa_39","Hevea guianensis",14
+"PP_Lomasa_39_Pouteria caimito","MDP0767","MDP0767.mzXML","pou3cai","PP_Lomasa_39","Pouteria caimito","Sapotaceae","Pouteria","PP_Lomasa_39_Pouteria caimito","PP_Lomasa_39","Pouteria caimito",6
+"PP_Lomasa_39_Miconia splendens","MDP0747","MDP0747.mzXML","mic1spl","PP_Lomasa_39","Miconia splendens","Melastomataceae","Miconia","PP_Lomasa_39_Miconia splendens","PP_Lomasa_39","Miconia splendens",50
+"PP_Lomasa_39_Ocotea aciphylla","MDP0751","MDP0751.mzXML","ocoaci","PP_Lomasa_39","Ocotea aciphylla","Lauraceae","Ocotea","PP_Lomasa_39_Ocotea aciphylla","PP_Lomasa_39","Ocotea aciphylla",19
+"PP_Lomasa_39_Ocotea LC-6203","MDP0754","MDP0754.mzXML","ocoLC6203","PP_Lomasa_39","Ocotea LC-6203","Lauraceae","Ocotea","PP_Lomasa_39_Ocotea LC-6203",NA,NA,NA
+"PP_Lomasa_39_Erythroxylum citrifolium","MDP0722","MDP0722.mzXML","ery3cit","PP_Lomasa_39","Erythroxylum citrifolium","Erythroxylaceae","Erythroxylum","PP_Lomasa_39_Erythroxylum citrifolium","PP_Lomasa_39","Erythroxylum citrifolium",1
+"PP_Lomasa_39_Ladenbergia carua","MDP0736","MDP0736.mzXML","ladcar","PP_Lomasa_39","Ladenbergia carua","Rubiaceae","Ladenbergia","PP_Lomasa_39_Ladenbergia carua","PP_Lomasa_39","Ladenbergia carua",14
+"PP_Lomasa_39_Ferdinandusa chlorantha","MDP0725","MDP0725.mzXML","ferchl","PP_Lomasa_39","Ferdinandusa chlorantha","Rubiaceae","Ferdinandusa","PP_Lomasa_39_Ferdinandusa chlorantha","PP_Lomasa_39","Ferdinandusa chlorantha",42
+"PP_Lomasa_39_Chaetocarpus myrsinites","MDP0713","MDP0713.mzXML","cha1myr","PP_Lomasa_39","Chaetocarpus myrsinites","Peraceae","Chaetocarpus","PP_Lomasa_39_Chaetocarpus myrsinites","PP_Lomasa_39","Chaetocarpus myrsinites",2
+"PP_Lomasa_39_Sloanea fendleriana","MDP0774","MDP0774.mzXML","slofen","PP_Lomasa_39","Sloanea fendleriana","Elaeocarpaceae","Sloanea","PP_Lomasa_39_Sloanea fendleriana","PP_Lomasa_39","Sloanea fendleriana",7
+"PP_Lomasa_39_Elaeagia mariae","MDP0720","MDP0720.mzXML","elamar","PP_Lomasa_39","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Lomasa_39_Elaeagia mariae","PP_Lomasa_39","Elaeagia mariae",5
+"PP_Lomasa_39_Prunus GAT-2091","MDP0769","MDP0769.mzXML","pru2GAT2091","PP_Lomasa_39","Prunus GAT-2091","Rosaceae","Prunus","PP_Lomasa_39_Prunus GAT-2091",NA,NA,NA
+"PP_Lomasa_39_Mabea anadena","MDP0739","MDP0739.mzXML","mabana","PP_Lomasa_39","Mabea anadena","Euphorbiaceae","Mabea","PP_Lomasa_39_Mabea anadena","PP_Lomasa_39","Mabea anadena",35
+"PP_Lomasa_39_Pseudolmedia laevigata","MDP0770","MDP0770.mzXML","pse2lae1","PP_Lomasa_39","Pseudolmedia laevigata","Moraceae","Pseudolmedia","PP_Lomasa_39_Pseudolmedia laevigata","PP_Lomasa_39","Pseudolmedia laevigata",60
+"PP_Lomasa_39_Diplotropis peruviana","MDP0719","MDP0719.mzXML","dip4per","PP_Lomasa_39","Diplotropis peruviana","Fabaceae","Diplotropis","PP_Lomasa_39_Diplotropis peruviana","PP_Lomasa_39","Diplotropis peruviana",2
+"PP_Lomasa_39_Condaminea corymbosa","MDP0714","MDP0714.mzXML","con1cor","PP_Lomasa_39","Condaminea corymbosa","Rubiaceae","Condaminea","PP_Lomasa_39_Condaminea corymbosa","PP_Lomasa_39","Condaminea corymbosa",17
+"PP_Lomasa_39_Dendropanax yungasensis","MDP0717","MDP0717.mzXML","den2yun","PP_Lomasa_39","Dendropanax yungasensis","Araliaceae","Dendropanax","PP_Lomasa_39_Dendropanax yungasensis","PP_Lomasa_39","Dendropanax yungasensis",1
+"PP_Lomasa_39_Ternstroemia circumscissilis","MDP0782","MDP0782.mzXML","ter2cir","PP_Lomasa_39","Ternstroemia circumscissilis","Pentaphylacaceae","Ternstroemia","PP_Lomasa_39_Ternstroemia circumscissilis","PP_Lomasa_39","Ternstroemia circumscissilis",3
+"PP_Lomasa_39_Mollinedia ovata","MDP0748","MDP0748.mzXML","molova","PP_Lomasa_39","Mollinedia ovata","Monimiaceae","Mollinedia","PP_Lomasa_39_Mollinedia ovata","PP_Lomasa_39","Mollinedia ovata",19
+"PP_Lomasa_39_Licania boliviensis","MDP0738","MDP0738.mzXML","lic1bol","PP_Lomasa_39","Licania boliviensis","Chrysobalanaceae","Licania","PP_Lomasa_39_Licania boliviensis","PP_Lomasa_39","Licania boliviensis",4
+"PP_Lomasa_39_Didymopanax AF-17370","MDP0718","MDP0718.mzXML","didAF17370","PP_Lomasa_39","Didymopanax AF-17370","Araliaceae","Didymopanax","PP_Lomasa_39_Didymopanax AF-17370",NA,NA,NA
+"PP_Lomasa_39_Ocotea AEC-147","MDP0752","MDP0752.mzXML","ocoAEC147","PP_Lomasa_39","Ocotea AEC-147","Lauraceae","Ocotea","PP_Lomasa_39_Ocotea AEC-147",NA,NA,NA
+"PP_Lomasa_39_Ocotea LC-5997","MDP0753","MDP0753.mzXML","ocoLC5997","PP_Lomasa_39","Ocotea LC-5997","Lauraceae","Ocotea","PP_Lomasa_39_Ocotea LC-5997",NA,NA,NA
+"PP_Lomasa_39_Pouteria bilocularis","MDP0766","MDP0766.mzXML","pou3bil","PP_Lomasa_39","Pouteria bilocularis","Sapotaceae","Pouteria","PP_Lomasa_39_Pouteria bilocularis","PP_Lomasa_39","Pouteria bilocularis",1
+"PP_Lomasa_39_Mabea macbridei","MDP0740","MDP0740.mzXML","mabmac","PP_Lomasa_39","Mabea macbridei","Euphorbiaceae","Mabea","PP_Lomasa_39_Mabea macbridei","PP_Lomasa_39","Mabea macbridei",19
+"PP_Lomasa_39_Nectandra JCS-9565","MDP0750","MDP0750.mzXML","necJCS9565","PP_Lomasa_39","Nectandra JCS-9565","Lauraceae","Nectandra","PP_Lomasa_39_Nectandra JCS-9565",NA,NA,NA
+"PP_Lomasa_39_Virola peruviana","MDP0785","MDP0785.mzXML","virper","PP_Lomasa_39","Virola peruviana","Myristicaceae","Virola","PP_Lomasa_39_Virola peruviana","PP_Lomasa_39","Virola peruviana",8
+"PP_Lomasa_39_Virola AEC-312","MDP0784","MDP0784.mzXML","virAEC312","PP_Lomasa_39","Virola AEC-312","Myristicaceae","Virola","PP_Lomasa_39_Virola AEC-312",NA,NA,NA
+"PP_Lomasa_39_Aiouea AEC-130","MDP0706","MDP0706.mzXML","aioAEC130","PP_Lomasa_39","Aiouea AEC-130","Lauraceae","Aiouea","PP_Lomasa_39_Aiouea AEC-130",NA,NA,NA
+"PP_Lomasa_39_Sloanea tuerckheimii","MDP0776","MDP0776.mzXML","slotue","PP_Lomasa_39","Sloanea tuerckheimii","Elaeocarpaceae","Sloanea","PP_Lomasa_39_Sloanea tuerckheimii","PP_Lomasa_39","Sloanea tuerckheimii",1
+"PP_Lomasa_39_Garcinia madruno","MDP0726","MDP0726.mzXML","garmad","PP_Lomasa_39","Garcinia madruno","Clusiaceae","Garcinia","PP_Lomasa_39_Garcinia madruno","PP_Lomasa_39","Garcinia madruno",3
+"PP_Lomasa_39_Tovomita obovata","MDP0783","MDP0783.mzXML","tovobo","PP_Lomasa_39","Tovomita obovata","Clusiaceae","Tovomita","PP_Lomasa_39_Tovomita obovata","PP_Lomasa_39","Tovomita obovata",40
+"PP_Lomasa_39_Calophyllum brasiliense","MDP0710","MDP0710.mzXML","cal5bra","PP_Lomasa_39","Calophyllum brasiliense","Calophyllaceae","Calophyllum","PP_Lomasa_39_Calophyllum brasiliense","PP_Lomasa_39","Calophyllum brasiliense",2
+"PP_Lomasa_39_Pleurothyrium trianae","MDP0762","MDP0762.mzXML","ple3tri","PP_Lomasa_39","Pleurothyrium trianae","Lauraceae","Pleurothyrium","PP_Lomasa_39_Pleurothyrium trianae","PP_Lomasa_39","Pleurothyrium trianae",1
+"PP_Lomasa_39_Persea peruviana","MDP0760","MDP0760.mzXML","per6per","PP_Lomasa_39","Persea peruviana","Lauraceae","Persea","PP_Lomasa_39_Persea peruviana","PP_Lomasa_39","Persea peruviana",3
+"PP_Lomasa_39_Simarouba amara","MDP0773","MDP0773.mzXML","sim1ama","PP_Lomasa_39","Simarouba amara","Simaroubaceae","Simarouba","PP_Lomasa_39_Simarouba amara","PP_Lomasa_39","Simarouba amara",2
+"PP_Lomasa_39_Ocotea subrutilans","MDP0757","MDP0757.mzXML","ocosub","PP_Lomasa_39","Ocotea subrutilans","Lauraceae","Ocotea","PP_Lomasa_39_Ocotea subrutilans","PP_Lomasa_39","Ocotea subrutilans",3
+"PP_Lomasa_39_Caryocar dentatum","MDP0712","MDP0712.mzXML","car5den","PP_Lomasa_39","Caryocar dentatum","Caryocaraceae","Caryocar","PP_Lomasa_39_Caryocar dentatum","PP_Lomasa_39","Caryocar dentatum",0
+"PP_Lomasa_39_Amanoa oblongifolia","MDP0708","MDP0708.mzXML","ama2obl","PP_Lomasa_39","Amanoa oblongifolia","Phyllanthaceae","Amanoa","PP_Lomasa_39_Amanoa oblongifolia","PP_Lomasa_39","Amanoa oblongifolia",5
+"PP_Lomasa_39_Endlicheria aurea","MDP0721","MDP0721.mzXML","endaur","PP_Lomasa_39","Endlicheria aurea","Lauraceae","Endlicheria","PP_Lomasa_39_Endlicheria aurea","PP_Lomasa_39","Endlicheria aurea",3
+"PP_Lomasa_39_Ladenbergia oblongifolia","MDP0737","MDP0737.mzXML","ladobl","PP_Lomasa_39","Ladenbergia oblongifolia","Rubiaceae","Ladenbergia","PP_Lomasa_39_Ladenbergia oblongifolia","PP_Lomasa_39","Ladenbergia oblongifolia",28
+"PP_Lomasa_39_Matayba arborescens","MDP0741","MDP0741.mzXML","mat1arb","PP_Lomasa_39","Matayba arborescens","Sapindaceae","Matayba","PP_Lomasa_39_Matayba arborescens","PP_Lomasa_39","Matayba arborescens",1
+"PP_Lomasa_39_Pouteria baehniana","MDP0765","MDP0765.mzXML","pou3bae","PP_Lomasa_39","Pouteria baehniana","Sapotaceae","Pouteria","PP_Lomasa_39_Pouteria baehniana","PP_Lomasa_39","Pouteria baehniana",25
+"PP_Lomasa_39_Ilex petiolaris","MDP0734","MDP0734.mzXML","ilepet","PP_Lomasa_39","Ilex petiolaris","Aquifoliaceae","Ilex","PP_Lomasa_39_Ilex petiolaris","PP_Lomasa_39","Ilex petiolaris",10
+"PP_Lomasa_39_Persea areolatocostae","MDP0759","MDP0759.mzXML","per6are","PP_Lomasa_39","Persea areolatocostae","Lauraceae","Persea","PP_Lomasa_39_Persea areolatocostae","PP_Lomasa_39","Persea areolatocostae",6
+"PP_Lomasa_39_Symphonia globulifera","MDP0779","MDP0779.mzXML","sym1glo","PP_Lomasa_39","Symphonia globulifera","Clusiaceae","Symphonia","PP_Lomasa_39_Symphonia globulifera","PP_Lomasa_39","Symphonia globulifera",2
+"PP_Lomasa_39_Vismia glabra","MDP0786","MDP0786.mzXML","visgla","PP_Lomasa_39","Vismia glabra","Hypericaceae","Vismia","PP_Lomasa_39_Vismia glabra","PP_Lomasa_39","Vismia glabra",1
+"PP_Pintat_5_Ruprechtia apetala","MDP0851","MDP0851.mzXML","rupape","PP_Pintat_5","Ruprechtia apetala","Polygonaceae","Ruprechtia","PP_Pintat_5_Ruprechtia apetala","PP_Pintat_5","Ruprechtia apetala",16
+"PP_Pintat_5_Cynophalla polyantha","MDP0834","MDP0834.mzXML","cynpol","PP_Pintat_5","Cynophalla polyantha","Capparaceae","Cynophalla","PP_Pintat_5_Cynophalla polyantha","PP_Pintat_5","Cynophalla polyantha",19
+"PP_Pintat_5_Zanthoxylum fagara","MDP0861","MDP0861.mzXML","zanfag","PP_Pintat_5","Zanthoxylum fagara","Rutaceae","Zanthoxylum","PP_Pintat_5_Zanthoxylum fagara","PP_Pintat_5","Zanthoxylum fagara",3
+"PP_Pintat_5_Capparidastrum coimbranum","MDP0828","MDP0828.mzXML","capcoi","PP_Pintat_5","Capparidastrum coimbranum","Capparaceae","Capparidastrum","PP_Pintat_5_Capparidastrum coimbranum","PP_Pintat_5","Capparidastrum coimbranum",11
+"PP_Pintat_5_Neea hermaphrodita","MDP0845","MDP0845.mzXML","neeher","PP_Pintat_5","Neea hermaphrodita","Nyctaginaceae","Neea","PP_Pintat_5_Neea hermaphrodita","PP_Pintat_5","Neea hermaphrodita",0
+"PP_Pintat_5_Handroanthus impetiginosus","MDP0837","MDP0837.mzXML","hanimp","PP_Pintat_5","Handroanthus impetiginosus","Bignoniaceae","Handroanthus","PP_Pintat_5_Handroanthus impetiginosus","PP_Pintat_5","Handroanthus impetiginosus",6
+"PP_Pintat_5_Phyllostylon rhamnoides","MDP0847","MDP0847.mzXML","phy3rha","PP_Pintat_5","Phyllostylon rhamnoides","Ulmaceae","Phyllostylon","PP_Pintat_5_Phyllostylon rhamnoides","PP_Pintat_5","Phyllostylon rhamnoides",199
+"PP_Pintat_5_Coccoloba AM-2159","MDP0833","MDP0833.mzXML","coc1AM2159","PP_Pintat_5","Coccoloba AM-2159","Polygonaceae","Coccoloba","PP_Pintat_5_Coccoloba AM-2159",NA,NA,NA
+"PP_Pintat_5_Lonchocarpus MJM-7613","MDP0840","MDP0840.mzXML","lonMJM7613","PP_Pintat_5","Lonchocarpus MJM-7613","Fabaceae","Lonchocarpus","PP_Pintat_5_Lonchocarpus MJM-7613",NA,NA,NA
+"PP_Pintat_5_Erythroxylum subrotundum","MDP0835","MDP0835.mzXML","ery3sub","PP_Pintat_5","Erythroxylum subrotundum","Erythroxylaceae","Erythroxylum","PP_Pintat_5_Erythroxylum subrotundum","PP_Pintat_5","Erythroxylum subrotundum",6
+"PP_Pintat_5_Piptadenia buchtienii","MDP0848","MDP0848.mzXML","pip2buc","PP_Pintat_5","Piptadenia buchtienii","Fabaceae","Piptadenia","PP_Pintat_5_Piptadenia buchtienii","PP_Pintat_5","Piptadenia buchtienii",5
+"PP_Pintat_5_Triplaris vestita","MDP0859","MDP0859.mzXML","tri4ves","PP_Pintat_5","Triplaris vestita","Polygonaceae","Triplaris","PP_Pintat_5_Triplaris vestita","PP_Pintat_5","Triplaris vestita",2
+"PP_Pintat_5_Machaerium nyctitans","MDP0842","MDP0842.mzXML","mac1nyc","PP_Pintat_5","Machaerium nyctitans","Fabaceae","Machaerium","PP_Pintat_5_Machaerium nyctitans","PP_Pintat_5","Machaerium nyctitans",34
+"PP_Pintat_5_Cariniana ianeirensis","MDP0829","MDP0829.mzXML","car4ian","PP_Pintat_5","Cariniana ianeirensis","Lecythidaceae","Cariniana","PP_Pintat_5_Cariniana ianeirensis","PP_Pintat_5","Cariniana ianeirensis",2
+"PP_Pintat_5_Bauhinia tuichiensis","MDP0826","MDP0826.mzXML","bautui","PP_Pintat_5","Bauhinia tuichiensis","Fabaceae","Bauhinia","PP_Pintat_5_Bauhinia tuichiensis","PP_Pintat_5","Bauhinia tuichiensis",3
+"PP_Pintat_5_Pseudobombax septenatum","MDP0850","MDP0850.mzXML","pse1sep","PP_Pintat_5","Pseudobombax septenatum","Malvaceae","Pseudobombax","PP_Pintat_5_Pseudobombax septenatum","PP_Pintat_5","Pseudobombax septenatum",3
+"PP_Pintat_5_Schinopsis brasiliensis","MDP0852","MDP0852.mzXML","sch3bra","PP_Pintat_5","Schinopsis brasiliensis","Anacardiaceae","Schinopsis","PP_Pintat_5_Schinopsis brasiliensis","PP_Pintat_5","Schinopsis brasiliensis",1
+"PP_Pintat_5_Seguieria aculeata","MDP0853","MDP0853.mzXML","segacu","PP_Pintat_5","Seguieria aculeata","Petiveriaceae","Seguieria","PP_Pintat_5_Seguieria aculeata",NA,NA,NA
+"PP_Pintat_5_Thinouia compressa","MDP0856","MDP0856.mzXML","thi2com","PP_Pintat_5","Thinouia compressa","Sapindaceae","Thinouia","PP_Pintat_5_Thinouia compressa","PP_Pintat_5","Thinouia compressa",3
+"PP_Pintat_5_Xylosma velutina","MDP0860","MDP0860.mzXML","xyl3vel","PP_Pintat_5","Xylosma velutina","Salicaceae","Xylosma","PP_Pintat_5_Xylosma velutina","PP_Pintat_5","Xylosma velutina",1
+"PP_Pintat_5_Achatocarpus praecox","MDP0820","MDP0820.mzXML","achpra","PP_Pintat_5","Achatocarpus praecox","Achatocarpaceae","Achatocarpus","PP_Pintat_5_Achatocarpus praecox","PP_Pintat_5","Achatocarpus praecox",46
+"PP_Pintat_5_Sideroxylon obtusifolium","MDP0854","MDP0854.mzXML","sidobt","PP_Pintat_5","Sideroxylon obtusifolium","Sapotaceae","Sideroxylon","PP_Pintat_5_Sideroxylon obtusifolium","PP_Pintat_5","Sideroxylon obtusifolium",4
+"PP_Pintat_5_Machaerium hirtum","MDP0841","MDP0841.mzXML","mac1hir","PP_Pintat_5","Machaerium hirtum","Fabaceae","Machaerium","PP_Pintat_5_Machaerium hirtum","PP_Pintat_5","Machaerium hirtum",0
+"PP_Pintat_5_Oxandra espintana","MDP0846","MDP0846.mzXML","oxaesp","PP_Pintat_5","Oxandra espintana","Annonaceae","Oxandra","PP_Pintat_5_Oxandra espintana","PP_Pintat_5","Oxandra espintana",5
+"PP_Pintat_5_Banara tomentosa","MDP0825","MDP0825.mzXML","ban1tom","PP_Pintat_5","Banara tomentosa","Salicaceae","Banara","PP_Pintat_5_Banara tomentosa","PP_Pintat_5","Banara tomentosa",17
+"PP_Pintat_5_Holocalyx balansae","MDP0838","MDP0838.mzXML","holbal","PP_Pintat_5","Holocalyx balansae","Fabaceae","Holocalyx","PP_Pintat_5_Holocalyx balansae","PP_Pintat_5","Holocalyx balansae",8
+"PP_Pintat_5_Aspidosperma cylindrocarpon","MDP0824","MDP0824.mzXML","asp1cyl","PP_Pintat_5","Aspidosperma cylindrocarpon","Apocynaceae","Aspidosperma","PP_Pintat_5_Aspidosperma cylindrocarpon","PP_Pintat_5","Aspidosperma cylindrocarpon",2
+"PP_Pintat_5_Trichilia catigua","MDP0857","MDP0857.mzXML","tri1cat","PP_Pintat_5","Trichilia catigua","Meliaceae","Trichilia","PP_Pintat_5_Trichilia catigua","PP_Pintat_5","Trichilia catigua",90
+"PP_Pintat_5_Myrcianthes mato","MDP0844","MDP0844.mzXML","myr3mat","PP_Pintat_5","Myrcianthes mato","Myrtaceae","Myrcianthes","PP_Pintat_5_Myrcianthes mato","PP_Pintat_5","Myrcianthes mato",1
+"PP_Pintat_5_Celtis loxensis","MDP0832","MDP0832.mzXML","cel2lox","PP_Pintat_5","Celtis loxensis","Cannabaceae","Celtis","PP_Pintat_5_Celtis loxensis","PP_Pintat_5","Celtis loxensis",3
+"PP_Pintat_5_Ceiba boliviana","MDP0831","MDP0831.mzXML","ceibol","PP_Pintat_5","Ceiba boliviana","Malvaceae","Ceiba","PP_Pintat_5_Ceiba boliviana","PP_Pintat_5","Ceiba boliviana",15
+"PP_Pintat_5_Cedrela fissilis","MDP0830","MDP0830.mzXML","cedfis","PP_Pintat_5","Cedrela fissilis","Meliaceae","Cedrela","PP_Pintat_5_Cedrela fissilis","PP_Pintat_5","Cedrela fissilis",3
+"PP_Pintat_5_Poecilanthe AFC-88","MDP0849","MDP0849.mzXML","poeAFC88","PP_Pintat_5","Poecilanthe AFC-88","Fabaceae","Poecilanthe","PP_Pintat_5_Poecilanthe AFC-88",NA,NA,NA
+"PP_Pintat_5_Sweetia fruticosa","MDP0855","MDP0855.mzXML","swefru","PP_Pintat_5","Sweetia fruticosa","Fabaceae","Sweetia","PP_Pintat_5_Sweetia fruticosa","PP_Pintat_5","Sweetia fruticosa",3
+"PP_Pintat_5_Myracrodruon urundeuva","MDP0843","MDP0843.mzXML","myr1uru","PP_Pintat_5","Myracrodruon urundeuva","Anacardiaceae","Myracrodruon","PP_Pintat_5_Myracrodruon urundeuva","PP_Pintat_5","Myracrodruon urundeuva",9
+"PP_Pintat_5_Campomanesia SPS-107","MDP0827","MDP0827.mzXML","camSPS107","PP_Pintat_5","Campomanesia SPS-107","Myrtaceae","Campomanesia","PP_Pintat_5_Campomanesia SPS-107",NA,NA,NA
+"PP_Pintat_5_Amburana cearensis","MDP0821","MDP0821.mzXML","ambcea","PP_Pintat_5","Amburana cearensis","Fabaceae","Amburana","PP_Pintat_5_Amburana cearensis","PP_Pintat_5","Amburana cearensis",10
+"PP_Pintat_5_Eugenia egensis","MDP0836","MDP0836.mzXML","eugege","PP_Pintat_5","Eugenia egensis","Myrtaceae","Eugenia","PP_Pintat_5_Eugenia egensis","PP_Pintat_5","Eugenia egensis",6
+"PP_Pintat_5_Trichilia elegans","MDP0858","MDP0858.mzXML","tri1ele","PP_Pintat_5","Trichilia elegans","Meliaceae","Trichilia","PP_Pintat_5_Trichilia elegans","PP_Pintat_5","Trichilia elegans",6
+"PP_Pintat_5_Annona emarginata","MDP0823","MDP0823.mzXML","annema","PP_Pintat_5","Annona emarginata","Annonaceae","Annona","PP_Pintat_5_Annona emarginata","PP_Pintat_5","Annona emarginata",1
+"PP_Pintat_5_Anadenanthera colubrina","MDP0822","MDP0822.mzXML","anacol","PP_Pintat_5","Anadenanthera colubrina","Fabaceae","Anadenanthera","PP_Pintat_5_Anadenanthera colubrina","PP_Pintat_5","Anadenanthera colubrina",48
+"PP_Pintat_5_Lachesiodendron viridiflorum","MDP0839","MDP0839.mzXML","lac1vir","PP_Pintat_5","Lachesiodendron viridiflorum","Fabaceae","Lachesiodendron","PP_Pintat_5_Lachesiodendron viridiflorum","PP_Pintat_5","Lachesiodendron viridiflorum",1
+"PP_Resina_12_Neea hermaphrodita","MDP0890","MDP0890.mzXML","neeher","PP_Resina_12","Neea hermaphrodita","Nyctaginaceae","Neea","PP_Resina_12_Neea hermaphrodita","PP_Resina_12","Neea hermaphrodita",4
+"PP_Resina_12_Bougainvillea modesta","MDP0868","MDP0868.mzXML","boumod","PP_Resina_12","Bougainvillea modesta","Nyctaginaceae","Bougainvillea","PP_Resina_12_Bougainvillea modesta","PP_Resina_12","Bougainvillea modesta",1
+"PP_Resina_12_Cordia alliodora","MDP0877","MDP0877.mzXML","cor1all","PP_Resina_12","Cordia alliodora","Cordiaceae","Cordia","PP_Resina_12_Cordia alliodora","PP_Resina_12","Cordia alliodora",1
+"PP_Resina_12_Monteverdia floribunda","MDP0888","MDP0888.mzXML","mon2flo","PP_Resina_12","Monteverdia floribunda","Celastraceae","Monteverdia","PP_Resina_12_Monteverdia floribunda","PP_Resina_12","Monteverdia floribunda",3
+"PP_Resina_12_Cynophalla polyantha","MDP0878","MDP0878.mzXML","cynpol","PP_Resina_12","Cynophalla polyantha","Capparaceae","Cynophalla","PP_Resina_12_Cynophalla polyantha","PP_Resina_12","Cynophalla polyantha",74
+"PP_Resina_12_Terminalia triflora","MDP0902","MDP0902.mzXML","ter1tri","PP_Resina_12","Terminalia triflora","Combretaceae","Terminalia","PP_Resina_12_Terminalia triflora","PP_Resina_12","Terminalia triflora",3
+"PP_Resina_12_Erythroxylum subrotundum","MDP0880","MDP0880.mzXML","ery3sub","PP_Resina_12","Erythroxylum subrotundum","Erythroxylaceae","Erythroxylum","PP_Resina_12_Erythroxylum subrotundum","PP_Resina_12","Erythroxylum subrotundum",5
+"PP_Resina_12_Capparidastrum coimbranum","MDP0871","MDP0871.mzXML","capcoi","PP_Resina_12","Capparidastrum coimbranum","Capparaceae","Capparidastrum","PP_Resina_12_Capparidastrum coimbranum","PP_Resina_12","Capparidastrum coimbranum",10
+"PP_Resina_12_Lonchocarpus MJM-7613","MDP0886","MDP0886.mzXML","lonMJM7613","PP_Resina_12","Lonchocarpus MJM-7613","Fabaceae","Lonchocarpus","PP_Resina_12_Lonchocarpus MJM-7613",NA,NA,NA
+"PP_Resina_12_Campomanesia SPS-107","MDP0870","MDP0870.mzXML","camSPS107","PP_Resina_12","Campomanesia SPS-107","Myrtaceae","Campomanesia","PP_Resina_12_Campomanesia SPS-107",NA,NA,NA
+"PP_Resina_12_Ruprechtia apetala","MDP0896","MDP0896.mzXML","rupape","PP_Resina_12","Ruprechtia apetala","Polygonaceae","Ruprechtia","PP_Resina_12_Ruprechtia apetala","PP_Resina_12","Ruprechtia apetala",4
+"PP_Resina_12_Achatocarpus praecox","MDP0862","MDP0862.mzXML","achpra","PP_Resina_12","Achatocarpus praecox","Achatocarpaceae","Achatocarpus","PP_Resina_12_Achatocarpus praecox","PP_Resina_12","Achatocarpus praecox",29
+"PP_Resina_12_Banara tomentosa","MDP0867","MDP0867.mzXML","ban1tom","PP_Resina_12","Banara tomentosa","Salicaceae","Banara","PP_Resina_12_Banara tomentosa","PP_Resina_12","Banara tomentosa",5
+"PP_Resina_12_Zanthoxylum fagara","MDP0906","MDP0906.mzXML","zanfag","PP_Resina_12","Zanthoxylum fagara","Rutaceae","Zanthoxylum","PP_Resina_12_Zanthoxylum fagara","PP_Resina_12","Zanthoxylum fagara",9
+"PP_Resina_12_Piptadenia buchtienii","MDP0893","MDP0893.mzXML","pip2buc","PP_Resina_12","Piptadenia buchtienii","Fabaceae","Piptadenia","PP_Resina_12_Piptadenia buchtienii","PP_Resina_12","Piptadenia buchtienii",1
+"PP_Resina_12_Ceiba speciosa","MDP0875","MDP0875.mzXML","ceispe","PP_Resina_12","Ceiba speciosa","Malvaceae","Ceiba","PP_Resina_12_Ceiba speciosa","PP_Resina_12","Ceiba speciosa",10
+"PP_Resina_12_Pisonia zapallo","MDP0894","MDP0894.mzXML","piszap","PP_Resina_12","Pisonia zapallo","Nyctaginaceae","Pisonia","PP_Resina_12_Pisonia zapallo","PP_Resina_12","Pisonia zapallo",1
+"PP_Resina_12_Ximenia americana","MDP0905","MDP0905.mzXML","ximame","PP_Resina_12","Ximenia americana","Ximeniaceae","Ximenia","PP_Resina_12_Ximenia americana","PP_Resina_12","Ximenia americana",2
+"PP_Resina_12_Machaerium nyctitans","MDP0887","MDP0887.mzXML","mac1nyc","PP_Resina_12","Machaerium nyctitans","Fabaceae","Machaerium","PP_Resina_12_Machaerium nyctitans","PP_Resina_12","Machaerium nyctitans",57
+"PP_Resina_12_Guapira opposita","MDP0882","MDP0882.mzXML","gua2opp","PP_Resina_12","Guapira opposita","Nyctaginaceae","Guapira","PP_Resina_12_Guapira opposita","PP_Resina_12","Guapira opposita",4
+"PP_Resina_12_Chrysophyllum LC-1660","MDP0876","MDP0876.mzXML","chr2LC1660","PP_Resina_12","Chrysophyllum LC-1660","Sapotaceae","Chrysophyllum","PP_Resina_12_Chrysophyllum LC-1660",NA,NA,NA
+"PP_Resina_12_Phyllostylon rhamnoides","MDP0892","MDP0892.mzXML","phy3rha","PP_Resina_12","Phyllostylon rhamnoides","Ulmaceae","Phyllostylon","PP_Resina_12_Phyllostylon rhamnoides","PP_Resina_12","Phyllostylon rhamnoides",137
+"PP_Resina_12_Handroanthus impetiginosus","MDP0884","MDP0884.mzXML","hanimp","PP_Resina_12","Handroanthus impetiginosus","Bignoniaceae","Handroanthus","PP_Resina_12_Handroanthus impetiginosus","PP_Resina_12","Handroanthus impetiginosus",1
+"PP_Resina_12_Ruprechtia laxiflora","MDP0897","MDP0897.mzXML","ruplax","PP_Resina_12","Ruprechtia laxiflora","Polygonaceae","Ruprechtia","PP_Resina_12_Ruprechtia laxiflora","PP_Resina_12","Ruprechtia laxiflora",1
+"PP_Resina_12_Handroanthus chrysanthus","MDP0883","MDP0883.mzXML","hanchr","PP_Resina_12","Handroanthus chrysanthus","Bignoniaceae","Handroanthus","PP_Resina_12_Handroanthus chrysanthus","PP_Resina_12","Handroanthus chrysanthus",28
+"PP_Resina_12_Schinopsis brasiliensis","MDP0898","MDP0898.mzXML","sch3bra","PP_Resina_12","Schinopsis brasiliensis","Anacardiaceae","Schinopsis","PP_Resina_12_Schinopsis brasiliensis","PP_Resina_12","Schinopsis brasiliensis",2
+"PP_Resina_12_Trichilia catigua","MDP0903","MDP0903.mzXML","tri1cat","PP_Resina_12","Trichilia catigua","Meliaceae","Trichilia","PP_Resina_12_Trichilia catigua","PP_Resina_12","Trichilia catigua",9
+"PP_Resina_12_Sebastiania brasiliensis","MDP0899","MDP0899.mzXML","sebbra","PP_Resina_12","Sebastiania brasiliensis","Euphorbiaceae","Sebastiania","PP_Resina_12_Sebastiania brasiliensis","PP_Resina_12","Sebastiania brasiliensis",5
+"PP_Resina_12_Sideroxylon obtusifolium","MDP0900","MDP0900.mzXML","sidobt","PP_Resina_12","Sideroxylon obtusifolium","Sapotaceae","Sideroxylon","PP_Resina_12_Sideroxylon obtusifolium","PP_Resina_12","Sideroxylon obtusifolium",5
+"PP_Resina_12_Urera baccifera","MDP0904","MDP0904.mzXML","urebac","PP_Resina_12","Urera baccifera","Urticaceae","Urera","PP_Resina_12_Urera baccifera","PP_Resina_12","Urera baccifera",1
+"PP_Resina_12_Oxandra espintana","MDP0891","MDP0891.mzXML","oxaesp","PP_Resina_12","Oxandra espintana","Annonaceae","Oxandra","PP_Resina_12_Oxandra espintana","PP_Resina_12","Oxandra espintana",190
+"PP_Resina_12_Pseudobombax septenatum","MDP0895","MDP0895.mzXML","pse1sep","PP_Resina_12","Pseudobombax septenatum","Malvaceae","Pseudobombax","PP_Resina_12_Pseudobombax septenatum","PP_Resina_12","Pseudobombax septenatum",6
+"PP_Resina_12_Eugenia moraviana","MDP0881","MDP0881.mzXML","eugmor","PP_Resina_12","Eugenia moraviana","Myrtaceae","Eugenia","PP_Resina_12_Eugenia moraviana","PP_Resina_12","Eugenia moraviana",1
+"PP_Resina_12_Myracrodruon urundeuva","MDP0889","MDP0889.mzXML","myr1uru","PP_Resina_12","Myracrodruon urundeuva","Anacardiaceae","Myracrodruon","PP_Resina_12_Myracrodruon urundeuva","PP_Resina_12","Myracrodruon urundeuva",12
+"PP_Resina_12_Ceiba samauma","MDP0874","MDP0874.mzXML","ceisam","PP_Resina_12","Ceiba samauma","Malvaceae","Ceiba","PP_Resina_12_Ceiba samauma","PP_Resina_12","Ceiba samauma",3
+"PP_Resina_12_Sweetia fruticosa","MDP0901","MDP0901.mzXML","swefru","PP_Resina_12","Sweetia fruticosa","Fabaceae","Sweetia","PP_Resina_12_Sweetia fruticosa","PP_Resina_12","Sweetia fruticosa",5
+"PP_Resina_12_Enterolobium contortisiliquum","MDP0879","MDP0879.mzXML","entcon","PP_Resina_12","Enterolobium contortisiliquum","Fabaceae","Enterolobium","PP_Resina_12_Enterolobium contortisiliquum","PP_Resina_12","Enterolobium contortisiliquum",3
+"PP_Resina_12_Aspidosperma cylindrocarpon","MDP0866","MDP0866.mzXML","asp1cyl","PP_Resina_12","Aspidosperma cylindrocarpon","Apocynaceae","Aspidosperma","PP_Resina_12_Aspidosperma cylindrocarpon","PP_Resina_12","Aspidosperma cylindrocarpon",3
+"PP_Resina_12_Annona emarginata","MDP0864","MDP0864.mzXML","annema","PP_Resina_12","Annona emarginata","Annonaceae","Annona","PP_Resina_12_Annona emarginata","PP_Resina_12","Annona emarginata",1
+"PP_Resina_12_Aralia soratensis","MDP0865","MDP0865.mzXML","arasor","PP_Resina_12","Aralia soratensis","Araliaceae","Aralia","PP_Resina_12_Aralia soratensis","PP_Resina_12","Aralia soratensis",2
+"PP_Resina_12_Bougainvillea stipitata","MDP0869","MDP0869.mzXML","bousti","PP_Resina_12","Bougainvillea stipitata","Nyctaginaceae","Bougainvillea","PP_Resina_12_Bougainvillea stipitata","PP_Resina_12","Bougainvillea stipitata",2
+"PP_Resina_12_Anadenanthera colubrina","MDP0863","MDP0863.mzXML","anacol","PP_Resina_12","Anadenanthera colubrina","Fabaceae","Anadenanthera","PP_Resina_12_Anadenanthera colubrina","PP_Resina_12","Anadenanthera colubrina",15
+"PP_Resina_12_Cedrela fissilis","MDP0872","MDP0872.mzXML","cedfis","PP_Resina_12","Cedrela fissilis","Meliaceae","Cedrela","PP_Resina_12_Cedrela fissilis","PP_Resina_12","Cedrela fissilis",4
+"PP_Resina_12_Ceiba boliviana","MDP0873","MDP0873.mzXML","ceibol","PP_Resina_12","Ceiba boliviana","Malvaceae","Ceiba","PP_Resina_12_Ceiba boliviana","PP_Resina_12","Ceiba boliviana",1
+"PP_Resina_12_Kielmeyera paniculata","MDP0885","MDP0885.mzXML","kiepan","PP_Resina_12","Kielmeyera paniculata","Calophyllaceae","Kielmeyera","PP_Resina_12_Kielmeyera paniculata","PP_Resina_12","Kielmeyera paniculata",13
+"PP_Sumpul_34_Pleurothyrium trianae","MDP0283","MDP0283.mzXML","ple3tri","PP_Sumpul_34","Pleurothyrium trianae","Lauraceae","Pleurothyrium","PP_Sumpul_34_Pleurothyrium trianae","PP_Sumpul_34","Pleurothyrium trianae",1
+"PP_Sumpul_34_Coccoloba mollis","MDP0238","MDP0238.mzXML","coc1mol","PP_Sumpul_34","Coccoloba mollis","Polygonaceae","Coccoloba","PP_Sumpul_34_Coccoloba mollis","PP_Sumpul_34","Coccoloba mollis",1
+"PP_Sumpul_34_Sorocea guilleminiana","MDP0296","MDP0296.mzXML","sorgui","PP_Sumpul_34","Sorocea guilleminiana","Moraceae","Sorocea","PP_Sumpul_34_Sorocea guilleminiana","PP_Sumpul_34","Sorocea guilleminiana",10
+"PP_Sumpul_34_Ocotea ALM-253","MDP0276","MDP0276.mzXML","ocoALM253","PP_Sumpul_34","Ocotea ALM-253","Lauraceae","Ocotea","PP_Sumpul_34_Ocotea ALM-253",NA,NA,NA
+"PP_Sumpul_34_Schizocalyx obovatus","MDP0293","MDP0293.mzXML","sch4obo","PP_Sumpul_34","Schizocalyx obovatus","Rubiaceae","Schizocalyx","PP_Sumpul_34_Schizocalyx obovatus","PP_Sumpul_34","Schizocalyx obovatus",15
+"PP_Sumpul_34_Persea peruviana","MDP0281","MDP0281.mzXML","per6per","PP_Sumpul_34","Persea peruviana","Lauraceae","Persea","PP_Sumpul_34_Persea peruviana","PP_Sumpul_34","Persea peruviana",1
+"PP_Sumpul_34_Handroanthus serratifolius","MDP0254","MDP0254.mzXML","hanser","PP_Sumpul_34","Handroanthus serratifolius","Bignoniaceae","Handroanthus","PP_Sumpul_34_Handroanthus serratifolius","PP_Sumpul_34","Handroanthus serratifolius",4
+"PP_Sumpul_34_Pseudolmedia LC-4490","MDP0289","MDP0289.mzXML","pse2LC4490","PP_Sumpul_34","Pseudolmedia LC-4490","Moraceae","Pseudolmedia","PP_Sumpul_34_Pseudolmedia LC-4490",NA,NA,NA
+"PP_Sumpul_34_Alibertia GAT-2099","MDP0227","MDP0227.mzXML","ali1GAT2099","PP_Sumpul_34","Alibertia GAT-2099","Rubiaceae","Alibertia","PP_Sumpul_34_Alibertia GAT-2099",NA,NA,NA
+"PP_Sumpul_34_Pseudolmedia rigida","MDP0290","MDP0290.mzXML","pse2rig","PP_Sumpul_34","Pseudolmedia rigida","Moraceae","Pseudolmedia","PP_Sumpul_34_Pseudolmedia rigida","PP_Sumpul_34","Pseudolmedia rigida",8
+"PP_Sumpul_34_Miconia dolichorrhyncha","MDP0267","MDP0267.mzXML","mic1dol","PP_Sumpul_34","Miconia dolichorrhyncha","Melastomataceae","Miconia","PP_Sumpul_34_Miconia dolichorrhyncha","PP_Sumpul_34","Miconia dolichorrhyncha",2
+"PP_Sumpul_34_Hirtella lightioides","MDP0258","MDP0258.mzXML","hir2lig","PP_Sumpul_34","Hirtella lightioides","Chrysobalanaceae","Hirtella","PP_Sumpul_34_Hirtella lightioides","PP_Sumpul_34","Hirtella lightioides",10
+"PP_Sumpul_34_Symplocos mapiriensis","MDP0298","MDP0298.mzXML","sym2map","PP_Sumpul_34","Symplocos mapiriensis","Symplocaceae","Symplocos","PP_Sumpul_34_Symplocos mapiriensis","PP_Sumpul_34","Symplocos mapiriensis",0
+"PP_Sumpul_34_Brosimum lactescens","MDP0230","MDP0230.mzXML","bro2lac","PP_Sumpul_34","Brosimum lactescens","Moraceae","Brosimum","PP_Sumpul_34_Brosimum lactescens","PP_Sumpul_34","Brosimum lactescens",16
+"PP_Sumpul_34_Perebea guianensis","MDP0280","MDP0280.mzXML","per2gui","PP_Sumpul_34","Perebea guianensis","Moraceae","Perebea","PP_Sumpul_34_Perebea guianensis","PP_Sumpul_34","Perebea guianensis",57
+"PP_Sumpul_34_Ocotea ALM-63","MDP0277","MDP0277.mzXML","ocoALM63","PP_Sumpul_34","Ocotea ALM-63","Lauraceae","Ocotea","PP_Sumpul_34_Ocotea ALM-63",NA,NA,NA
+"PP_Sumpul_34_Ocotea oblonga","MDP0278","MDP0278.mzXML","ocoobl","PP_Sumpul_34","Ocotea oblonga","Lauraceae","Ocotea","PP_Sumpul_34_Ocotea oblonga","PP_Sumpul_34","Ocotea oblonga",29
+"PP_Sumpul_34_Helicostylis tomentosa","MDP0255","MDP0255.mzXML","hel2tom","PP_Sumpul_34","Helicostylis tomentosa","Moraceae","Helicostylis","PP_Sumpul_34_Helicostylis tomentosa","PP_Sumpul_34","Helicostylis tomentosa",35
+"PP_Sumpul_34_Myrcia sintenisii","MDP0270","MDP0270.mzXML","myr2sin","PP_Sumpul_34","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Sumpul_34_Myrcia sintenisii","PP_Sumpul_34","Myrcia sintenisii",4
+"PP_Sumpul_34_Sarcaulus brasiliensis","MDP0292","MDP0292.mzXML","sar2bra","PP_Sumpul_34","Sarcaulus brasiliensis","Sapotaceae","Sarcaulus","PP_Sumpul_34_Sarcaulus brasiliensis","PP_Sumpul_34","Sarcaulus brasiliensis",18
+"PP_Sumpul_34_Dacryodes sudyungasensis","MDP0242","MDP0242.mzXML","dacsud","PP_Sumpul_34","Dacryodes sudyungasensis","Burseraceae","Dacryodes","PP_Sumpul_34_Dacryodes sudyungasensis","PP_Sumpul_34","Dacryodes sudyungasensis",7
+"PP_Sumpul_34_Hieronyma NA-445","MDP0257","MDP0257.mzXML","hieNA445","PP_Sumpul_34","Hieronyma NA-445","Phyllanthaceae","Hieronyma","PP_Sumpul_34_Hieronyma NA-445",NA,NA,NA
+"PP_Sumpul_34_Graffenrieda limbata","MDP0252","MDP0252.mzXML","gralim","PP_Sumpul_34","Graffenrieda limbata","Melastomataceae","Graffenrieda","PP_Sumpul_34_Graffenrieda limbata","PP_Sumpul_34","Graffenrieda limbata",2
+"PP_Sumpul_34_Inga marginata","MDP0261","MDP0261.mzXML","ingmar","PP_Sumpul_34","Inga marginata","Fabaceae","Inga","PP_Sumpul_34_Inga marginata","PP_Sumpul_34","Inga marginata",1
+"PP_Sumpul_34_Nectandra acutifolia","MDP0272","MDP0272.mzXML","necacu","PP_Sumpul_34","Nectandra acutifolia","Lauraceae","Nectandra","PP_Sumpul_34_Nectandra acutifolia","PP_Sumpul_34","Nectandra acutifolia",3
+"PP_Sumpul_34_Nectandra cissiflora","MDP0274","MDP0274.mzXML","neccis","PP_Sumpul_34","Nectandra cissiflora","Lauraceae","Nectandra","PP_Sumpul_34_Nectandra cissiflora","PP_Sumpul_34","Nectandra cissiflora",32
+"PP_Sumpul_34_Serjania LC-4985","MDP0294","MDP0294.mzXML","serLC4985","PP_Sumpul_34","Serjania LC-4985","Sapindaceae","Serjania","PP_Sumpul_34_Serjania LC-4985",NA,NA,NA
+"PP_Sumpul_34_Tachigali alba","MDP0299","MDP0299.mzXML","tac2alb","PP_Sumpul_34","Tachigali alba","Fabaceae","Tachigali","PP_Sumpul_34_Tachigali alba","PP_Sumpul_34","Tachigali alba",4
+"PP_Sumpul_34_Inga acreana","MDP0259","MDP0259.mzXML","ingacr","PP_Sumpul_34","Inga acreana","Fabaceae","Inga","PP_Sumpul_34_Inga acreana","PP_Sumpul_34","Inga acreana",2
+"PP_Sumpul_34_Urera verrucosa","MDP0301","MDP0301.mzXML","urever","PP_Sumpul_34","Urera verrucosa","Urticaceae","Urera","PP_Sumpul_34_Urera verrucosa","PP_Sumpul_34","Urera verrucosa",3
+"PP_Sumpul_34_Tapirira guianensis","MDP0300","MDP0300.mzXML","tap1gui","PP_Sumpul_34","Tapirira guianensis","Anacardiaceae","Tapirira","PP_Sumpul_34_Tapirira guianensis","PP_Sumpul_34","Tapirira guianensis",37
+"PP_Sumpul_34_Endlicheria ALM-229","MDP0245","MDP0245.mzXML","endALM229","PP_Sumpul_34","Endlicheria ALM-229","Lauraceae","Endlicheria","PP_Sumpul_34_Endlicheria ALM-229",NA,NA,NA
+"PP_Sumpul_34_Lacistema aggregatum","MDP0263","MDP0263.mzXML","lac2agg","PP_Sumpul_34","Lacistema aggregatum","Lacistemataceae","Lacistema","PP_Sumpul_34_Lacistema aggregatum","PP_Sumpul_34","Lacistema aggregatum",1
+"PP_Sumpul_34_Pouteria bilocularis","MDP0286","MDP0286.mzXML","pou3bil","PP_Sumpul_34","Pouteria bilocularis","Sapotaceae","Pouteria","PP_Sumpul_34_Pouteria bilocularis","PP_Sumpul_34","Pouteria bilocularis",5
+"PP_Sumpul_34_Prunus GAT-2091","MDP0288","MDP0288.mzXML","pru2GAT2091","PP_Sumpul_34","Prunus GAT-2091","Rosaceae","Prunus","PP_Sumpul_34_Prunus GAT-2091",NA,NA,NA
+"PP_Sumpul_34_Pourouma bicolor","MDP0284","MDP0284.mzXML","pou2bic","PP_Sumpul_34","Pourouma bicolor","Urticaceae","Pourouma","PP_Sumpul_34_Pourouma bicolor","PP_Sumpul_34","Pourouma bicolor",33
+"PP_Sumpul_34_Alchornea triplinervia","MDP0226","MDP0226.mzXML","alctri","PP_Sumpul_34","Alchornea triplinervia","Euphorbiaceae","Alchornea","PP_Sumpul_34_Alchornea triplinervia","PP_Sumpul_34","Alchornea triplinervia",4
+"PP_Sumpul_34_Beilschmiedia tovarensis","MDP0229","MDP0229.mzXML","beitov","PP_Sumpul_34","Beilschmiedia tovarensis","Lauraceae","Beilschmiedia","PP_Sumpul_34_Beilschmiedia tovarensis","PP_Sumpul_34","Beilschmiedia tovarensis",7
+"PP_Sumpul_34_Virola sebifera","MDP0303","MDP0303.mzXML","virseb","PP_Sumpul_34","Virola sebifera","Myristicaceae","Virola","PP_Sumpul_34_Virola sebifera","PP_Sumpul_34","Virola sebifera",1
+"PP_Sumpul_34_Myrsine latifolia","MDP0271","MDP0271.mzXML","myr8lat","PP_Sumpul_34","Myrsine latifolia","Primulaceae","Myrsine","PP_Sumpul_34_Myrsine latifolia",NA,NA,NA
+"PP_Sumpul_34_Inga alba","MDP0260","MDP0260.mzXML","ingalb","PP_Sumpul_34","Inga alba","Fabaceae","Inga","PP_Sumpul_34_Inga alba","PP_Sumpul_34","Inga alba",1
+"PP_Sumpul_34_Clarisia racemosa","MDP0237","MDP0237.mzXML","cla1rac","PP_Sumpul_34","Clarisia racemosa","Moraceae","Clarisia","PP_Sumpul_34_Clarisia racemosa","PP_Sumpul_34","Clarisia racemosa",4
+"PP_Sumpul_34_Virola peruviana","MDP0302","MDP0302.mzXML","virper","PP_Sumpul_34","Virola peruviana","Myristicaceae","Virola","PP_Sumpul_34_Virola peruviana","PP_Sumpul_34","Virola peruviana",3
+"PP_Sumpul_34_Pourouma guianensis","MDP0285","MDP0285.mzXML","pou2gui","PP_Sumpul_34","Pourouma guianensis","Urticaceae","Pourouma","PP_Sumpul_34_Pourouma guianensis","PP_Sumpul_34","Pourouma guianensis",14
+"PP_Sumpul_34_Ladenbergia oblongifolia","MDP0264","MDP0264.mzXML","ladobl","PP_Sumpul_34","Ladenbergia oblongifolia","Rubiaceae","Ladenbergia","PP_Sumpul_34_Ladenbergia oblongifolia","PP_Sumpul_34","Ladenbergia oblongifolia",23
+"PP_Sumpul_34_Heteropterys laurifolia","MDP0256","MDP0256.mzXML","hetlau","PP_Sumpul_34","Heteropterys laurifolia","Malpighiaceae","Heteropterys","PP_Sumpul_34_Heteropterys laurifolia","PP_Sumpul_34","Heteropterys laurifolia",1
+"PP_Sumpul_34_Eriotheca macrophylla","MDP0246","MDP0246.mzXML","eri1mac","PP_Sumpul_34","Eriotheca macrophylla","Malvaceae","Eriotheca","PP_Sumpul_34_Eriotheca macrophylla","PP_Sumpul_34","Eriotheca macrophylla",5
+"PP_Sumpul_34_Miconia ALM-173","MDP0266","MDP0266.mzXML","mic1ALM173","PP_Sumpul_34","Miconia ALM-173","Melastomataceae","Miconia","PP_Sumpul_34_Miconia ALM-173",NA,NA,NA
+"PP_Sumpul_34_Juglans boliviana","MDP0262","MDP0262.mzXML","jugbol","PP_Sumpul_34","Juglans boliviana","Juglandaceae","Juglans","PP_Sumpul_34_Juglans boliviana","PP_Sumpul_34","Juglans boliviana",1
+"PP_Sumpul_34_Rhodostemonodaphne kunthiana","MDP0291","MDP0291.mzXML","rhokun","PP_Sumpul_34","Rhodostemonodaphne kunthiana","Lauraceae","Rhodostemonodaphne","PP_Sumpul_34_Rhodostemonodaphne kunthiana","PP_Sumpul_34","Rhodostemonodaphne kunthiana",26
+"PP_Sumpul_34_Meliosma ALM-190","MDP0265","MDP0265.mzXML","melALM190","PP_Sumpul_34","Meliosma ALM-190","Sabiaceae","Meliosma","PP_Sumpul_34_Meliosma ALM-190",NA,NA,NA
+"PP_Sumpul_34_Myrcia fallax","MDP0269","MDP0269.mzXML","myr2fal","PP_Sumpul_34","Myrcia fallax","Myrtaceae","Myrcia","PP_Sumpul_34_Myrcia fallax","PP_Sumpul_34","Myrcia fallax",1
+"PP_Sumpul_34_Guatteria punctata","MDP0253","MDP0253.mzXML","gua4pun","PP_Sumpul_34","Guatteria punctata","Annonaceae","Guatteria","PP_Sumpul_34_Guatteria punctata","PP_Sumpul_34","Guatteria punctata",2
+"PP_Sumpul_34_Celtis schippii","MDP0233","MDP0233.mzXML","cel2sch","PP_Sumpul_34","Celtis schippii","Cannabaceae","Celtis","PP_Sumpul_34_Celtis schippii","PP_Sumpul_34","Celtis schippii",4
+"PP_Sumpul_34_Cinchona calisaya","MDP0235","MDP0235.mzXML","cin1cal","PP_Sumpul_34","Cinchona calisaya","Rubiaceae","Cinchona","PP_Sumpul_34_Cinchona calisaya","PP_Sumpul_34","Cinchona calisaya",3
+"PP_Sumpul_34_Gordonia fruticosa","MDP0251","MDP0251.mzXML","gorfru","PP_Sumpul_34","Gordonia fruticosa","Theaceae","Gordonia","PP_Sumpul_34_Gordonia fruticosa","PP_Sumpul_34","Gordonia fruticosa",2
+"PP_Sumpul_34_Copaifera langsdorffii","MDP0239","MDP0239.mzXML","coplan","PP_Sumpul_34","Copaifera langsdorffii","Fabaceae","Copaifera","PP_Sumpul_34_Copaifera langsdorffii","PP_Sumpul_34","Copaifera langsdorffii",4
+"PP_Sumpul_34_Didymopanax AF-17370","MDP0243","MDP0243.mzXML","didAF17370","PP_Sumpul_34","Didymopanax AF-17370","Araliaceae","Didymopanax","PP_Sumpul_34_Didymopanax AF-17370",NA,NA,NA
+"PP_Sumpul_34_Mollinedia repanda","MDP0268","MDP0268.mzXML","molrep","PP_Sumpul_34","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Sumpul_34_Mollinedia repanda","PP_Sumpul_34","Mollinedia repanda",2
+"PP_Sumpul_34_Casearia arborea","MDP0232","MDP0232.mzXML","casarb","PP_Sumpul_34","Casearia arborea","Salicaceae","Casearia","PP_Sumpul_34_Casearia arborea","PP_Sumpul_34","Casearia arborea",1
+"PP_Sumpul_34_Garcinia madruno","MDP0250","MDP0250.mzXML","garmad","PP_Sumpul_34","Garcinia madruno","Clusiaceae","Garcinia","PP_Sumpul_34_Garcinia madruno","PP_Sumpul_34","Garcinia madruno",1
+"PP_Sumpul_34_Parinari occidentalis","MDP0279","MDP0279.mzXML","par4occ","PP_Sumpul_34","Parinari occidentalis","Chrysobalanaceae","Parinari","PP_Sumpul_34_Parinari occidentalis","PP_Sumpul_34","Parinari occidentalis",4
+"PP_Sumpul_34_Nectandra AF-7278","MDP0273","MDP0273.mzXML","necAF7278","PP_Sumpul_34","Nectandra AF-7278","Lauraceae","Nectandra","PP_Sumpul_34_Nectandra AF-7278",NA,NA,NA
+"PP_Sumpul_34_Eugenia florida","MDP0247","MDP0247.mzXML","eugflo","PP_Sumpul_34","Eugenia florida","Myrtaceae","Eugenia","PP_Sumpul_34_Eugenia florida","PP_Sumpul_34","Eugenia florida",1
+"PP_Sumpul_34_Symplocos ALM-260","MDP0297","MDP0297.mzXML","sym2ALM260","PP_Sumpul_34","Symplocos ALM-260","Symplocaceae","Symplocos","PP_Sumpul_34_Symplocos ALM-260",NA,NA,NA
+"PP_Sumpul_34_Aiouea AF-9030","MDP0225","MDP0225.mzXML","aioAF9030","PP_Sumpul_34","Aiouea AF-9030","Lauraceae","Aiouea","PP_Sumpul_34_Aiouea AF-9030",NA,NA,NA
+"PP_Sumpul_34_Simarouba amara","MDP0295","MDP0295.mzXML","sim1ama","PP_Sumpul_34","Simarouba amara","Simaroubaceae","Simarouba","PP_Sumpul_34_Simarouba amara","PP_Sumpul_34","Simarouba amara",1
+"PP_Sumpul_34_Elaeagia mariae","MDP0244","MDP0244.mzXML","elamar","PP_Sumpul_34","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Sumpul_34_Elaeagia mariae","PP_Sumpul_34","Elaeagia mariae",3
+"PP_Sumpul_34_Annona boliviana","MDP0228","MDP0228.mzXML","annbol","PP_Sumpul_34","Annona boliviana","Annonaceae","Annona","PP_Sumpul_34_Annona boliviana","PP_Sumpul_34","Annona boliviana",1
+"PP_Sumpul_34_Byrsonima spicata","MDP0231","MDP0231.mzXML","byrspi","PP_Sumpul_34","Byrsonima spicata","Malpighiaceae","Byrsonima","PP_Sumpul_34_Byrsonima spicata","PP_Sumpul_34","Byrsonima spicata",2
+"PP_Sumpul_34_Ocotea aciphylla","MDP0275","MDP0275.mzXML","ocoaci","PP_Sumpul_34","Ocotea aciphylla","Lauraceae","Ocotea","PP_Sumpul_34_Ocotea aciphylla","PP_Sumpul_34","Ocotea aciphylla",27
+"PP_Sumpul_34_Cheiloclinium cognatum","MDP0234","MDP0234.mzXML","checog","PP_Sumpul_34","Cheiloclinium cognatum","Celastraceae","Cheiloclinium","PP_Sumpul_34_Cheiloclinium cognatum","PP_Sumpul_34","Cheiloclinium cognatum",14
+"PP_Sumpul_34_Coussapoa manuensis","MDP0240","MDP0240.mzXML","cou2man","PP_Sumpul_34","Coussapoa manuensis","Urticaceae","Coussapoa","PP_Sumpul_34_Coussapoa manuensis","PP_Sumpul_34","Coussapoa manuensis",2
+"PP_Sumpul_34_Pouteria hispida","MDP0287","MDP0287.mzXML","pou3his","PP_Sumpul_34","Pouteria hispida","Sapotaceae","Pouteria","PP_Sumpul_34_Pouteria hispida","PP_Sumpul_34","Pouteria hispida",9
+"PP_Sumpul_34_Garcinia macrophylla","MDP0249","MDP0249.mzXML","garmac","PP_Sumpul_34","Garcinia macrophylla","Clusiaceae","Garcinia","PP_Sumpul_34_Garcinia macrophylla","PP_Sumpul_34","Garcinia macrophylla",81
+"PP_Sumpul_34_Cryptocarya RS-7155","MDP0241","MDP0241.mzXML","cryRS7155","PP_Sumpul_34","Cryptocarya RS-7155","Lauraceae","Cryptocarya","PP_Sumpul_34_Cryptocarya RS-7155",NA,NA,NA
+"PP_Sumpul_34_Persea subcordata","MDP0282","MDP0282.mzXML","per6sub","PP_Sumpul_34","Persea subcordata","Lauraceae","Persea","PP_Sumpul_34_Persea subcordata","PP_Sumpul_34","Persea subcordata",1
+"PP_Sumpul_34_Ficus americana","MDP0248","MDP0248.mzXML","ficame","PP_Sumpul_34","Ficus americana","Moraceae","Ficus","PP_Sumpul_34_Ficus americana","PP_Sumpul_34","Ficus americana",1
+"PP_Sumpul_34_Clarisia biflora","MDP0236","MDP0236.mzXML","cla1bif","PP_Sumpul_34","Clarisia biflora","Moraceae","Clarisia","PP_Sumpul_34_Clarisia biflora","PP_Sumpul_34","Clarisia biflora",2
+"PP_Tapuri_45_Meliosma petalodentata","MDP0610","MDP0610.mzXML","melpet","PP_Tapuri_45","Meliosma petalodentata","Sabiaceae","Meliosma","PP_Tapuri_45_Meliosma petalodentata","PP_Tapuri_45","Meliosma petalodentata",2
+"PP_Tapuri_45_Myrcia mollis","MDP0615","MDP0615.mzXML","myr2mol","PP_Tapuri_45","Myrcia mollis","Myrtaceae","Myrcia","PP_Tapuri_45_Myrcia mollis","PP_Tapuri_45","Myrcia mollis",2
+"PP_Tapuri_45_Ocotea ECQ-72","MDP0621","MDP0621.mzXML","ocoECQ72","PP_Tapuri_45","Ocotea ECQ-72","Lauraceae","Ocotea","PP_Tapuri_45_Ocotea ECQ-72",NA,NA,NA
+"PP_Tapuri_45_Daphnopsis MCM-1231","MDP0607","MDP0607.mzXML","dapMCM1231","PP_Tapuri_45","Daphnopsis MCM-1231","Thymelaeaceae","Daphnopsis","PP_Tapuri_45_Daphnopsis MCM-1231",NA,NA,NA
+"PP_Tapuri_45_Weinmannia reticulata","MDP0634","MDP0634.mzXML","weiret","PP_Tapuri_45","Weinmannia reticulata","Cunoniaceae","Weinmannia","PP_Tapuri_45_Weinmannia reticulata","PP_Tapuri_45","Weinmannia reticulata",59
+"PP_Tapuri_45_Meliosma solomonii","MDP0611","MDP0611.mzXML","melsol","PP_Tapuri_45","Meliosma solomonii","Sabiaceae","Meliosma","PP_Tapuri_45_Meliosma solomonii","PP_Tapuri_45","Meliosma solomonii",1
+"PP_Tapuri_45_Siphoneugena AF-19267","MDP0627","MDP0627.mzXML","sip3AF19267","PP_Tapuri_45","Siphoneugena AF-19267","Myrtaceae","Siphoneugena","PP_Tapuri_45_Siphoneugena AF-19267",NA,NA,NA
+"PP_Tapuri_45_Ocotea caesifolia","MDP0619","MDP0619.mzXML","ococae","PP_Tapuri_45","Ocotea caesifolia","Lauraceae","Ocotea","PP_Tapuri_45_Ocotea caesifolia","PP_Tapuri_45","Ocotea caesifolia",8
+"PP_Tapuri_45_Gordonia fruticosa","MDP0608","MDP0608.mzXML","gorfru","PP_Tapuri_45","Gordonia fruticosa","Theaceae","Gordonia","PP_Tapuri_45_Gordonia fruticosa","PP_Tapuri_45","Gordonia fruticosa",82
+"PP_Tapuri_45_Symplocos mapiriensis","MDP0628","MDP0628.mzXML","sym2map","PP_Tapuri_45","Symplocos mapiriensis","Symplocaceae","Symplocos","PP_Tapuri_45_Symplocos mapiriensis","PP_Tapuri_45","Symplocos mapiriensis",2
+"PP_Tapuri_45_Alchornea grandiflora","MDP0601","MDP0601.mzXML","alcgra","PP_Tapuri_45","Alchornea grandiflora","Euphorbiaceae","Alchornea","PP_Tapuri_45_Alchornea grandiflora","PP_Tapuri_45","Alchornea grandiflora",36
+"PP_Tapuri_45_Podocarpus oleifolius","MDP0624","MDP0624.mzXML","podole","PP_Tapuri_45","Podocarpus oleifolius","Podocarpaceae","Podocarpus","PP_Tapuri_45_Podocarpus oleifolius","PP_Tapuri_45","Podocarpus oleifolius",54
+"PP_Tapuri_45_Cavendishia bracteata","MDP0602","MDP0602.mzXML","cav2bra","PP_Tapuri_45","Cavendishia bracteata","Ericaceae","Cavendishia","PP_Tapuri_45_Cavendishia bracteata","PP_Tapuri_45","Cavendishia bracteata",8
+"PP_Tapuri_45_Weinmannia davidsonii","MDP0633","MDP0633.mzXML","weidav","PP_Tapuri_45","Weinmannia davidsonii","Cunoniaceae","Weinmannia","PP_Tapuri_45_Weinmannia davidsonii","PP_Tapuri_45","Weinmannia davidsonii",52
+"PP_Tapuri_45_Miconia AM-3656","MDP0612","MDP0612.mzXML","mic1AM3656","PP_Tapuri_45","Miconia AM-3656","Melastomataceae","Miconia","PP_Tapuri_45_Miconia AM-3656",NA,NA,NA
+"PP_Tapuri_45_Myrsine coriacea","MDP0617","MDP0617.mzXML","myr8cor","PP_Tapuri_45","Myrsine coriacea","Primulaceae","Myrsine","PP_Tapuri_45_Myrsine coriacea","PP_Tapuri_45","Myrsine coriacea",23
+"PP_Tapuri_45_Weinmannia balbisiana","MDP0632","MDP0632.mzXML","weibal","PP_Tapuri_45","Weinmannia balbisiana","Cunoniaceae","Weinmannia","PP_Tapuri_45_Weinmannia balbisiana",NA,NA,NA
+"PP_Tapuri_45_Hieronyma fendleri","MDP0609","MDP0609.mzXML","hiefen","PP_Tapuri_45","Hieronyma fendleri","Phyllanthaceae","Hieronyma","PP_Tapuri_45_Hieronyma fendleri","PP_Tapuri_45","Hieronyma fendleri",22
+"PP_Tapuri_45_Weinmannia AF-19282","MDP0631","MDP0631.mzXML","weiAF19282","PP_Tapuri_45","Weinmannia AF-19282","Cunoniaceae","Weinmannia","PP_Tapuri_45_Weinmannia AF-19282",NA,NA,NA
+"PP_Tapuri_45_Clusia sphaerocarpa","MDP0606","MDP0606.mzXML","clusph","PP_Tapuri_45","Clusia sphaerocarpa","Clusiaceae","Clusia","PP_Tapuri_45_Clusia sphaerocarpa","PP_Tapuri_45","Clusia sphaerocarpa",3
+"PP_Tapuri_45_Clethra peruviana","MDP0604","MDP0604.mzXML","cle3per","PP_Tapuri_45","Clethra peruviana","Clethraceae","Clethra","PP_Tapuri_45_Clethra peruviana","PP_Tapuri_45","Clethra peruviana",27
+"PP_Tapuri_45_Tibouchina bicolor","MDP0630","MDP0630.mzXML","tibbic","PP_Tapuri_45","Tibouchina bicolor","Melastomataceae","Tibouchina","PP_Tapuri_45_Tibouchina bicolor","PP_Tapuri_45","Tibouchina bicolor",1
+"PP_Tapuri_45_Alchornea brittonii","MDP0600","MDP0600.mzXML","alcbri","PP_Tapuri_45","Alchornea brittonii","Euphorbiaceae","Alchornea","PP_Tapuri_45_Alchornea brittonii","PP_Tapuri_45","Alchornea brittonii",3
+"PP_Tapuri_45_Miconia brittonii","MDP0613","MDP0613.mzXML","mic1bri","PP_Tapuri_45","Miconia brittonii","Melastomataceae","Miconia","PP_Tapuri_45_Miconia brittonii","PP_Tapuri_45","Miconia brittonii",23
+"PP_Tapuri_45_Persea AF-15646","MDP0623","MDP0623.mzXML","per6AF15646","PP_Tapuri_45","Persea AF-15646","Lauraceae","Persea","PP_Tapuri_45_Persea AF-15646",NA,NA,NA
+"PP_Tapuri_45_Ruagea ovalis","MDP0626","MDP0626.mzXML","ruaova","PP_Tapuri_45","Ruagea ovalis","Meliaceae","Ruagea","PP_Tapuri_45_Ruagea ovalis","PP_Tapuri_45","Ruagea ovalis",4
+"PP_Tapuri_45_Myrsine AM-3700","MDP0616","MDP0616.mzXML","myr8AM3700","PP_Tapuri_45","Myrsine AM-3700","Primulaceae","Myrsine","PP_Tapuri_45_Myrsine AM-3700",NA,NA,NA
+"PP_Tapuri_45_Cinchona calisaya","MDP0603","MDP0603.mzXML","cin1cal","PP_Tapuri_45","Cinchona calisaya","Rubiaceae","Cinchona","PP_Tapuri_45_Cinchona calisaya","PP_Tapuri_45","Cinchona calisaya",3
+"PP_Tapuri_45_Prunus integrifolia","MDP0625","MDP0625.mzXML","pru2int","PP_Tapuri_45","Prunus integrifolia","Rosaceae","Prunus","PP_Tapuri_45_Prunus integrifolia","PP_Tapuri_45","Prunus integrifolia",13
+"PP_Tapuri_45_Ocotea comata","MDP0620","MDP0620.mzXML","ococom","PP_Tapuri_45","Ocotea comata","Lauraceae","Ocotea","PP_Tapuri_45_Ocotea comata","PP_Tapuri_45","Ocotea comata",55
+"PP_Tapuri_45_Ternstroemia AF-14004","MDP0629","MDP0629.mzXML","ter2AF14004","PP_Tapuri_45","Ternstroemia AF-14004","Pentaphylacaceae","Ternstroemia","PP_Tapuri_45_Ternstroemia AF-14004",NA,NA,NA
+"PP_Tapuri_45_Ocotea LC-3806","MDP0622","MDP0622.mzXML","ocoLC3806","PP_Tapuri_45","Ocotea LC-3806","Lauraceae","Ocotea","PP_Tapuri_45_Ocotea LC-3806",NA,NA,NA
+"PP_Tapuri_45_Clusia ducu","MDP0605","MDP0605.mzXML","cluduc","PP_Tapuri_45","Clusia ducu","Clusiaceae","Clusia","PP_Tapuri_45_Clusia ducu","PP_Tapuri_45","Clusia ducu",2
+"PP_Tapuri_45_Ocotea albida","MDP0618","MDP0618.mzXML","ocoalb1","PP_Tapuri_45","Ocotea albida","Lauraceae","Ocotea","PP_Tapuri_45_Ocotea albida","PP_Tapuri_45","Ocotea albida",1
+"PP_Tapuri_45_Mollinedia repanda","MDP0614","MDP0614.mzXML","molrep","PP_Tapuri_45","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Tapuri_45_Mollinedia repanda","PP_Tapuri_45","Mollinedia repanda",3
+"PP_Tintay_24_Cordia ucayaliensis","MDP0016","MDP0016.mzXML","cor1uca","PP_Tintay_24","Cordia ucayaliensis","Cordiaceae","Cordia","PP_Tintay_24_Cordia ucayaliensis","PP_Tintay_24","Cordia ucayaliensis",1
+"PP_Tintay_24_Casearia arborea","MDP0013","MDP0013.mzXML","casarb","PP_Tintay_24","Casearia arborea","Salicaceae","Casearia","PP_Tintay_24_Casearia arborea","PP_Tintay_24","Casearia arborea",2
+"PP_Tintay_24_Byrsonima arthropoda","MDP0010","MDP0010.mzXML","byrart","PP_Tintay_24","Byrsonima arthropoda","Malpighiaceae","Byrsonima","PP_Tintay_24_Byrsonima arthropoda","PP_Tintay_24","Byrsonima arthropoda",1
+"PP_Tintay_24_Abarema jupunba","MDP0001","MDP0001.mzXML","abajup","PP_Tintay_24","Abarema jupunba","Fabaceae","Abarema","PP_Tintay_24_Abarema jupunba","PP_Tintay_24","Abarema jupunba",1
+"PP_Tintay_24_Mabea macbridei","MDP0044","MDP0044.mzXML","mabmac","PP_Tintay_24","Mabea macbridei","Euphorbiaceae","Mabea","PP_Tintay_24_Mabea macbridei","PP_Tintay_24","Mabea macbridei",3
+"PP_Tintay_24_Helicostylis tomentosa","MDP0029","MDP0029.mzXML","hel2tom","PP_Tintay_24","Helicostylis tomentosa","Moraceae","Helicostylis","PP_Tintay_24_Helicostylis tomentosa","PP_Tintay_24","Helicostylis tomentosa",1
+"PP_Tintay_24_Inga heterophylla","MDP0038","MDP0038.mzXML","inghet","PP_Tintay_24","Inga heterophylla","Fabaceae","Inga","PP_Tintay_24_Inga heterophylla","PP_Tintay_24","Inga heterophylla",3
+"PP_Tintay_24_Coccoloba mollis","MDP0015","MDP0015.mzXML","coc1mol","PP_Tintay_24","Coccoloba mollis","Polygonaceae","Coccoloba","PP_Tintay_24_Coccoloba mollis","PP_Tintay_24","Coccoloba mollis",4
+"PP_Tintay_24_Diplotropis peruviana","MDP0021","MDP0021.mzXML","dip4per","PP_Tintay_24","Diplotropis peruviana","Fabaceae","Diplotropis","PP_Tintay_24_Diplotropis peruviana","PP_Tintay_24","Diplotropis peruviana",3
+"PP_Tintay_24_Aparisthmium cordatum","MDP0006","MDP0006.mzXML","apacor","PP_Tintay_24","Aparisthmium cordatum","Euphorbiaceae","Aparisthmium","PP_Tintay_24_Aparisthmium cordatum","PP_Tintay_24","Aparisthmium cordatum",2
+"PP_Tintay_24_Bathysa australis","MDP0007","MDP0007.mzXML","bat1aus","PP_Tintay_24","Bathysa australis","Rubiaceae","Bathysa","PP_Tintay_24_Bathysa australis","PP_Tintay_24","Bathysa australis",1
+"PP_Tintay_24_Endlicheria canescens","MDP0024","MDP0024.mzXML","endcan","PP_Tintay_24","Endlicheria canescens","Lauraceae","Endlicheria","PP_Tintay_24_Endlicheria canescens","PP_Tintay_24","Endlicheria canescens",6
+"PP_Tintay_24_Inga LC-4134B","MDP0039","MDP0039.mzXML","ingLC4134B","PP_Tintay_24","Inga LC-4134B","Fabaceae","Inga","PP_Tintay_24_Inga LC-4134B",NA,NA,NA
+"PP_Tintay_24_Beilschmiedia tovarensis","MDP0008","MDP0008.mzXML","beitov","PP_Tintay_24","Beilschmiedia tovarensis","Lauraceae","Beilschmiedia","PP_Tintay_24_Beilschmiedia tovarensis","PP_Tintay_24","Beilschmiedia tovarensis",8
+"PP_Tintay_24_Dendropanax inaequalipedunculatus","MDP0019","MDP0019.mzXML","den2ina","PP_Tintay_24","Dendropanax inaequalipedunculatus","Araliaceae","Dendropanax","PP_Tintay_24_Dendropanax inaequalipedunculatus","PP_Tintay_24","Dendropanax inaequalipedunculatus",17
+"PP_Tintay_24_Alchornea glandulosa","MDP0002","MDP0002.mzXML","alcgla","PP_Tintay_24","Alchornea glandulosa","Euphorbiaceae","Alchornea","PP_Tintay_24_Alchornea glandulosa","PP_Tintay_24","Alchornea glandulosa",28
+"PP_Tintay_24_Blakea multiflora","MDP0009","MDP0009.mzXML","blamul","PP_Tintay_24","Blakea multiflora","Melastomataceae","Blakea","PP_Tintay_24_Blakea multiflora","PP_Tintay_24","Blakea multiflora",11
+"PP_Tintay_24_Alchornea triplinervia","MDP0003","MDP0003.mzXML","alctri","PP_Tintay_24","Alchornea triplinervia","Euphorbiaceae","Alchornea","PP_Tintay_24_Alchornea triplinervia","PP_Tintay_24","Alchornea triplinervia",4
+"PP_Tintay_24_Eugenia lambertiana","MDP0026","MDP0026.mzXML","euglam","PP_Tintay_24","Eugenia lambertiana","Myrtaceae","Eugenia","PP_Tintay_24_Eugenia lambertiana","PP_Tintay_24","Eugenia lambertiana",1
+"PP_Tintay_24_Croizatia NCH-25","MDP0017","MDP0017.mzXML","cro1NCH25","PP_Tintay_24","Croizatia NCH-25","Phyllanthaceae","Croizatia","PP_Tintay_24_Croizatia NCH-25",NA,NA,NA
+"PP_Tintay_24_Inga MCM-169","MDP0040","MDP0040.mzXML","ingMCM169","PP_Tintay_24","Inga MCM-169","Fabaceae","Inga","PP_Tintay_24_Inga MCM-169",NA,NA,NA
+"PP_Tintay_24_Didymopanax AF-17370","MDP0020","MDP0020.mzXML","didAF17370","PP_Tintay_24","Didymopanax AF-17370","Araliaceae","Didymopanax","PP_Tintay_24_Didymopanax AF-17370",NA,NA,NA
+"PP_Tintay_24_Inga alba","MDP0036","MDP0036.mzXML","ingalb","PP_Tintay_24","Inga alba","Fabaceae","Inga","PP_Tintay_24_Inga alba","PP_Tintay_24","Inga alba",13
+"PP_Tintay_24_Helicostylis tovarensis","MDP0030","MDP0030.mzXML","hel2tov","PP_Tintay_24","Helicostylis tovarensis","Moraceae","Helicostylis","PP_Tintay_24_Helicostylis tovarensis","PP_Tintay_24","Helicostylis tovarensis",16
+"PP_Tintay_24_Elaeagia mariae","MDP0022","MDP0022.mzXML","elamar","PP_Tintay_24","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Tintay_24_Elaeagia mariae","PP_Tintay_24","Elaeagia mariae",7
+"PP_Tintay_24_Calyptranthes longifolia","MDP0011","MDP0011.mzXML","cal7lon","PP_Tintay_24","Calyptranthes longifolia","Myrtaceae","Calyptranthes","PP_Tintay_24_Calyptranthes longifolia","PP_Tintay_24","Calyptranthes longifolia",6
+"PP_Tintay_24_Ladenbergia oblongifolia","MDP0042","MDP0042.mzXML","ladobl","PP_Tintay_24","Ladenbergia oblongifolia","Rubiaceae","Ladenbergia","PP_Tintay_24_Ladenbergia oblongifolia","PP_Tintay_24","Ladenbergia oblongifolia",1
+"PP_Tintay_24_Hirtella triandra","MDP0032","MDP0032.mzXML","hir2tri","PP_Tintay_24","Hirtella triandra","Chrysobalanaceae","Hirtella","PP_Tintay_24_Hirtella triandra","PP_Tintay_24","Hirtella triandra",4
+"PP_Tintay_24_Chaetocarpus myrsinites","MDP0014","MDP0014.mzXML","cha1myr","PP_Tintay_24","Chaetocarpus myrsinites","Peraceae","Chaetocarpus","PP_Tintay_24_Chaetocarpus myrsinites","PP_Tintay_24","Chaetocarpus myrsinites",4
+"PP_Tintay_24_Hieronyma GAT-658","MDP0031","MDP0031.mzXML","hieGAT658","PP_Tintay_24","Hieronyma GAT-658","Phyllanthaceae","Hieronyma","PP_Tintay_24_Hieronyma GAT-658",NA,NA,NA
+"PP_Tintay_24_Licania boliviensis","MDP0043","MDP0043.mzXML","lic1bol","PP_Tintay_24","Licania boliviensis","Chrysobalanaceae","Licania","PP_Tintay_24_Licania boliviensis","PP_Tintay_24","Licania boliviensis",8
+"PP_Tintay_24_Inga edulis","MDP0037","MDP0037.mzXML","ingedu","PP_Tintay_24","Inga edulis","Fabaceae","Inga","PP_Tintay_24_Inga edulis","PP_Tintay_24","Inga edulis",6
+"PP_Tintay_24_Eugenia florida","MDP0025","MDP0025.mzXML","eugflo","PP_Tintay_24","Eugenia florida","Myrtaceae","Eugenia","PP_Tintay_24_Eugenia florida","PP_Tintay_24","Eugenia florida",12
+"PP_Tintay_24_Guatteria punctata","MDP0028","MDP0028.mzXML","gua4pun","PP_Tintay_24","Guatteria punctata","Annonaceae","Guatteria","PP_Tintay_24_Guatteria punctata","PP_Tintay_24","Guatteria punctata",7
+"PP_Tintay_24_Inga striata","MDP0041","MDP0041.mzXML","ingstr1","PP_Tintay_24","Inga striata","Fabaceae","Inga","PP_Tintay_24_Inga striata","PP_Tintay_24","Inga striata",1
+"PP_Tintay_24_Croton rusbyi","MDP0018","MDP0018.mzXML","cro2rus","PP_Tintay_24","Croton rusbyi","Euphorbiaceae","Croton","PP_Tintay_24_Croton rusbyi","PP_Tintay_24","Croton rusbyi",2
+"PP_Tintay_24_Endlicheria aurea","MDP0023","MDP0023.mzXML","endaur","PP_Tintay_24","Endlicheria aurea","Lauraceae","Endlicheria","PP_Tintay_24_Endlicheria aurea","PP_Tintay_24","Endlicheria aurea",2
+"PP_Tintay_24_Caryocar dentatum","MDP0012","MDP0012.mzXML","car5den","PP_Tintay_24","Caryocar dentatum","Caryocaraceae","Caryocar","PP_Tintay_24_Caryocar dentatum","PP_Tintay_24","Caryocar dentatum",1
+"PP_Tintay_24_Gordonia fruticosa","MDP0027","MDP0027.mzXML","gorfru","PP_Tintay_24","Gordonia fruticosa","Theaceae","Gordonia","PP_Tintay_24_Gordonia fruticosa","PP_Tintay_24","Gordonia fruticosa",9
+"PP_Tintay_24_Aniba muca","MDP0004","MDP0004.mzXML","animuc","PP_Tintay_24","Aniba muca","Lauraceae","Aniba","PP_Tintay_24_Aniba muca","PP_Tintay_24","Aniba muca",6
+"PP_Tintay_24_Annona RSS-85","MDP0005","MDP0005.mzXML","annRSS85","PP_Tintay_24","Annona RSS-85","Annonaceae","Annona","PP_Tintay_24_Annona RSS-85",NA,NA,NA
+"PP_Tintay_24_Ilex amplifolia","MDP0034","MDP0034.mzXML","ileamp","PP_Tintay_24","Ilex amplifolia","Aquifoliaceae","Ilex","PP_Tintay_24_Ilex amplifolia","PP_Tintay_24","Ilex amplifolia",1
+"PP_Tintay_24_Ilex petiolaris","MDP0035","MDP0035.mzXML","ilepet","PP_Tintay_24","Ilex petiolaris","Aquifoliaceae","Ilex","PP_Tintay_24_Ilex petiolaris","PP_Tintay_24","Ilex petiolaris",8
+"PP_Tintay_24_Ilex aggregata","MDP0033","MDP0033.mzXML","ileagg","PP_Tintay_24","Ilex aggregata","Aquifoliaceae","Ilex","PP_Tintay_24_Ilex aggregata","PP_Tintay_24","Ilex aggregata",0
+"PP_Tintay_24_Miconia punctata","MDP0048","MDP0048.mzXML","mic1pun","PP_Tintay_24","Miconia punctata","Melastomataceae","Miconia","PP_Tintay_24_Miconia punctata","PP_Tintay_24","Miconia punctata",2
+"PP_Tintay_24_Myrcia sintenisii","MDP0052","MDP0052.mzXML","myr2sin","PP_Tintay_24","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Tintay_24_Myrcia sintenisii","PP_Tintay_24","Myrcia sintenisii",1
+"PP_Tintay_24_Palicourea tinctoria","MDP0061","MDP0061.mzXML","paltin","PP_Tintay_24","Palicourea tinctoria","Rubiaceae","Palicourea","PP_Tintay_24_Palicourea tinctoria","PP_Tintay_24","Palicourea tinctoria",1
+"PP_Tintay_24_Pouteria bilocularis","MDP0070","MDP0070.mzXML","pou3bil","PP_Tintay_24","Pouteria bilocularis","Sapotaceae","Pouteria","PP_Tintay_24_Pouteria bilocularis","PP_Tintay_24","Pouteria bilocularis",1
+"PP_Tintay_24_Schizocalyx obovatus","MDP0079","MDP0079.mzXML","sch4obo","PP_Tintay_24","Schizocalyx obovatus","Rubiaceae","Schizocalyx","PP_Tintay_24_Schizocalyx obovatus","PP_Tintay_24","Schizocalyx obovatus",9
+"PP_Tintay_24_Myrcia fallax","MDP0051","MDP0051.mzXML","myr2fal","PP_Tintay_24","Myrcia fallax","Myrtaceae","Myrcia","PP_Tintay_24_Myrcia fallax","PP_Tintay_24","Myrcia fallax",22
+"PP_Tintay_24_Meriania AF-16998","MDP0045","MDP0045.mzXML","mer1AF16998","PP_Tintay_24","Meriania AF-16998","Melastomataceae","Meriania","PP_Tintay_24_Meriania AF-16998",NA,NA,NA
+"PP_Tintay_24_Miconia splendens","MDP0049","MDP0049.mzXML","mic1spl","PP_Tintay_24","Miconia splendens","Melastomataceae","Miconia","PP_Tintay_24_Miconia splendens","PP_Tintay_24","Miconia splendens",1
+"PP_Tintay_24_Miconia multispicata","MDP0047","MDP0047.mzXML","mic1mul","PP_Tintay_24","Miconia multispicata","Melastomataceae","Miconia","PP_Tintay_24_Miconia multispicata","PP_Tintay_24","Miconia multispicata",8
+"PP_Tintay_24_Rhodostemonodaphne kunthiana","MDP0076","MDP0076.mzXML","rhokun","PP_Tintay_24","Rhodostemonodaphne kunthiana","Lauraceae","Rhodostemonodaphne","PP_Tintay_24_Rhodostemonodaphne kunthiana","PP_Tintay_24","Rhodostemonodaphne kunthiana",1
+"PP_Tintay_24_Perebea guianensis","MDP0062","MDP0062.mzXML","per2gui","PP_Tintay_24","Perebea guianensis","Moraceae","Perebea","PP_Tintay_24_Perebea guianensis","PP_Tintay_24","Perebea guianensis",6
+"PP_Tintay_24_Pouteria caimito","MDP0071","MDP0071.mzXML","pou3cai","PP_Tintay_24","Pouteria caimito","Sapotaceae","Pouteria","PP_Tintay_24_Pouteria caimito","PP_Tintay_24","Pouteria caimito",14
+"PP_Tintay_24_Neea LC-2607","MDP0056","MDP0056.mzXML","neeLC2607","PP_Tintay_24","Neea LC-2607","Nyctaginaceae","Neea","PP_Tintay_24_Neea LC-2607",NA,NA,NA
+"PP_Tintay_24_Pouteria cuspidata","MDP0072","MDP0072.mzXML","pou3cus","PP_Tintay_24","Pouteria cuspidata","Sapotaceae","Pouteria","PP_Tintay_24_Pouteria cuspidata","PP_Tintay_24","Pouteria cuspidata",5
+"PP_Tintay_24_Virola AEC-312","MDP0085","MDP0085.mzXML","virAEC312","PP_Tintay_24","Virola AEC-312","Myristicaceae","Virola","PP_Tintay_24_Virola AEC-312",NA,NA,NA
+"PP_Tintay_24_Ocotea oblonga","MDP0059","MDP0059.mzXML","ocoobl","PP_Tintay_24","Ocotea oblonga","Lauraceae","Ocotea","PP_Tintay_24_Ocotea oblonga","PP_Tintay_24","Ocotea oblonga",2
+"PP_Tintay_24_Schefflera vinosa","MDP0078","MDP0078.mzXML","sch2vin","PP_Tintay_24","Schefflera vinosa","Araliaceae","Schefflera","PP_Tintay_24_Schefflera vinosa",NA,NA,NA
+"PP_Tintay_24_Quiina florida","MDP0075","MDP0075.mzXML","quiflo","PP_Tintay_24","Quiina florida","Ochnaceae","Quiina","PP_Tintay_24_Quiina florida","PP_Tintay_24","Quiina florida",1
+"PP_Tintay_24_Pourouma bicolor","MDP0068","MDP0068.mzXML","pou2bic","PP_Tintay_24","Pourouma bicolor","Urticaceae","Pourouma","PP_Tintay_24_Pourouma bicolor","PP_Tintay_24","Pourouma bicolor",7
+"PP_Tintay_24_Pourouma minor","MDP0069","MDP0069.mzXML","pou2min","PP_Tintay_24","Pourouma minor","Urticaceae","Pourouma","PP_Tintay_24_Pourouma minor","PP_Tintay_24","Pourouma minor",13
+"PP_Tintay_24_Miconia elongata","MDP0046","MDP0046.mzXML","mic1elo","PP_Tintay_24","Miconia elongata","Melastomataceae","Miconia","PP_Tintay_24_Miconia elongata","PP_Tintay_24","Miconia elongata",3
+"PP_Tintay_24_Rhodostemonodaphne longiflora","MDP0077","MDP0077.mzXML","rholon","PP_Tintay_24","Rhodostemonodaphne longiflora","Lauraceae","Rhodostemonodaphne","PP_Tintay_24_Rhodostemonodaphne longiflora","PP_Tintay_24","Rhodostemonodaphne longiflora",2
+"PP_Tintay_24_Weinmannia lechleriana","MDP0087","MDP0087.mzXML","weilec","PP_Tintay_24","Weinmannia lechleriana","Cunoniaceae","Weinmannia","PP_Tintay_24_Weinmannia lechleriana","PP_Tintay_24","Weinmannia lechleriana",4
+"PP_Tintay_24_Ocotea LC-6779","MDP0058","MDP0058.mzXML","ocoLC6779","PP_Tintay_24","Ocotea LC-6779","Lauraceae","Ocotea","PP_Tintay_24_Ocotea LC-6779",NA,NA,NA
+"PP_Tintay_24_Pleurothyrium trianae","MDP0067","MDP0067.mzXML","ple3tri","PP_Tintay_24","Pleurothyrium trianae","Lauraceae","Pleurothyrium","PP_Tintay_24_Pleurothyrium trianae","PP_Tintay_24","Pleurothyrium trianae",8
+"PP_Tintay_24_Mollinedia ovata","MDP0050","MDP0050.mzXML","molova","PP_Tintay_24","Mollinedia ovata","Monimiaceae","Mollinedia","PP_Tintay_24_Mollinedia ovata","PP_Tintay_24","Mollinedia ovata",6
+"PP_Tintay_24_Tapirira guianensis","MDP0084","MDP0084.mzXML","tap1gui","PP_Tintay_24","Tapirira guianensis","Anacardiaceae","Tapirira","PP_Tintay_24_Tapirira guianensis","PP_Tintay_24","Tapirira guianensis",5
+"PP_Tintay_24_Nectandra JCS-9565","MDP0054","MDP0054.mzXML","necJCS9565","PP_Tintay_24","Nectandra JCS-9565","Lauraceae","Nectandra","PP_Tintay_24_Nectandra JCS-9565",NA,NA,NA
+"PP_Tintay_24_Sloanea pubescens","MDP0083","MDP0083.mzXML","slopub","PP_Tintay_24","Sloanea pubescens","Elaeocarpaceae","Sloanea","PP_Tintay_24_Sloanea pubescens","PP_Tintay_24","Sloanea pubescens",2
+"PP_Tintay_24_Simarouba amara","MDP0080","MDP0080.mzXML","sim1ama","PP_Tintay_24","Simarouba amara","Simaroubaceae","Simarouba","PP_Tintay_24_Simarouba amara","PP_Tintay_24","Simarouba amara",1
+"PP_Tintay_24_Ocotea aciphylla","MDP0057","MDP0057.mzXML","ocoaci","PP_Tintay_24","Ocotea aciphylla","Lauraceae","Ocotea","PP_Tintay_24_Ocotea aciphylla","PP_Tintay_24","Ocotea aciphylla",28
+"PP_Tintay_24_Myrsine pellucida","MDP0053","MDP0053.mzXML","myr8pel","PP_Tintay_24","Myrsine pellucida","Primulaceae","Myrsine","PP_Tintay_24_Myrsine pellucida","PP_Tintay_24","Myrsine pellucida",2
+"PP_Tintay_24_Siphoneugena occidentalis","MDP0081","MDP0081.mzXML","sip3occ","PP_Tintay_24","Siphoneugena occidentalis","Myrtaceae","Siphoneugena","PP_Tintay_24_Siphoneugena occidentalis","PP_Tintay_24","Siphoneugena occidentalis",2
+"PP_Tintay_24_Ocotea puberula","MDP0060","MDP0060.mzXML","ocopub","PP_Tintay_24","Ocotea puberula","Lauraceae","Ocotea","PP_Tintay_24_Ocotea puberula","PP_Tintay_24","Ocotea puberula",6
+"PP_Tintay_24_Vismia glabra","MDP0086","MDP0086.mzXML","visgla","PP_Tintay_24","Vismia glabra","Hypericaceae","Vismia","PP_Tintay_24_Vismia glabra","PP_Tintay_24","Vismia glabra",2
+"PP_Tintay_24_Persea sphaerocarpa","MDP0065","MDP0065.mzXML","per6sph","PP_Tintay_24","Persea sphaerocarpa","Lauraceae","Persea","PP_Tintay_24_Persea sphaerocarpa","PP_Tintay_24","Persea sphaerocarpa",3
+"PP_Tintay_24_Prunus stipulata","MDP0074","MDP0074.mzXML","pru2sti","PP_Tintay_24","Prunus stipulata","Rosaceae","Prunus","PP_Tintay_24_Prunus stipulata","PP_Tintay_24","Prunus stipulata",2
+"PP_Tintay_24_Protium montanum","MDP0073","MDP0073.mzXML","pro2mon","PP_Tintay_24","Protium montanum","Burseraceae","Protium","PP_Tintay_24_Protium montanum","PP_Tintay_24","Protium montanum",15
+"PP_Tintay_24_Sloanea fendleriana","MDP0082","MDP0082.mzXML","slofen","PP_Tintay_24","Sloanea fendleriana","Elaeocarpaceae","Sloanea","PP_Tintay_24_Sloanea fendleriana","PP_Tintay_24","Sloanea fendleriana",3
+"PP_Tintay_24_Pleurothyrium LC-4542","MDP0066","MDP0066.mzXML","ple3LC4542","PP_Tintay_24","Pleurothyrium LC-4542","Lauraceae","Pleurothyrium","PP_Tintay_24_Pleurothyrium LC-4542",NA,NA,NA
+"PP_Tintay_24_Nectandra NCH-72","MDP0055","MDP0055.mzXML","necNCH72","PP_Tintay_24","Nectandra NCH-72","Lauraceae","Nectandra","PP_Tintay_24_Nectandra NCH-72",NA,NA,NA
+"PP_Tintay_24_Persea peruviana","MDP0064","MDP0064.mzXML","per6per","PP_Tintay_24","Persea peruviana","Lauraceae","Persea","PP_Tintay_24_Persea peruviana","PP_Tintay_24","Persea peruviana",3
+"PP_Tintay_24_Persea areolatocostae","MDP0063","MDP0063.mzXML","per6are","PP_Tintay_24","Persea areolatocostae","Lauraceae","Persea","PP_Tintay_24_Persea areolatocostae","PP_Tintay_24","Persea areolatocostae",1
+"PP_Tintay_25_Bathysa australis","MDP0093","MDP0093.mzXML","bat1aus","PP_Tintay_25","Bathysa australis","Rubiaceae","Bathysa","PP_Tintay_25_Bathysa australis","PP_Tintay_25","Bathysa australis",6
+"PP_Tintay_25_Myrcia fallax","MDP0130","MDP0130.mzXML","myr2fal","PP_Tintay_25","Myrcia fallax","Myrtaceae","Myrcia","PP_Tintay_25_Myrcia fallax","PP_Tintay_25","Myrcia fallax",4
+"PP_Tintay_25_Meriania AF-16998","MDP0123","MDP0123.mzXML","mer1AF16998","PP_Tintay_25","Meriania AF-16998","Melastomataceae","Meriania","PP_Tintay_25_Meriania AF-16998",NA,NA,NA
+"PP_Tintay_25_Coussarea boliviensis","MDP0099","MDP0099.mzXML","cou3bol","PP_Tintay_25","Coussarea boliviensis","Rubiaceae","Coussarea","PP_Tintay_25_Coussarea boliviensis","PP_Tintay_25","Coussarea boliviensis",1
+"PP_Tintay_25_Miconia multispicata","MDP0127","MDP0127.mzXML","mic1mul","PP_Tintay_25","Miconia multispicata","Melastomataceae","Miconia","PP_Tintay_25_Miconia multispicata","PP_Tintay_25","Miconia multispicata",3
+"PP_Tintay_25_Schizocalyx obovatus","MDP0156","MDP0156.mzXML","sch4obo","PP_Tintay_25","Schizocalyx obovatus","Rubiaceae","Schizocalyx","PP_Tintay_25_Schizocalyx obovatus","PP_Tintay_25","Schizocalyx obovatus",31
+"PP_Tintay_25_Inga edulis","MDP0116","MDP0116.mzXML","ingedu","PP_Tintay_25","Inga edulis","Fabaceae","Inga","PP_Tintay_25_Inga edulis","PP_Tintay_25","Inga edulis",5
+"PP_Tintay_25_Blakea multiflora","MDP0095","MDP0095.mzXML","blamul","PP_Tintay_25","Blakea multiflora","Melastomataceae","Blakea","PP_Tintay_25_Blakea multiflora","PP_Tintay_25","Blakea multiflora",28
+"PP_Tintay_25_Alchornea triplinervia","MDP0089","MDP0089.mzXML","alctri","PP_Tintay_25","Alchornea triplinervia","Euphorbiaceae","Alchornea","PP_Tintay_25_Alchornea triplinervia","PP_Tintay_25","Alchornea triplinervia",3
+"PP_Tintay_25_Aparisthmium cordatum","MDP0092","MDP0092.mzXML","apacor","PP_Tintay_25","Aparisthmium cordatum","Euphorbiaceae","Aparisthmium","PP_Tintay_25_Aparisthmium cordatum","PP_Tintay_25","Aparisthmium cordatum",1
+"PP_Tintay_25_Croizatia NCH-25","MDP0100","MDP0100.mzXML","cro1NCH25","PP_Tintay_25","Croizatia NCH-25","Phyllanthaceae","Croizatia","PP_Tintay_25_Croizatia NCH-25",NA,NA,NA
+"PP_Tintay_25_Bellucia gracilis","MDP0094","MDP0094.mzXML","belgra","PP_Tintay_25","Bellucia gracilis","Melastomataceae","Bellucia","PP_Tintay_25_Bellucia gracilis","PP_Tintay_25","Bellucia gracilis",5
+"PP_Tintay_25_Alchornea glandulosa","MDP0088","MDP0088.mzXML","alcgla","PP_Tintay_25","Alchornea glandulosa","Euphorbiaceae","Alchornea","PP_Tintay_25_Alchornea glandulosa","PP_Tintay_25","Alchornea glandulosa",17
+"PP_Tintay_25_Inga multinervis","MDP0118","MDP0118.mzXML","ingmul","PP_Tintay_25","Inga multinervis","Fabaceae","Inga","PP_Tintay_25_Inga multinervis","PP_Tintay_25","Inga multinervis",14
+"PP_Tintay_25_Mabea macbridei","MDP0121","MDP0121.mzXML","mabmac","PP_Tintay_25","Mabea macbridei","Euphorbiaceae","Mabea","PP_Tintay_25_Mabea macbridei","PP_Tintay_25","Mabea macbridei",12
+"PP_Tintay_25_Miconia centrodesma","MDP0125","MDP0125.mzXML","mic1cen","PP_Tintay_25","Miconia centrodesma","Melastomataceae","Miconia","PP_Tintay_25_Miconia centrodesma","PP_Tintay_25","Miconia centrodesma",7
+"PP_Tintay_25_Weinmannia lechleriana","MDP0160","MDP0160.mzXML","weilec","PP_Tintay_25","Weinmannia lechleriana","Cunoniaceae","Weinmannia","PP_Tintay_25_Weinmannia lechleriana","PP_Tintay_25","Weinmannia lechleriana",4
+"PP_Tintay_25_Elaeagia mariae","MDP0104","MDP0104.mzXML","elamar","PP_Tintay_25","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Tintay_25_Elaeagia mariae","PP_Tintay_25","Elaeagia mariae",30
+"PP_Tintay_25_Pourouma bicolor","MDP0144","MDP0144.mzXML","pou2bic","PP_Tintay_25","Pourouma bicolor","Urticaceae","Pourouma","PP_Tintay_25_Pourouma bicolor","PP_Tintay_25","Pourouma bicolor",6
+"PP_Tintay_25_Pouteria bilocularis","MDP0147","MDP0147.mzXML","pou3bil","PP_Tintay_25","Pouteria bilocularis","Sapotaceae","Pouteria","PP_Tintay_25_Pouteria bilocularis","PP_Tintay_25","Pouteria bilocularis",1
+"PP_Tintay_25_Endlicheria canescens","MDP0105","MDP0105.mzXML","endcan","PP_Tintay_25","Endlicheria canescens","Lauraceae","Endlicheria","PP_Tintay_25_Endlicheria canescens","PP_Tintay_25","Endlicheria canescens",4
+"PP_Tintay_25_Dendropanax inaequalipedunculatus","MDP0102","MDP0102.mzXML","den2ina","PP_Tintay_25","Dendropanax inaequalipedunculatus","Araliaceae","Dendropanax","PP_Tintay_25_Dendropanax inaequalipedunculatus","PP_Tintay_25","Dendropanax inaequalipedunculatus",7
+"PP_Tintay_25_Perebea guianensis","MDP0140","MDP0140.mzXML","per2gui","PP_Tintay_25","Perebea guianensis","Moraceae","Perebea","PP_Tintay_25_Perebea guianensis","PP_Tintay_25","Perebea guianensis",14
+"PP_Tintay_25_Pouteria caimito","MDP0148","MDP0148.mzXML","pou3cai","PP_Tintay_25","Pouteria caimito","Sapotaceae","Pouteria","PP_Tintay_25_Pouteria caimito","PP_Tintay_25","Pouteria caimito",13
+"PP_Tintay_25_Didymopanax AF-17370","MDP0103","MDP0103.mzXML","didAF17370","PP_Tintay_25","Didymopanax AF-17370","Araliaceae","Didymopanax","PP_Tintay_25_Didymopanax AF-17370",NA,NA,NA
+"PP_Tintay_25_Inga LC-4134B","MDP0117","MDP0117.mzXML","ingLC4134B","PP_Tintay_25","Inga LC-4134B","Fabaceae","Inga","PP_Tintay_25_Inga LC-4134B",NA,NA,NA
+"PP_Tintay_25_Helicostylis tovarensis","MDP0111","MDP0111.mzXML","hel2tov","PP_Tintay_25","Helicostylis tovarensis","Moraceae","Helicostylis","PP_Tintay_25_Helicostylis tovarensis","PP_Tintay_25","Helicostylis tovarensis",9
+"PP_Tintay_25_Pouteria cuspidata","MDP0149","MDP0149.mzXML","pou3cus","PP_Tintay_25","Pouteria cuspidata","Sapotaceae","Pouteria","PP_Tintay_25_Pouteria cuspidata","PP_Tintay_25","Pouteria cuspidata",1
+"PP_Tintay_25_Guatteria punctata","MDP0110","MDP0110.mzXML","gua4pun","PP_Tintay_25","Guatteria punctata","Annonaceae","Guatteria","PP_Tintay_25_Guatteria punctata","PP_Tintay_25","Guatteria punctata",6
+"PP_Tintay_25_Pourouma minor","MDP0145","MDP0145.mzXML","pou2min","PP_Tintay_25","Pourouma minor","Urticaceae","Pourouma","PP_Tintay_25_Pourouma minor","PP_Tintay_25","Pourouma minor",10
+"PP_Tintay_25_Palicourea tinctoria","MDP0139","MDP0139.mzXML","paltin","PP_Tintay_25","Palicourea tinctoria","Rubiaceae","Palicourea","PP_Tintay_25_Palicourea tinctoria","PP_Tintay_25","Palicourea tinctoria",3
+"PP_Tintay_25_Myrcia sintenisii","MDP0131","MDP0131.mzXML","myr2sin","PP_Tintay_25","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Tintay_25_Myrcia sintenisii","PP_Tintay_25","Myrcia sintenisii",1
+"PP_Tintay_25_Hirtella triandra","MDP0113","MDP0113.mzXML","hir2tri","PP_Tintay_25","Hirtella triandra","Chrysobalanaceae","Hirtella","PP_Tintay_25_Hirtella triandra","PP_Tintay_25","Hirtella triandra",4
+"PP_Tintay_25_Miconia AF-7149","MDP0124","MDP0124.mzXML","mic1AF7149","PP_Tintay_25","Miconia AF-7149","Melastomataceae","Miconia","PP_Tintay_25_Miconia AF-7149",NA,NA,NA
+"PP_Tintay_25_Miconia elongata","MDP0126","MDP0126.mzXML","mic1elo","PP_Tintay_25","Miconia elongata","Melastomataceae","Miconia","PP_Tintay_25_Miconia elongata","PP_Tintay_25","Miconia elongata",6
+"PP_Tintay_25_Hieronyma GAT-658","MDP0112","MDP0112.mzXML","hieGAT658","PP_Tintay_25","Hieronyma GAT-658","Phyllanthaceae","Hieronyma","PP_Tintay_25_Hieronyma GAT-658",NA,NA,NA
+"PP_Tintay_25_Pseudolmedia LC-4490","MDP0153","MDP0153.mzXML","pse2LC4490","PP_Tintay_25","Pseudolmedia LC-4490","Moraceae","Pseudolmedia","PP_Tintay_25_Pseudolmedia LC-4490",NA,NA,NA
+"PP_Tintay_25_Erisma NCH-237","MDP0106","MDP0106.mzXML","eri2NCH237","PP_Tintay_25","Erisma NCH-237","Vochysiaceae","Erisma","PP_Tintay_25_Erisma NCH-237",NA,NA,NA
+"PP_Tintay_25_Ficus americana","MDP0108","MDP0108.mzXML","ficame","PP_Tintay_25","Ficus americana","Moraceae","Ficus","PP_Tintay_25_Ficus americana","PP_Tintay_25","Ficus americana",2
+"PP_Tintay_25_Calyptranthes longifolia","MDP0096","MDP0096.mzXML","cal7lon","PP_Tintay_25","Calyptranthes longifolia","Myrtaceae","Calyptranthes","PP_Tintay_25_Calyptranthes longifolia","PP_Tintay_25","Calyptranthes longifolia",5
+"PP_Tintay_25_Neea LC-2607","MDP0133","MDP0133.mzXML","neeLC2607","PP_Tintay_25","Neea LC-2607","Nyctaginaceae","Neea","PP_Tintay_25_Neea LC-2607",NA,NA,NA
+"PP_Tintay_25_Coccoloba mollis","MDP0098","MDP0098.mzXML","coc1mol","PP_Tintay_25","Coccoloba mollis","Polygonaceae","Coccoloba","PP_Tintay_25_Coccoloba mollis","PP_Tintay_25","Coccoloba mollis",7
+"PP_Tintay_25_Eugenia florida","MDP0107","MDP0107.mzXML","eugflo","PP_Tintay_25","Eugenia florida","Myrtaceae","Eugenia","PP_Tintay_25_Eugenia florida","PP_Tintay_25","Eugenia florida",7
+"PP_Tintay_25_Annona RSS-85","MDP0091","MDP0091.mzXML","annRSS85","PP_Tintay_25","Annona RSS-85","Annonaceae","Annona","PP_Tintay_25_Annona RSS-85",NA,NA,NA
+"PP_Tintay_25_Protium montanum","MDP0150","MDP0150.mzXML","pro2mon","PP_Tintay_25","Protium montanum","Burseraceae","Protium","PP_Tintay_25_Protium montanum","PP_Tintay_25","Protium montanum",9
+"PP_Tintay_25_Rauvolfia leptophylla","MDP0154","MDP0154.mzXML","rau2lep","PP_Tintay_25","Rauvolfia leptophylla","Apocynaceae","Rauvolfia","PP_Tintay_25_Rauvolfia leptophylla","PP_Tintay_25","Rauvolfia leptophylla",3
+"PP_Tintay_25_Siparuna thecaphora","MDP0157","MDP0157.mzXML","sip1the","PP_Tintay_25","Siparuna thecaphora","Siparunaceae","Siparuna","PP_Tintay_25_Siparuna thecaphora","PP_Tintay_25","Siparuna thecaphora",1
+"PP_Tintay_25_Mollinedia repanda","MDP0129","MDP0129.mzXML","molrep","PP_Tintay_25","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Tintay_25_Mollinedia repanda","PP_Tintay_25","Mollinedia repanda",2
+"PP_Tintay_25_Pleurothyrium trianae","MDP0143","MDP0143.mzXML","ple3tri","PP_Tintay_25","Pleurothyrium trianae","Lauraceae","Pleurothyrium","PP_Tintay_25_Pleurothyrium trianae","PP_Tintay_25","Pleurothyrium trianae",21
+"PP_Tintay_25_Schefflera vinosa","MDP0155","MDP0155.mzXML","sch2vin","PP_Tintay_25","Schefflera vinosa","Araliaceae","Schefflera","PP_Tintay_25_Schefflera vinosa",NA,NA,NA
+"PP_Tintay_25_Prunus LC-4596","MDP0151","MDP0151.mzXML","pru2LC4596","PP_Tintay_25","Prunus LC-4596","Rosaceae","Prunus","PP_Tintay_25_Prunus LC-4596",NA,NA,NA
+"PP_Tintay_25_Aniba muca","MDP0090","MDP0090.mzXML","animuc","PP_Tintay_25","Aniba muca","Lauraceae","Aniba","PP_Tintay_25_Aniba muca","PP_Tintay_25","Aniba muca",4
+"PP_Tintay_25_Casearia arborea","MDP0097","MDP0097.mzXML","casarb","PP_Tintay_25","Casearia arborea","Salicaceae","Casearia","PP_Tintay_25_Casearia arborea","PP_Tintay_25","Casearia arborea",3
+"PP_Tintay_25_Cupania CMG-2731","MDP0101","MDP0101.mzXML","cupCMG2731","PP_Tintay_25","Cupania CMG-2731","Sapindaceae","Cupania","PP_Tintay_25_Cupania CMG-2731",NA,NA,NA
+"PP_Tintay_25_Mollinedia ovata","MDP0128","MDP0128.mzXML","molova","PP_Tintay_25","Mollinedia ovata","Monimiaceae","Mollinedia","PP_Tintay_25_Mollinedia ovata","PP_Tintay_25","Mollinedia ovata",8
+"PP_Tintay_25_Pleurothyrium LC-4542","MDP0142","MDP0142.mzXML","ple3LC4542","PP_Tintay_25","Pleurothyrium LC-4542","Lauraceae","Pleurothyrium","PP_Tintay_25_Pleurothyrium LC-4542",NA,NA,NA
+"PP_Tintay_25_Pouteria baehniana","MDP0146","MDP0146.mzXML","pou3bae","PP_Tintay_25","Pouteria baehniana","Sapotaceae","Pouteria","PP_Tintay_25_Pouteria baehniana","PP_Tintay_25","Pouteria baehniana",5
+"PP_Tintay_25_Inga striata","MDP0119","MDP0119.mzXML","ingstr1","PP_Tintay_25","Inga striata","Fabaceae","Inga","PP_Tintay_25_Inga striata","PP_Tintay_25","Inga striata",1
+"PP_Tintay_25_Sloanea pubescens","MDP0158","MDP0158.mzXML","slopub","PP_Tintay_25","Sloanea pubescens","Elaeocarpaceae","Sloanea","PP_Tintay_25_Sloanea pubescens","PP_Tintay_25","Sloanea pubescens",6
+"PP_Tintay_25_Oreopanax trollii","MDP0138","MDP0138.mzXML","oretro","PP_Tintay_25","Oreopanax trollii","Araliaceae","Oreopanax","PP_Tintay_25_Oreopanax trollii","PP_Tintay_25","Oreopanax trollii",1
+"PP_Tintay_25_Ocotea LC-6779","MDP0135","MDP0135.mzXML","ocoLC6779","PP_Tintay_25","Ocotea LC-6779","Lauraceae","Ocotea","PP_Tintay_25_Ocotea LC-6779",NA,NA,NA
+"PP_Tintay_25_Ocotea aciphylla","MDP0134","MDP0134.mzXML","ocoaci","PP_Tintay_25","Ocotea aciphylla","Lauraceae","Ocotea","PP_Tintay_25_Ocotea aciphylla","PP_Tintay_25","Ocotea aciphylla",16
+"PP_Tintay_25_Prunus stipulata","MDP0152","MDP0152.mzXML","pru2sti","PP_Tintay_25","Prunus stipulata","Rosaceae","Prunus","PP_Tintay_25_Prunus stipulata","PP_Tintay_25","Prunus stipulata",1
+"PP_Tintay_25_Ocotea puberula","MDP0137","MDP0137.mzXML","ocopub","PP_Tintay_25","Ocotea puberula","Lauraceae","Ocotea","PP_Tintay_25_Ocotea puberula","PP_Tintay_25","Ocotea puberula",3
+"PP_Tintay_25_Magnolia madidiensis","MDP0122","MDP0122.mzXML","mag1mad","PP_Tintay_25","Magnolia madidiensis","Magnoliaceae","Magnolia","PP_Tintay_25_Magnolia madidiensis","PP_Tintay_25","Magnolia madidiensis",1
+"PP_Tintay_25_Gordonia fruticosa","MDP0109","MDP0109.mzXML","gorfru","PP_Tintay_25","Gordonia fruticosa","Theaceae","Gordonia","PP_Tintay_25_Gordonia fruticosa","PP_Tintay_25","Gordonia fruticosa",15
+"PP_Tintay_25_Licania boliviensis","MDP0120","MDP0120.mzXML","lic1bol","PP_Tintay_25","Licania boliviensis","Chrysobalanaceae","Licania","PP_Tintay_25_Licania boliviensis","PP_Tintay_25","Licania boliviensis",2
+"PP_Tintay_25_Inga alba","MDP0115","MDP0115.mzXML","ingalb","PP_Tintay_25","Inga alba","Fabaceae","Inga","PP_Tintay_25_Inga alba","PP_Tintay_25","Inga alba",5
+"PP_Tintay_25_Nectandra NCH-72","MDP0132","MDP0132.mzXML","necNCH72","PP_Tintay_25","Nectandra NCH-72","Lauraceae","Nectandra","PP_Tintay_25_Nectandra NCH-72",NA,NA,NA
+"PP_Tintay_25_Ilex amplifolia","MDP0114","MDP0114.mzXML","ileamp","PP_Tintay_25","Ilex amplifolia","Aquifoliaceae","Ilex","PP_Tintay_25_Ilex amplifolia","PP_Tintay_25","Ilex amplifolia",1
+"PP_Tintay_25_Virola AEC-312","MDP0159","MDP0159.mzXML","virAEC312","PP_Tintay_25","Virola AEC-312","Myristicaceae","Virola","PP_Tintay_25_Virola AEC-312",NA,NA,NA
+"PP_Tintay_25_Ocotea NCH-209","MDP0136","MDP0136.mzXML","ocoNCH209","PP_Tintay_25","Ocotea NCH-209","Lauraceae","Ocotea","PP_Tintay_25_Ocotea NCH-209",NA,NA,NA
+"PP_Tintay_25_Persea sphaerocarpa","MDP0141","MDP0141.mzXML","per6sph","PP_Tintay_25","Persea sphaerocarpa","Lauraceae","Persea","PP_Tintay_25_Persea sphaerocarpa","PP_Tintay_25","Persea sphaerocarpa",2
+"PP_Titiri_42_Clethra AF-10699","MDP0162","MDP0162.mzXML","cle3AF10699","PP_Titiri_42","Clethra AF-10699","Clethraceae","Clethra","PP_Titiri_42_Clethra AF-10699",NA,NA,NA
+"PP_Titiri_42_Weinmannia davidsonii","MDP0188","MDP0188.mzXML","weidav","PP_Titiri_42","Weinmannia davidsonii","Cunoniaceae","Weinmannia","PP_Titiri_42_Weinmannia davidsonii","PP_Titiri_42","Weinmannia davidsonii",3
+"PP_Titiri_42_Solanum maturecalvans","MDP0181","MDP0181.mzXML","solmat","PP_Titiri_42","Solanum maturecalvans","Solanaceae","Solanum","PP_Titiri_42_Solanum maturecalvans","PP_Titiri_42","Solanum maturecalvans",13
+"PP_Titiri_42_Persea AF-15646","MDP0176","MDP0176.mzXML","per6AF15646","PP_Titiri_42","Persea AF-15646","Lauraceae","Persea","PP_Titiri_42_Persea AF-15646",NA,NA,NA
+"PP_Titiri_42_Clusia sphaerocarpa","MDP0165","MDP0165.mzXML","clusph","PP_Titiri_42","Clusia sphaerocarpa","Clusiaceae","Clusia","PP_Titiri_42_Clusia sphaerocarpa","PP_Titiri_42","Clusia sphaerocarpa",1
+"PP_Titiri_42_Weinmannia pinnata","MDP0190","MDP0190.mzXML","weipin","PP_Titiri_42","Weinmannia pinnata","Cunoniaceae","Weinmannia","PP_Titiri_42_Weinmannia pinnata","PP_Titiri_42","Weinmannia pinnata",45
+"PP_Titiri_42_Oreopanax boliviensis","MDP0175","MDP0175.mzXML","orebol","PP_Titiri_42","Oreopanax boliviensis","Araliaceae","Oreopanax","PP_Titiri_42_Oreopanax boliviensis","PP_Titiri_42","Oreopanax boliviensis",3
+"PP_Titiri_42_Symplocos quitensis","MDP0185","MDP0185.mzXML","sym2qui","PP_Titiri_42","Symplocos quitensis","Symplocaceae","Symplocos","PP_Titiri_42_Symplocos quitensis","PP_Titiri_42","Symplocos quitensis",11
+"PP_Titiri_42_Hedyosmum scabrum","MDP0167","MDP0167.mzXML","hedsca","PP_Titiri_42","Hedyosmum scabrum","Chloranthaceae","Hedyosmum","PP_Titiri_42_Hedyosmum scabrum","PP_Titiri_42","Hedyosmum scabrum",36
+"PP_Titiri_42_Ocotea LC-3806","MDP0174","MDP0174.mzXML","ocoLC3806","PP_Titiri_42","Ocotea LC-3806","Lauraceae","Ocotea","PP_Titiri_42_Ocotea LC-3806",NA,NA,NA
+"PP_Titiri_42_Tibouchina calycina","MDP0187","MDP0187.mzXML","tibcal","PP_Titiri_42","Tibouchina calycina","Melastomataceae","Tibouchina","PP_Titiri_42_Tibouchina calycina","PP_Titiri_42","Tibouchina calycina",7
+"NA_NA","MDP0189",NA,NA,NA,NA,NA,NA,"NA_NA",NA,NA,NA
+"PP_Titiri_42_Miconia boliviensis","MDP0170","MDP0170.mzXML","mic1bol","PP_Titiri_42","Miconia boliviensis","Melastomataceae","Miconia","PP_Titiri_42_Miconia boliviensis","PP_Titiri_42","Miconia boliviensis",99
+"PP_Titiri_42_Persea LC-3703","MDP0177","MDP0177.mzXML","per6LC3703","PP_Titiri_42","Persea LC-3703","Lauraceae","Persea","PP_Titiri_42_Persea LC-3703",NA,NA,NA
+"PP_Titiri_42_Clethra GAT-2810","MDP0164","MDP0164.mzXML","cle3GAT2810","PP_Titiri_42","Clethra GAT-2810","Clethraceae","Clethra","PP_Titiri_42_Clethra GAT-2810",NA,NA,NA
+"PP_Titiri_42_Meliosma petalodentata","MDP0169","MDP0169.mzXML","melpet","PP_Titiri_42","Meliosma petalodentata","Sabiaceae","Meliosma","PP_Titiri_42_Meliosma petalodentata","PP_Titiri_42","Meliosma petalodentata",1
+"PP_Titiri_42_Miconia LC-3463","MDP0171","MDP0171.mzXML","mic1LC3463","PP_Titiri_42","Miconia LC-3463","Melastomataceae","Miconia","PP_Titiri_42_Miconia LC-3463",NA,NA,NA
+"PP_Titiri_42_Ruagea glabra","MDP0179","MDP0179.mzXML","ruagla","PP_Titiri_42","Ruagea glabra","Meliaceae","Ruagea","PP_Titiri_42_Ruagea glabra","PP_Titiri_42","Ruagea glabra",61
+"PP_Titiri_42_Symplocos mapiriensis","MDP0184","MDP0184.mzXML","sym2map","PP_Titiri_42","Symplocos mapiriensis","Symplocaceae","Symplocos","PP_Titiri_42_Symplocos mapiriensis","PP_Titiri_42","Symplocos mapiriensis",4
+"PP_Titiri_42_Ilex LC-3781","MDP0168","MDP0168.mzXML","ileLC3781","PP_Titiri_42","Ilex LC-3781","Aquifoliaceae","Ilex","PP_Titiri_42_Ilex LC-3781",NA,NA,NA
+"PP_Titiri_42_Tessmannianthus ECQ-74","MDP0186","MDP0186.mzXML","tesECQ74","PP_Titiri_42","Tessmannianthus ECQ-74","Melastomataceae","Tessmannianthus","PP_Titiri_42_Tessmannianthus ECQ-74",NA,NA,NA
+"PP_Titiri_42_Critoniopsis choquetangensis","MDP0166","MDP0166.mzXML","cricho","PP_Titiri_42","Critoniopsis choquetangensis","Asteraceae","Critoniopsis","PP_Titiri_42_Critoniopsis choquetangensis","PP_Titiri_42","Critoniopsis choquetangensis",5
+"PP_Titiri_42_Prunus integrifolia","MDP0178","MDP0178.mzXML","pru2int","PP_Titiri_42","Prunus integrifolia","Rosaceae","Prunus","PP_Titiri_42_Prunus integrifolia","PP_Titiri_42","Prunus integrifolia",7
+"PP_Titiri_42_Solanum ochrophyllum","MDP0182","MDP0182.mzXML","soloch","PP_Titiri_42","Solanum ochrophyllum","Solanaceae","Solanum","PP_Titiri_42_Solanum ochrophyllum","PP_Titiri_42","Solanum ochrophyllum",1
+"PP_Titiri_42_Solanum clandestinum","MDP0180","MDP0180.mzXML","solcla","PP_Titiri_42","Solanum clandestinum","Solanaceae","Solanum","PP_Titiri_42_Solanum clandestinum","PP_Titiri_42","Solanum clandestinum",3
+"PP_Titiri_42_Clethra cardenasii","MDP0163","MDP0163.mzXML","cle3car","PP_Titiri_42","Clethra cardenasii","Clethraceae","Clethra","PP_Titiri_42_Clethra cardenasii","PP_Titiri_42","Clethra cardenasii",1
+"PP_Titiri_42_Symplocos AF-19446","MDP0183","MDP0183.mzXML","sym2AF19446","PP_Titiri_42","Symplocos AF-19446","Symplocaceae","Symplocos","PP_Titiri_42_Symplocos AF-19446",NA,NA,NA
+"PP_Titiri_42_Mollinedia repanda","MDP0172","MDP0172.mzXML","molrep","PP_Titiri_42","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Titiri_42_Mollinedia repanda","PP_Titiri_42","Mollinedia repanda",15
+"PP_Titiri_42_Ocotea ECQ-72","MDP0173","MDP0173.mzXML","ocoECQ72","PP_Titiri_42","Ocotea ECQ-72","Lauraceae","Ocotea","PP_Titiri_42_Ocotea ECQ-72",NA,NA,NA
+"PP_Titiri_42_Axinaea glandulosa","MDP0161","MDP0161.mzXML","axigla","PP_Titiri_42","Axinaea glandulosa","Melastomataceae","Axinaea","PP_Titiri_42_Axinaea glandulosa","PP_Titiri_42","Axinaea glandulosa",44
+"PP_Tocoaq_29_Miconia quadrialata","MDP0676","MDP0676.mzXML","mic1qua","PP_Tocoaq_29","Miconia quadrialata","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia quadrialata",NA,NA,NA
+"PP_Tocoaq_29_Meliosma petalodentata","MDP0667","MDP0667.mzXML","melpet","PP_Tocoaq_29","Meliosma petalodentata","Sabiaceae","Meliosma","PP_Tocoaq_29_Meliosma petalodentata",NA,NA,NA
+"PP_Tocoaq_29_Calyptranthes concinna","MDP0640","MDP0640.mzXML","cal7con","PP_Tocoaq_29","Calyptranthes concinna","Myrtaceae","Calyptranthes","PP_Tocoaq_29_Calyptranthes concinna",NA,NA,NA
+"PP_Tocoaq_29_Nectandra laurel","MDP0682","MDP0682.mzXML","neclau","PP_Tocoaq_29","Nectandra laurel","Lauraceae","Nectandra","PP_Tocoaq_29_Nectandra laurel",NA,NA,NA
+"PP_Tocoaq_29_Prunus AF-8816A","MDP0697","MDP0697.mzXML","pru2AF8816A","PP_Tocoaq_29","Prunus AF-8816A","Rosaceae","Prunus","PP_Tocoaq_29_Prunus AF-8816A",NA,NA,NA
+"PP_Tocoaq_29_Siphoneugena AF-19267","MDP0701","MDP0701.mzXML","sip3AF19267","PP_Tocoaq_29","Siphoneugena AF-19267","Myrtaceae","Siphoneugena","PP_Tocoaq_29_Siphoneugena AF-19267",NA,NA,NA
+"PP_Tocoaq_29_Clusia sphaerocarpa","MDP0647","MDP0647.mzXML","clusph","PP_Tocoaq_29","Clusia sphaerocarpa","Clusiaceae","Clusia","PP_Tocoaq_29_Clusia sphaerocarpa",NA,NA,NA
+"PP_Tocoaq_29_Ocotea micrantha","MDP0687","MDP0687.mzXML","ocomic","PP_Tocoaq_29","Ocotea micrantha","Lauraceae","Ocotea","PP_Tocoaq_29_Ocotea micrantha",NA,NA,NA
+"PP_Tocoaq_29_Clusia lechleri","MDP0646","MDP0646.mzXML","clulec","PP_Tocoaq_29","Clusia lechleri","Clusiaceae","Clusia","PP_Tocoaq_29_Clusia lechleri",NA,NA,NA
+"PP_Tocoaq_29_Faramea candelabrum","MDP0653","MDP0653.mzXML","farcan","PP_Tocoaq_29","Faramea candelabrum","Rubiaceae","Faramea","PP_Tocoaq_29_Faramea candelabrum",NA,NA,NA
+"PP_Tocoaq_29_Clusia AF-14913","MDP0645","MDP0645.mzXML","cluAF14913","PP_Tocoaq_29","Clusia AF-14913","Clusiaceae","Clusia","PP_Tocoaq_29_Clusia AF-14913",NA,NA,NA
+"PP_Tocoaq_29_Miconia brittonii","MDP0673","MDP0673.mzXML","mic1bri","PP_Tocoaq_29","Miconia brittonii","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia brittonii",NA,NA,NA
+"PP_Tocoaq_29_Beilschmiedia tovarensis","MDP0638","MDP0638.mzXML","beitov","PP_Tocoaq_29","Beilschmiedia tovarensis","Lauraceae","Beilschmiedia","PP_Tocoaq_29_Beilschmiedia tovarensis",NA,NA,NA
+"PP_Tocoaq_29_Inga AM-3592A","MDP0662","MDP0662.mzXML","ingAM3592A","PP_Tocoaq_29","Inga AM-3592A","Fabaceae","Inga","PP_Tocoaq_29_Inga AM-3592A",NA,NA,NA
+"PP_Tocoaq_29_Licaria pucheri","MDP0665","MDP0665.mzXML","lic2puc","PP_Tocoaq_29","Licaria pucheri","Lauraceae","Licaria","PP_Tocoaq_29_Licaria pucheri",NA,NA,NA
+"PP_Tocoaq_29_Daphnopsis AM-3907","MDP0650","MDP0650.mzXML","dapAM3907","PP_Tocoaq_29","Daphnopsis AM-3907","Thymelaeaceae","Daphnopsis","PP_Tocoaq_29_Daphnopsis AM-3907",NA,NA,NA
+"PP_Tocoaq_29_Myrsine coriacea","MDP0679","MDP0679.mzXML","myr8cor","PP_Tocoaq_29","Myrsine coriacea","Primulaceae","Myrsine","PP_Tocoaq_29_Myrsine coriacea",NA,NA,NA
+"PP_Tocoaq_29_Miconia AM-3656","MDP0671","MDP0671.mzXML","mic1AM3656","PP_Tocoaq_29","Miconia AM-3656","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia AM-3656",NA,NA,NA
+"PP_Tocoaq_29_Podocarpus ingensis","MDP0693","MDP0693.mzXML","poding","PP_Tocoaq_29","Podocarpus ingensis","Podocarpaceae","Podocarpus","PP_Tocoaq_29_Podocarpus ingensis",NA,NA,NA
+"PP_Tocoaq_29_Meliosma AM-3490","MDP0666","MDP0666.mzXML","melAM3490","PP_Tocoaq_29","Meliosma AM-3490","Sabiaceae","Meliosma","PP_Tocoaq_29_Meliosma AM-3490",NA,NA,NA
+"PP_Tocoaq_29_Clethra revoluta","MDP0644","MDP0644.mzXML","cle3rev","PP_Tocoaq_29","Clethra revoluta","Clethraceae","Clethra","PP_Tocoaq_29_Clethra revoluta",NA,NA,NA
+"PP_Tocoaq_29_Pouteria AF-15574","MDP0695","MDP0695.mzXML","pou3AF15574","PP_Tocoaq_29","Pouteria AF-15574","Sapotaceae","Pouteria","PP_Tocoaq_29_Pouteria AF-15574",NA,NA,NA
+"PP_Tocoaq_29_Protium AF-4603","MDP0696","MDP0696.mzXML","pro2AF4603","PP_Tocoaq_29","Protium AF-4603","Burseraceae","Protium","PP_Tocoaq_29_Protium AF-4603",NA,NA,NA
+"PP_Tocoaq_29_Ocotea AF-12244","MDP0683","MDP0683.mzXML","ocoAF12244","PP_Tocoaq_29","Ocotea AF-12244","Lauraceae","Ocotea","PP_Tocoaq_29_Ocotea AF-12244",NA,NA,NA
+"PP_Tocoaq_29_Ilex AM-3498","MDP0661","MDP0661.mzXML","ileAM3498","PP_Tocoaq_29","Ilex AM-3498","Aquifoliaceae","Ilex","PP_Tocoaq_29_Ilex AM-3498",NA,NA,NA
+"PP_Tocoaq_29_Persea AF-12172","MDP0689","MDP0689.mzXML","per6AF12172","PP_Tocoaq_29","Persea AF-12172","Lauraceae","Persea","PP_Tocoaq_29_Persea AF-12172",NA,NA,NA
+"PP_Tocoaq_29_Nectandra AF-7278","MDP0681","MDP0681.mzXML","necAF7278","PP_Tocoaq_29","Nectandra AF-7278","Lauraceae","Nectandra","PP_Tocoaq_29_Nectandra AF-7278",NA,NA,NA
+"PP_Tocoaq_29_Podocarpus oleifolius","MDP0694","MDP0694.mzXML","podole","PP_Tocoaq_29","Podocarpus oleifolius","Podocarpaceae","Podocarpus","PP_Tocoaq_29_Podocarpus oleifolius",NA,NA,NA
+"PP_Tocoaq_29_Axinaea JGM-31","MDP0637","MDP0637.mzXML","axiJGM31","PP_Tocoaq_29","Axinaea JGM-31","Melastomataceae","Axinaea","PP_Tocoaq_29_Axinaea JGM-31",NA,NA,NA
+"PP_Tocoaq_29_Geissanthus ambigua","MDP0655","MDP0655.mzXML","geiamb","PP_Tocoaq_29","Geissanthus ambigua","Primulaceae","Geissanthus","PP_Tocoaq_29_Geissanthus ambigua",NA,NA,NA
+"PP_Tocoaq_29_Symplocos debilis","MDP0702","MDP0702.mzXML","sym2deb","PP_Tocoaq_29","Symplocos debilis","Symplocaceae","Symplocos","PP_Tocoaq_29_Symplocos debilis",NA,NA,NA
+"PP_Tocoaq_29_Clusia trochiformis","MDP0648","MDP0648.mzXML","clutro","PP_Tocoaq_29","Clusia trochiformis","Clusiaceae","Clusia","PP_Tocoaq_29_Clusia trochiformis",NA,NA,NA
+"PP_Tocoaq_29_Myrcia fallax","MDP0678","MDP0678.mzXML","myr2fal","PP_Tocoaq_29","Myrcia fallax","Myrtaceae","Myrcia","PP_Tocoaq_29_Myrcia fallax",NA,NA,NA
+"PP_Tocoaq_29_Cupania CMG-2731","MDP0649","MDP0649.mzXML","cupCMG2731","PP_Tocoaq_29","Cupania CMG-2731","Sapindaceae","Cupania","PP_Tocoaq_29_Cupania CMG-2731",NA,NA,NA
+"PP_Tocoaq_29_Calyptranthes AM-3616","MDP0639","MDP0639.mzXML","cal7AM3616","PP_Tocoaq_29","Calyptranthes AM-3616","Myrtaceae","Calyptranthes","PP_Tocoaq_29_Calyptranthes AM-3616",NA,NA,NA
+"PP_Tocoaq_29_Miconia AF-17614A","MDP0669","MDP0669.mzXML","mic1AF17614A","PP_Tocoaq_29","Miconia AF-17614A","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia AF-17614A",NA,NA,NA
+"PP_Tocoaq_29_Hieronyma fendleri","MDP0660","MDP0660.mzXML","hiefen","PP_Tocoaq_29","Hieronyma fendleri","Phyllanthaceae","Hieronyma","PP_Tocoaq_29_Hieronyma fendleri",NA,NA,NA
+"PP_Tocoaq_29_Freziera dudleyi","MDP0654","MDP0654.mzXML","fredud","PP_Tocoaq_29","Freziera dudleyi","Pentaphylacaceae","Freziera","PP_Tocoaq_29_Freziera dudleyi",NA,NA,NA
+"PP_Tocoaq_29_Miconia elongata","MDP0674","MDP0674.mzXML","mic1elo","PP_Tocoaq_29","Miconia elongata","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia elongata",NA,NA,NA
+"PP_Tocoaq_29_Weinmannia reticulata","MDP0705","MDP0705.mzXML","weiret","PP_Tocoaq_29","Weinmannia reticulata","Cunoniaceae","Weinmannia","PP_Tocoaq_29_Weinmannia reticulata",NA,NA,NA
+"PP_Tocoaq_29_Ocotea AM-3556","MDP0685","MDP0685.mzXML","ocoAM3556","PP_Tocoaq_29","Ocotea AM-3556","Lauraceae","Ocotea","PP_Tocoaq_29_Ocotea AM-3556",NA,NA,NA
+"PP_Tocoaq_29_Weinmannia lechleriana","MDP0703","MDP0703.mzXML","weilec","PP_Tocoaq_29","Weinmannia lechleriana","Cunoniaceae","Weinmannia","PP_Tocoaq_29_Weinmannia lechleriana",NA,NA,NA
+"PP_Tocoaq_29_Ocotea comata","MDP0686","MDP0686.mzXML","ococom","PP_Tocoaq_29","Ocotea comata","Lauraceae","Ocotea","PP_Tocoaq_29_Ocotea comata",NA,NA,NA
+"PP_Tocoaq_29_Persea AM-3535","MDP0691","MDP0691.mzXML","per6AM3535","PP_Tocoaq_29","Persea AM-3535","Lauraceae","Persea","PP_Tocoaq_29_Persea AM-3535",NA,NA,NA
+"PP_Tocoaq_29_Gordonia fruticosa","MDP0656","MDP0656.mzXML","gorfru","PP_Tocoaq_29","Gordonia fruticosa","Theaceae","Gordonia","PP_Tocoaq_29_Gordonia fruticosa",NA,NA,NA
+"PP_Tocoaq_29_Weinmannia ovata","MDP0704","MDP0704.mzXML","weiova","PP_Tocoaq_29","Weinmannia ovata","Cunoniaceae","Weinmannia","PP_Tocoaq_29_Weinmannia ovata",NA,NA,NA
+"PP_Tocoaq_29_Hedyosmum racemosum","MDP0659","MDP0659.mzXML","hedrac","PP_Tocoaq_29","Hedyosmum racemosum","Chloranthaceae","Hedyosmum","PP_Tocoaq_29_Hedyosmum racemosum",NA,NA,NA
+"PP_Tocoaq_29_Miconia AF-13043","MDP0668","MDP0668.mzXML","mic1AF13043","PP_Tocoaq_29","Miconia AF-13043","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia AF-13043",NA,NA,NA
+"PP_Tocoaq_29_Myrsine pellucida","MDP0680","MDP0680.mzXML","myr8pel","PP_Tocoaq_29","Myrsine pellucida","Primulaceae","Myrsine","PP_Tocoaq_29_Myrsine pellucida",NA,NA,NA
+"PP_Tocoaq_29_Endlicheria AM-3310","MDP0652","MDP0652.mzXML","endAM3310","PP_Tocoaq_29","Endlicheria AM-3310","Lauraceae","Endlicheria","PP_Tocoaq_29_Endlicheria AM-3310",NA,NA,NA
+"PP_Tocoaq_29_Cinchona calisaya","MDP0642","MDP0642.mzXML","cin1cal","PP_Tocoaq_29","Cinchona calisaya","Rubiaceae","Cinchona","PP_Tocoaq_29_Cinchona calisaya",NA,NA,NA
+"PP_Tocoaq_29_Elaeagia mariae","MDP0651","MDP0651.mzXML","elamar","PP_Tocoaq_29","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Tocoaq_29_Elaeagia mariae",NA,NA,NA
+"PP_Tocoaq_29_Clethra peruviana","MDP0643","MDP0643.mzXML","cle3per","PP_Tocoaq_29","Clethra peruviana","Clethraceae","Clethra","PP_Tocoaq_29_Clethra peruviana",NA,NA,NA
+"PP_Tocoaq_29_Persea AF-12248","MDP0690","MDP0690.mzXML","per6AF12248","PP_Tocoaq_29","Persea AF-12248","Lauraceae","Persea","PP_Tocoaq_29_Persea AF-12248",NA,NA,NA
+"PP_Tocoaq_29_Miconia bangii","MDP0672","MDP0672.mzXML","mic1ban","PP_Tocoaq_29","Miconia bangii","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia bangii",NA,NA,NA
+"PP_Tocoaq_29_Miconia AF-7149","MDP0670","MDP0670.mzXML","mic1AF7149","PP_Tocoaq_29","Miconia AF-7149","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia AF-7149",NA,NA,NA
+"PP_Tocoaq_29_Hedyosmum lechleri","MDP0658","MDP0658.mzXML","hedlec","PP_Tocoaq_29","Hedyosmum lechleri","Chloranthaceae","Hedyosmum","PP_Tocoaq_29_Hedyosmum lechleri",NA,NA,NA
+"PP_Tocoaq_29_Miconia incachacana","MDP0675","MDP0675.mzXML","mic1inc","PP_Tocoaq_29","Miconia incachacana","Melastomataceae","Miconia","PP_Tocoaq_29_Miconia incachacana",NA,NA,NA
+"PP_Tocoaq_29_Alchornea grandiflora","MDP0635","MDP0635.mzXML","alcgra","PP_Tocoaq_29","Alchornea grandiflora","Euphorbiaceae","Alchornea","PP_Tocoaq_29_Alchornea grandiflora",NA,NA,NA
+"PP_Tocoaq_29_Ladenbergia bullata","MDP0663","MDP0663.mzXML","ladbul","PP_Tocoaq_29","Ladenbergia bullata","Rubiaceae","Ladenbergia","PP_Tocoaq_29_Ladenbergia bullata",NA,NA,NA
+"PP_Tocoaq_29_Chalybea AM-3664","MDP0641","MDP0641.mzXML","cha2AM3664","PP_Tocoaq_29","Chalybea AM-3664","Melastomataceae","Chalybea","PP_Tocoaq_29_Chalybea AM-3664",NA,NA,NA
+"PP_Tocoaq_29_Sciodaphyllum herzogii","MDP0700","MDP0700.mzXML","sci2her","PP_Tocoaq_29","Sciodaphyllum herzogii","Araliaceae","Sciodaphyllum","PP_Tocoaq_29_Sciodaphyllum herzogii",NA,NA,NA
+"PP_Tocoaq_29_Ocotea albida","MDP0684","MDP0684.mzXML","ocoalb1","PP_Tocoaq_29","Ocotea albida","Lauraceae","Ocotea","PP_Tocoaq_29_Ocotea albida",NA,NA,NA
+"PP_Tocoaq_29_Ocotea puberula","MDP0688","MDP0688.mzXML","ocopub","PP_Tocoaq_29","Ocotea puberula","Lauraceae","Ocotea","PP_Tocoaq_29_Ocotea puberula",NA,NA,NA
+"PP_Tocoaq_29_Mollinedia repanda","MDP0677","MDP0677.mzXML","molrep","PP_Tocoaq_29","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Tocoaq_29_Mollinedia repanda",NA,NA,NA
+"PP_Tocoaq_29_Hedyosmum cuatrecazanum","MDP0657","MDP0657.mzXML","hedcua","PP_Tocoaq_29","Hedyosmum cuatrecazanum","Chloranthaceae","Hedyosmum","PP_Tocoaq_29_Hedyosmum cuatrecazanum",NA,NA,NA
+"PP_Tocoaq_29_Persea areolatocostae","MDP0692","MDP0692.mzXML","per6are","PP_Tocoaq_29","Persea areolatocostae","Lauraceae","Persea","PP_Tocoaq_29_Persea areolatocostae",NA,NA,NA
+"PP_Tocoaq_29_Prunus stipulata","MDP0698","MDP0698.mzXML","pru2sti","PP_Tocoaq_29","Prunus stipulata","Rosaceae","Prunus","PP_Tocoaq_29_Prunus stipulata",NA,NA,NA
+"PP_Tocoaq_29_Annona RSS-85","MDP0636","MDP0636.mzXML","annRSS85","PP_Tocoaq_29","Annona RSS-85","Annonaceae","Annona","PP_Tocoaq_29_Annona RSS-85",NA,NA,NA
+"PP_Tocoaq_29_Ladenbergia crassifolia","MDP0664","MDP0664.mzXML","ladcra","PP_Tocoaq_29","Ladenbergia crassifolia","Rubiaceae","Ladenbergia","PP_Tocoaq_29_Ladenbergia crassifolia",NA,NA,NA
+"PP_Tocoaq_29_Ruagea ovalis","MDP0699","MDP0699.mzXML","ruaova","PP_Tocoaq_29","Ruagea ovalis","Meliaceae","Ruagea","PP_Tocoaq_29_Ruagea ovalis",NA,NA,NA
+"PP_Tocoaq_28_Ficus cuatrecasasiana","MDP0485","MDP0485.mzXML","ficcua","PP_Tocoaq_28","Ficus cuatrecasasiana","Moraceae","Ficus","PP_Tocoaq_28_Ficus cuatrecasasiana",NA,NA,NA
+"PP_Tocoaq_28_Helicostylis tovarensis","MDP0491","MDP0491.mzXML","hel2tov","PP_Tocoaq_28","Helicostylis tovarensis","Moraceae","Helicostylis","PP_Tocoaq_28_Helicostylis tovarensis",NA,NA,NA
+"PP_Tocoaq_30_Meliosma petalodentata","MDP0433","MDP0433.mzXML","melpet","PP_Tocoaq_30","Meliosma petalodentata","Sabiaceae","Meliosma","PP_Tocoaq_30_Meliosma petalodentata",NA,NA,NA
+"PP_Tocoaq_28_Hedyosmum cuatrecazanum","MDP0488","MDP0488.mzXML","hedcua","PP_Tocoaq_28","Hedyosmum cuatrecazanum","Chloranthaceae","Hedyosmum","PP_Tocoaq_28_Hedyosmum cuatrecazanum",NA,NA,NA
+"PP_Tocoaq_28_Mollinedia ovata","MDP0504","MDP0504.mzXML","molova","PP_Tocoaq_28","Mollinedia ovata","Monimiaceae","Mollinedia","PP_Tocoaq_28_Mollinedia ovata",NA,NA,NA
+"PP_Tocoaq_28_Myrcia sintenisii","MDP0506","MDP0506.mzXML","myr2sin","PP_Tocoaq_28","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Tocoaq_28_Myrcia sintenisii",NA,NA,NA
+"PP_Tocoaq_28_Meliosma AM-3490","MDP0497","MDP0497.mzXML","melAM3490","PP_Tocoaq_28","Meliosma AM-3490","Sabiaceae","Meliosma","PP_Tocoaq_28_Meliosma AM-3490",NA,NA,NA
+"PP_Tocoaq_28_Matayba boliviana","MDP0496","MDP0496.mzXML","mat1bol","PP_Tocoaq_28","Matayba boliviana","Sapindaceae","Matayba","PP_Tocoaq_28_Matayba boliviana",NA,NA,NA
+"PP_Tocoaq_28_Cupania CMG-2731","MDP0478","MDP0478.mzXML","cupCMG2731","PP_Tocoaq_28","Cupania CMG-2731","Sapindaceae","Cupania","PP_Tocoaq_28_Cupania CMG-2731",NA,NA,NA
+"PP_Tocoaq_28_Ocotea FZR-18951","MDP0513","MDP0513.mzXML","ocoFZR18951","PP_Tocoaq_28","Ocotea FZR-18951","Lauraceae","Ocotea","PP_Tocoaq_28_Ocotea FZR-18951",NA,NA,NA
+"PP_Tocoaq_28_Alchornea glandulosa","MDP0461","MDP0461.mzXML","alcgla","PP_Tocoaq_28","Alchornea glandulosa","Euphorbiaceae","Alchornea","PP_Tocoaq_28_Alchornea glandulosa",NA,NA,NA
+"PP_Tocoaq_28_Inga fendleriana","MDP0494","MDP0494.mzXML","ingfen","PP_Tocoaq_28","Inga fendleriana","Fabaceae","Inga","PP_Tocoaq_28_Inga fendleriana",NA,NA,NA
+"PP_Tocoaq_28_Oreopanax steinbachianus","MDP0515","MDP0515.mzXML","oreste","PP_Tocoaq_28","Oreopanax steinbachianus","Araliaceae","Oreopanax","PP_Tocoaq_28_Oreopanax steinbachianus",NA,NA,NA
+"PP_Tocoaq_28_Nectandra acutifolia","MDP0509","MDP0509.mzXML","necacu","PP_Tocoaq_28","Nectandra acutifolia","Lauraceae","Nectandra","PP_Tocoaq_28_Nectandra acutifolia",NA,NA,NA
+"PP_Tocoaq_28_Euplassa AF-9600","MDP0482","MDP0482.mzXML","eupAF9600","PP_Tocoaq_28","Euplassa AF-9600","Proteaceae","Euplassa","PP_Tocoaq_28_Euplassa AF-9600",NA,NA,NA
+"PP_Tocoaq_30_Gordonia fruticosa","MDP0428","MDP0428.mzXML","gorfru","PP_Tocoaq_30","Gordonia fruticosa","Theaceae","Gordonia","PP_Tocoaq_30_Gordonia fruticosa",NA,NA,NA
+"PP_Tocoaq_30_Myrsine coriacea","MDP0444","MDP0444.mzXML","myr8cor","PP_Tocoaq_30","Myrsine coriacea","Primulaceae","Myrsine","PP_Tocoaq_30_Myrsine coriacea",NA,NA,NA
+"PP_Tocoaq_28_Miconia AF-7149","MDP0500","MDP0500.mzXML","mic1AF7149","PP_Tocoaq_28","Miconia AF-7149","Melastomataceae","Miconia","PP_Tocoaq_28_Miconia AF-7149",NA,NA,NA
+"PP_Tocoaq_30_Weinmannia reticulata","MDP0460","MDP0460.mzXML","weiret","PP_Tocoaq_30","Weinmannia reticulata","Cunoniaceae","Weinmannia","PP_Tocoaq_30_Weinmannia reticulata",NA,NA,NA
+"PP_Tocoaq_28_Podocarpus oleifolius","MDP0520","MDP0520.mzXML","podole","PP_Tocoaq_28","Podocarpus oleifolius","Podocarpaceae","Podocarpus","PP_Tocoaq_28_Podocarpus oleifolius",NA,NA,NA
+"PP_Tocoaq_28_Piper bolivianum","MDP0518","MDP0518.mzXML","pip1bol","PP_Tocoaq_28","Piper bolivianum","Piperaceae","Piper","PP_Tocoaq_28_Piper bolivianum",NA,NA,NA
+"PP_Tocoaq_28_Miconia AF-17614A","MDP0499","MDP0499.mzXML","mic1AF17614A","PP_Tocoaq_28","Miconia AF-17614A","Melastomataceae","Miconia","PP_Tocoaq_28_Miconia AF-17614A",NA,NA,NA
+"PP_Tocoaq_28_Alchornea latifolia","MDP0463","MDP0463.mzXML","alclat","PP_Tocoaq_28","Alchornea latifolia","Euphorbiaceae","Alchornea","PP_Tocoaq_28_Alchornea latifolia",NA,NA,NA
+"PP_Tocoaq_28_Mollinedia repanda","MDP0505","MDP0505.mzXML","molrep","PP_Tocoaq_28","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Tocoaq_28_Mollinedia repanda",NA,NA,NA
+"PP_Tocoaq_28_Beilschmiedia tovarensis","MDP0466","MDP0466.mzXML","beitov","PP_Tocoaq_28","Beilschmiedia tovarensis","Lauraceae","Beilschmiedia","PP_Tocoaq_28_Beilschmiedia tovarensis",NA,NA,NA
+"PP_Tocoaq_28_Endlicheria AM-3310","MDP0481","MDP0481.mzXML","endAM3310","PP_Tocoaq_28","Endlicheria AM-3310","Lauraceae","Endlicheria","PP_Tocoaq_28_Endlicheria AM-3310",NA,NA,NA
+"PP_Tocoaq_28_Protium AF-4603","MDP0521","MDP0521.mzXML","pro2AF4603","PP_Tocoaq_28","Protium AF-4603","Burseraceae","Protium","PP_Tocoaq_28_Protium AF-4603",NA,NA,NA
+"PP_Tocoaq_28_Weinmannia lechleriana","MDP0526","MDP0526.mzXML","weilec","PP_Tocoaq_28","Weinmannia lechleriana","Cunoniaceae","Weinmannia","PP_Tocoaq_28_Weinmannia lechleriana",NA,NA,NA
+"PP_Tocoaq_30_Miconia quadrialata","MDP0440","MDP0440.mzXML","mic1qua","PP_Tocoaq_30","Miconia quadrialata","Melastomataceae","Miconia","PP_Tocoaq_30_Miconia quadrialata",NA,NA,NA
+"PP_Tocoaq_28_Ruagea AM-3480","MDP0522","MDP0522.mzXML","ruaAM3480","PP_Tocoaq_28","Ruagea AM-3480","Meliaceae","Ruagea","PP_Tocoaq_28_Ruagea AM-3480",NA,NA,NA
+"PP_Tocoaq_28_Ocotea AM-3556","MDP0511","MDP0511.mzXML","ocoAM3556","PP_Tocoaq_28","Ocotea AM-3556","Lauraceae","Ocotea","PP_Tocoaq_28_Ocotea AM-3556",NA,NA,NA
+"PP_Tocoaq_28_Clusia trochiformis","MDP0477","MDP0477.mzXML","clutro","PP_Tocoaq_28","Clusia trochiformis","Clusiaceae","Clusia","PP_Tocoaq_28_Clusia trochiformis",NA,NA,NA
+"PP_Tocoaq_28_Styrax pentlandianus","MDP0524","MDP0524.mzXML","sty3pen","PP_Tocoaq_28","Styrax pentlandianus","Styracaceae","Styrax","PP_Tocoaq_28_Styrax pentlandianus",NA,NA,NA
+"PP_Tocoaq_28_Helicostylis tomentosa","MDP0490","MDP0490.mzXML","hel2tom","PP_Tocoaq_28","Helicostylis tomentosa","Moraceae","Helicostylis","PP_Tocoaq_28_Helicostylis tomentosa",NA,NA,NA
+"PP_Tocoaq_30_Podocarpus oleifolius","MDP0453","MDP0453.mzXML","podole","PP_Tocoaq_30","Podocarpus oleifolius","Podocarpaceae","Podocarpus","PP_Tocoaq_30_Podocarpus oleifolius",NA,NA,NA
+"PP_Tocoaq_28_Faramea candelabrum","MDP0483","MDP0483.mzXML","farcan","PP_Tocoaq_28","Faramea candelabrum","Rubiaceae","Faramea","PP_Tocoaq_28_Faramea candelabrum",NA,NA,NA
+"PP_Tocoaq_28_Ficus americana","MDP0484","MDP0484.mzXML","ficame","PP_Tocoaq_28","Ficus americana","Moraceae","Ficus","PP_Tocoaq_28_Ficus americana",NA,NA,NA
+"PP_Tocoaq_28_Symplocos debilis","MDP0525","MDP0525.mzXML","sym2deb","PP_Tocoaq_28","Symplocos debilis","Symplocaceae","Symplocos","PP_Tocoaq_28_Symplocos debilis",NA,NA,NA
+"PP_Tocoaq_30_Miconia brittonii","MDP0438","MDP0438.mzXML","mic1bri","PP_Tocoaq_30","Miconia brittonii","Melastomataceae","Miconia","PP_Tocoaq_30_Miconia brittonii",NA,NA,NA
+"PP_Tocoaq_28_Clusia AF-14913","MDP0475","MDP0475.mzXML","cluAF14913","PP_Tocoaq_28","Clusia AF-14913","Clusiaceae","Clusia","PP_Tocoaq_28_Clusia AF-14913",NA,NA,NA
+"PP_Tocoaq_30_Faramea bangii","MDP0424","MDP0424.mzXML","farban","PP_Tocoaq_30","Faramea bangii","Rubiaceae","Faramea","PP_Tocoaq_30_Faramea bangii",NA,NA,NA
+"PP_Tocoaq_28_Cinnamomum AM-3551","MDP0472","MDP0472.mzXML","cin2AM3551","PP_Tocoaq_28","Cinnamomum AM-3551","Lauraceae","Cinnamomum","PP_Tocoaq_28_Cinnamomum AM-3551",NA,NA,NA
+"PP_Tocoaq_28_Gordonia fruticosa","MDP0486","MDP0486.mzXML","gorfru","PP_Tocoaq_28","Gordonia fruticosa","Theaceae","Gordonia","PP_Tocoaq_28_Gordonia fruticosa",NA,NA,NA
+"PP_Tocoaq_28_Miconia brittonii","MDP0502","MDP0502.mzXML","mic1bri","PP_Tocoaq_28","Miconia brittonii","Melastomataceae","Miconia","PP_Tocoaq_28_Miconia brittonii",NA,NA,NA
+"PP_Tocoaq_30_Persea AF-15646","MDP0451","MDP0451.mzXML","per6AF15646","PP_Tocoaq_30","Persea AF-15646","Lauraceae","Persea","PP_Tocoaq_30_Persea AF-15646",NA,NA,NA
+"PP_Tocoaq_30_Siphoneugena AF-19267","MDP0457","MDP0457.mzXML","sip3AF19267","PP_Tocoaq_30","Siphoneugena AF-19267","Myrtaceae","Siphoneugena","PP_Tocoaq_30_Siphoneugena AF-19267",NA,NA,NA
+"PP_Tocoaq_28_Cecropia tacuna","MDP0469","MDP0469.mzXML","cectac","PP_Tocoaq_28","Cecropia tacuna","Urticaceae","Cecropia","PP_Tocoaq_28_Cecropia tacuna",NA,NA,NA
+"PP_Tocoaq_28_Myrsine coriacea","MDP0507","MDP0507.mzXML","myr8cor","PP_Tocoaq_28","Myrsine coriacea","Primulaceae","Myrsine","PP_Tocoaq_28_Myrsine coriacea",NA,NA,NA
+"PP_Tocoaq_28_Clethra revoluta","MDP0474","MDP0474.mzXML","cle3rev","PP_Tocoaq_28","Clethra revoluta","Clethraceae","Clethra","PP_Tocoaq_28_Clethra revoluta",NA,NA,NA
+"PP_Tocoaq_28_Blakea multiflora","MDP0467","MDP0467.mzXML","blamul","PP_Tocoaq_28","Blakea multiflora","Melastomataceae","Blakea","PP_Tocoaq_28_Blakea multiflora",NA,NA,NA
+"PP_Tocoaq_30_Inga AM-3592A","MDP0432","MDP0432.mzXML","ingAM3592A","PP_Tocoaq_30","Inga AM-3592A","Fabaceae","Inga","PP_Tocoaq_30_Inga AM-3592A",NA,NA,NA
+"PP_Tocoaq_30_Miconia AF-17614A","MDP0434","MDP0434.mzXML","mic1AF17614A","PP_Tocoaq_30","Miconia AF-17614A","Melastomataceae","Miconia","PP_Tocoaq_30_Miconia AF-17614A",NA,NA,NA
+"PP_Tocoaq_30_Alchornea brittonii","MDP0413","MDP0413.mzXML","alcbri","PP_Tocoaq_30","Alchornea brittonii","Euphorbiaceae","Alchornea","PP_Tocoaq_30_Alchornea brittonii",NA,NA,NA
+"PP_Tocoaq_30_Clusia AF-14913","MDP0420","MDP0420.mzXML","cluAF14913","PP_Tocoaq_30","Clusia AF-14913","Clusiaceae","Clusia","PP_Tocoaq_30_Clusia AF-14913",NA,NA,NA
+"PP_Tocoaq_28_Licaria pucheri","MDP0495","MDP0495.mzXML","lic2puc","PP_Tocoaq_28","Licaria pucheri","Lauraceae","Licaria","PP_Tocoaq_28_Licaria pucheri",NA,NA,NA
+"PP_Tocoaq_28_Weinmannia ovata","MDP0527","MDP0527.mzXML","weiova","PP_Tocoaq_28","Weinmannia ovata","Cunoniaceae","Weinmannia","PP_Tocoaq_28_Weinmannia ovata",NA,NA,NA
+"PP_Tocoaq_28_Hieronyma fendleri","MDP0492","MDP0492.mzXML","hiefen","PP_Tocoaq_28","Hieronyma fendleri","Phyllanthaceae","Hieronyma","PP_Tocoaq_28_Hieronyma fendleri",NA,NA,NA
+"PP_Tocoaq_28_Persea AF-12248","MDP0516","MDP0516.mzXML","per6AF12248","PP_Tocoaq_28","Persea AF-12248","Lauraceae","Persea","PP_Tocoaq_28_Persea AF-12248",NA,NA,NA
+"PP_Tocoaq_30_Freziera dudleyi","MDP0426","MDP0426.mzXML","fredud","PP_Tocoaq_30","Freziera dudleyi","Pentaphylacaceae","Freziera","PP_Tocoaq_30_Freziera dudleyi",NA,NA,NA
+"PP_Tocoaq_30_Persea AF-12172","MDP0450","MDP0450.mzXML","per6AF12172","PP_Tocoaq_30","Persea AF-12172","Lauraceae","Persea","PP_Tocoaq_30_Persea AF-12172",NA,NA,NA
+"PP_Tocoaq_28_Clethra elongata","MDP0473","MDP0473.mzXML","cle3elo","PP_Tocoaq_28","Clethra elongata","Clethraceae","Clethra","PP_Tocoaq_28_Clethra elongata",NA,NA,NA
+"PP_Tocoaq_30_Miconia AM-3726","MDP0437","MDP0437.mzXML","mic1AM3726","PP_Tocoaq_30","Miconia AM-3726","Melastomataceae","Miconia","PP_Tocoaq_30_Miconia AM-3726",NA,NA,NA
+"PP_Tocoaq_30_Symplocos colorata","MDP0458","MDP0458.mzXML","sym2col","PP_Tocoaq_30","Symplocos colorata","Symplocaceae","Symplocos","PP_Tocoaq_30_Symplocos colorata",NA,NA,NA
+"PP_Tocoaq_30_Myrcia sintenisii","MDP0442","MDP0442.mzXML","myr2sin","PP_Tocoaq_30","Myrcia sintenisii","Myrtaceae","Myrcia","PP_Tocoaq_30_Myrcia sintenisii",NA,NA,NA
+"PP_Tocoaq_28_Miconia bangii","MDP0501","MDP0501.mzXML","mic1ban","PP_Tocoaq_28","Miconia bangii","Melastomataceae","Miconia","PP_Tocoaq_28_Miconia bangii",NA,NA,NA
+"PP_Tocoaq_30_Miconia AF-7149","MDP0435","MDP0435.mzXML","mic1AF7149","PP_Tocoaq_30","Miconia AF-7149","Melastomataceae","Miconia","PP_Tocoaq_30_Miconia AF-7149",NA,NA,NA
+"PP_Tocoaq_28_Guatteria oblongifolia","MDP0487","MDP0487.mzXML","gua4obl","PP_Tocoaq_28","Guatteria oblongifolia","Annonaceae","Guatteria","PP_Tocoaq_28_Guatteria oblongifolia",NA,NA,NA
+"PP_Tocoaq_28_Ilex AM-3498","MDP0493","MDP0493.mzXML","ileAM3498","PP_Tocoaq_28","Ilex AM-3498","Aquifoliaceae","Ilex","PP_Tocoaq_28_Ilex AM-3498",NA,NA,NA
+"PP_Tocoaq_30_Weinmannia ovata","MDP0459","MDP0459.mzXML","weiova","PP_Tocoaq_30","Weinmannia ovata","Cunoniaceae","Weinmannia","PP_Tocoaq_30_Weinmannia ovata",NA,NA,NA
+"PP_Tocoaq_30_Ocotea AF-12244","MDP0446","MDP0446.mzXML","ocoAF12244","PP_Tocoaq_30","Ocotea AF-12244","Lauraceae","Ocotea","PP_Tocoaq_30_Ocotea AF-12244",NA,NA,NA
+"PP_Tocoaq_28_Persea AM-3535","MDP0517","MDP0517.mzXML","per6AM3535","PP_Tocoaq_28","Persea AM-3535","Lauraceae","Persea","PP_Tocoaq_28_Persea AM-3535",NA,NA,NA
+"PP_Tocoaq_30_Hieronyma fendleri","MDP0430","MDP0430.mzXML","hiefen","PP_Tocoaq_30","Hieronyma fendleri","Phyllanthaceae","Hieronyma","PP_Tocoaq_30_Hieronyma fendleri",NA,NA,NA
+"PP_Tocoaq_28_Miconia elongata","MDP0503","MDP0503.mzXML","mic1elo","PP_Tocoaq_28","Miconia elongata","Melastomataceae","Miconia","PP_Tocoaq_28_Miconia elongata",NA,NA,NA
+"PP_Tocoaq_28_Sciodaphyllum herzogii","MDP0523","MDP0523.mzXML","sci2her","PP_Tocoaq_28","Sciodaphyllum herzogii","Araliaceae","Sciodaphyllum","PP_Tocoaq_28_Sciodaphyllum herzogii",NA,NA,NA
+"PP_Tocoaq_28_Piper secundum","MDP0519","MDP0519.mzXML","pip1sec","PP_Tocoaq_28","Piper secundum","Piperaceae","Piper","PP_Tocoaq_28_Piper secundum",NA,NA,NA
+"PP_Tocoaq_30_Clethra revoluta","MDP0419","MDP0419.mzXML","cle3rev","PP_Tocoaq_30","Clethra revoluta","Clethraceae","Clethra","PP_Tocoaq_30_Clethra revoluta",NA,NA,NA
+"PP_Tocoaq_28_Ocotea floribunda","MDP0512","MDP0512.mzXML","ocoflo","PP_Tocoaq_28","Ocotea floribunda","Lauraceae","Ocotea","PP_Tocoaq_28_Ocotea floribunda",NA,NA,NA
+"PP_Tocoaq_30_Clusia lechleri","MDP0421","MDP0421.mzXML","clulec","PP_Tocoaq_30","Clusia lechleri","Clusiaceae","Clusia","PP_Tocoaq_30_Clusia lechleri",NA,NA,NA
+"PP_Tocoaq_28_Axinaea JGM-31","MDP0465","MDP0465.mzXML","axiJGM31","PP_Tocoaq_28","Axinaea JGM-31","Melastomataceae","Axinaea","PP_Tocoaq_28_Axinaea JGM-31",NA,NA,NA
+"PP_Tocoaq_28_Annona RSS-85","MDP0464","MDP0464.mzXML","annRSS85","PP_Tocoaq_28","Annona RSS-85","Annonaceae","Annona","PP_Tocoaq_28_Annona RSS-85",NA,NA,NA
+"PP_Tocoaq_28_Clusia lechleri","MDP0476","MDP0476.mzXML","clulec","PP_Tocoaq_28","Clusia lechleri","Clusiaceae","Clusia","PP_Tocoaq_28_Clusia lechleri",NA,NA,NA
+"PP_Tocoaq_30_Geissanthus ambigua","MDP0427","MDP0427.mzXML","geiamb","PP_Tocoaq_30","Geissanthus ambigua","Primulaceae","Geissanthus","PP_Tocoaq_30_Geissanthus ambigua",NA,NA,NA
+"PP_Tocoaq_30_Clethra peruviana","MDP0418","MDP0418.mzXML","cle3per","PP_Tocoaq_30","Clethra peruviana","Clethraceae","Clethra","PP_Tocoaq_30_Clethra peruviana",NA,NA,NA
+"PP_Tocoaq_30_Faramea candelabrum","MDP0425","MDP0425.mzXML","farcan","PP_Tocoaq_30","Faramea candelabrum","Rubiaceae","Faramea","PP_Tocoaq_30_Faramea candelabrum",NA,NA,NA
+"PP_Tocoaq_30_Prunus AF-8816A","MDP0454","MDP0454.mzXML","pru2AF8816A","PP_Tocoaq_30","Prunus AF-8816A","Rosaceae","Prunus","PP_Tocoaq_30_Prunus AF-8816A",NA,NA,NA
+"PP_Tocoaq_30_Ocotea albida","MDP0447","MDP0447.mzXML","ocoalb1","PP_Tocoaq_30","Ocotea albida","Lauraceae","Ocotea","PP_Tocoaq_30_Ocotea albida",NA,NA,NA
+"PP_Tocoaq_28_Endlicheria AF-17634","MDP0480","MDP0480.mzXML","endAF17634","PP_Tocoaq_28","Endlicheria AF-17634","Lauraceae","Endlicheria","PP_Tocoaq_28_Endlicheria AF-17634",NA,NA,NA
+"PP_Tocoaq_28_Alchornea grandiflora","MDP0462","MDP0462.mzXML","alcgra","PP_Tocoaq_28","Alchornea grandiflora","Euphorbiaceae","Alchornea","PP_Tocoaq_28_Alchornea grandiflora",NA,NA,NA
+"PP_Tocoaq_30_Clusia trochiformis","MDP0422","MDP0422.mzXML","clutro","PP_Tocoaq_30","Clusia trochiformis","Clusiaceae","Clusia","PP_Tocoaq_30_Clusia trochiformis",NA,NA,NA
+"PP_Tocoaq_30_Ocotea micrantha","MDP0449","MDP0449.mzXML","ocomic","PP_Tocoaq_30","Ocotea micrantha","Lauraceae","Ocotea","PP_Tocoaq_30_Ocotea micrantha",NA,NA,NA
+"PP_Tocoaq_30_Myrsine AM-3700","MDP0443","MDP0443.mzXML","myr8AM3700","PP_Tocoaq_30","Myrsine AM-3700","Primulaceae","Myrsine","PP_Tocoaq_30_Myrsine AM-3700",NA,NA,NA
+"PP_Tocoaq_28_Hedyosmum racemosum","MDP0489","MDP0489.mzXML","hedrac","PP_Tocoaq_28","Hedyosmum racemosum","Chloranthaceae","Hedyosmum","PP_Tocoaq_28_Hedyosmum racemosum",NA,NA,NA
+"PP_Tocoaq_28_Elaeagia mariae","MDP0479","MDP0479.mzXML","elamar","PP_Tocoaq_28","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Tocoaq_28_Elaeagia mariae",NA,NA,NA
+"PP_Tocoaq_30_Ocotea comata","MDP0448","MDP0448.mzXML","ococom","PP_Tocoaq_30","Ocotea comata","Lauraceae","Ocotea","PP_Tocoaq_30_Ocotea comata",NA,NA,NA
+"PP_Tocoaq_28_Chalybea AM-3664","MDP0470","MDP0470.mzXML","cha2AM3664","PP_Tocoaq_28","Chalybea AM-3664","Melastomataceae","Chalybea","PP_Tocoaq_28_Chalybea AM-3664",NA,NA,NA
+"PP_Tocoaq_30_Prunus stipulata","MDP0455","MDP0455.mzXML","pru2sti","PP_Tocoaq_30","Prunus stipulata","Rosaceae","Prunus","PP_Tocoaq_30_Prunus stipulata",NA,NA,NA
+"PP_Tocoaq_28_Myrsine pellucida","MDP0508","MDP0508.mzXML","myr8pel","PP_Tocoaq_28","Myrsine pellucida","Primulaceae","Myrsine","PP_Tocoaq_28_Myrsine pellucida",NA,NA,NA
+"PP_Tocoaq_30_Hedyosmum lechleri","MDP0429","MDP0429.mzXML","hedlec","PP_Tocoaq_30","Hedyosmum lechleri","Chloranthaceae","Hedyosmum","PP_Tocoaq_30_Hedyosmum lechleri",NA,NA,NA
+"PP_Tocoaq_28_Ocotea albida","MDP0510","MDP0510.mzXML","ocoalb1","PP_Tocoaq_28","Ocotea albida","Lauraceae","Ocotea","PP_Tocoaq_28_Ocotea albida",NA,NA,NA
+"PP_Tocoaq_28_Cinchona calisaya","MDP0471","MDP0471.mzXML","cin1cal","PP_Tocoaq_28","Cinchona calisaya","Rubiaceae","Cinchona","PP_Tocoaq_28_Cinchona calisaya",NA,NA,NA
+"PP_Tocoaq_30_Alchornea grandiflora","MDP0414","MDP0414.mzXML","alcgra","PP_Tocoaq_30","Alchornea grandiflora","Euphorbiaceae","Alchornea","PP_Tocoaq_30_Alchornea grandiflora",NA,NA,NA
+"PP_Tocoaq_28_Meliosma petalodentata","MDP0498","MDP0498.mzXML","melpet","PP_Tocoaq_28","Meliosma petalodentata","Sabiaceae","Meliosma","PP_Tocoaq_28_Meliosma petalodentata",NA,NA,NA
+"PP_Tocoaq_30_Chalybea AM-3664","MDP0417","MDP0417.mzXML","cha2AM3664","PP_Tocoaq_30","Chalybea AM-3664","Melastomataceae","Chalybea","PP_Tocoaq_30_Chalybea AM-3664",NA,NA,NA
+"PP_Tocoaq_30_Miconia AM-3656","MDP0436","MDP0436.mzXML","mic1AM3656","PP_Tocoaq_30","Miconia AM-3656","Melastomataceae","Miconia","PP_Tocoaq_30_Miconia AM-3656",NA,NA,NA
+"PP_Tocoaq_30_Elaeagia mariae","MDP0423","MDP0423.mzXML","elamar","PP_Tocoaq_30","Elaeagia mariae","Rubiaceae","Elaeagia","PP_Tocoaq_30_Elaeagia mariae",NA,NA,NA
+"PP_Tocoaq_30_Miconia incachacana","MDP0439","MDP0439.mzXML","mic1inc","PP_Tocoaq_30","Miconia incachacana","Melastomataceae","Miconia","PP_Tocoaq_30_Miconia incachacana",NA,NA,NA
+"PP_Tocoaq_28_Ocotea puberula","MDP0514","MDP0514.mzXML","ocopub","PP_Tocoaq_28","Ocotea puberula","Lauraceae","Ocotea","PP_Tocoaq_28_Ocotea puberula",NA,NA,NA
+"PP_Tocoaq_30_Myrsine pellucida","MDP0445","MDP0445.mzXML","myr8pel","PP_Tocoaq_30","Myrsine pellucida","Primulaceae","Myrsine","PP_Tocoaq_30_Myrsine pellucida",NA,NA,NA
+"PP_Tocoaq_30_Ilex AM-3498","MDP0431","MDP0431.mzXML","ileAM3498","PP_Tocoaq_30","Ilex AM-3498","Aquifoliaceae","Ilex","PP_Tocoaq_30_Ilex AM-3498",NA,NA,NA
+"PP_Tocoaq_30_Brunellia boliviana","MDP0416","MDP0416.mzXML","bru1bol","PP_Tocoaq_30","Brunellia boliviana","Brunelliaceae","Brunellia","PP_Tocoaq_30_Brunellia boliviana",NA,NA,NA
+"PP_Tocoaq_30_Mollinedia repanda","MDP0441","MDP0441.mzXML","molrep","PP_Tocoaq_30","Mollinedia repanda","Monimiaceae","Mollinedia","PP_Tocoaq_30_Mollinedia repanda",NA,NA,NA
+"PP_Tocoaq_30_Annona RSS-85","MDP0415","MDP0415.mzXML","annRSS85","PP_Tocoaq_30","Annona RSS-85","Annonaceae","Annona","PP_Tocoaq_30_Annona RSS-85",NA,NA,NA
+"PP_Tocoaq_28_Cabralea canjerana","MDP0468","MDP0468.mzXML","cabcan","PP_Tocoaq_28","Cabralea canjerana","Meliaceae","Cabralea","PP_Tocoaq_28_Cabralea canjerana",NA,NA,NA
+"PP_Tocoaq_30_Ruagea ovalis","MDP0456","MDP0456.mzXML","ruaova","PP_Tocoaq_30","Ruagea ovalis","Meliaceae","Ruagea","PP_Tocoaq_30_Ruagea ovalis",NA,NA,NA
+"PP_Tocoaq_30_Persea areolatocostae","MDP0452","MDP0452.mzXML","per6are","PP_Tocoaq_30","Persea areolatocostae","Lauraceae","Persea","PP_Tocoaq_30_Persea areolatocostae",NA,NA,NA
+"PP_Yarimi_9_Bignonia uleana","MDP0791","MDP0791.mzXML","bigule","PP_Yarimi_9","Bignonia uleana","Bignoniaceae","Bignonia","PP_Yarimi_9_Bignonia uleana",NA,NA,NA
+"PP_Yarimi_9_Gallesia integrifolia","MDP0800","MDP0800.mzXML","gal2int","PP_Yarimi_9","Gallesia integrifolia","Petiveriaceae","Gallesia","PP_Yarimi_9_Gallesia integrifolia",NA,NA,NA
+"PP_Yarimi_9_Guapira opposita","MDP0801","MDP0801.mzXML","gua2opp","PP_Yarimi_9","Guapira opposita","Nyctaginaceae","Guapira","PP_Yarimi_9_Guapira opposita",NA,NA,NA
+"PP_Yarimi_9_Capparidastrum coimbranum","MDP0792","MDP0792.mzXML","capcoi","PP_Yarimi_9","Capparidastrum coimbranum","Capparaceae","Capparidastrum","PP_Yarimi_9_Capparidastrum coimbranum",NA,NA,NA
+"PP_Yarimi_9_Achatocarpus praecox","MDP0787","MDP0787.mzXML","achpra","PP_Yarimi_9","Achatocarpus praecox","Achatocarpaceae","Achatocarpus","PP_Yarimi_9_Achatocarpus praecox",NA,NA,NA
+"PP_Yarimi_9_Trichilia pleeana","MDP0818","MDP0818.mzXML","tri1ple","PP_Yarimi_9","Trichilia pleeana","Meliaceae","Trichilia","PP_Yarimi_9_Trichilia pleeana",NA,NA,NA
+"PP_Yarimi_9_Cariniana ianeirensis","MDP0793","MDP0793.mzXML","car4ian","PP_Yarimi_9","Cariniana ianeirensis","Lecythidaceae","Cariniana","PP_Yarimi_9_Cariniana ianeirensis",NA,NA,NA
+"PP_Yarimi_9_Chrysophyllum gonocarpum","MDP0797","MDP0797.mzXML","chr2gon","PP_Yarimi_9","Chrysophyllum gonocarpum","Sapotaceae","Chrysophyllum","PP_Yarimi_9_Chrysophyllum gonocarpum",NA,NA,NA
+"PP_Yarimi_9_Trichilia claussenii","MDP0816","MDP0816.mzXML","tri1cla","PP_Yarimi_9","Trichilia claussenii","Meliaceae","Trichilia","PP_Yarimi_9_Trichilia claussenii",NA,NA,NA
+"PP_Yarimi_9_Trichilia elegans","MDP0817","MDP0817.mzXML","tri1ele","PP_Yarimi_9","Trichilia elegans","Meliaceae","Trichilia","PP_Yarimi_9_Trichilia elegans",NA,NA,NA
+"PP_Yarimi_9_Simira rubescens","MDP0814","MDP0814.mzXML","sim2rub","PP_Yarimi_9","Simira rubescens","Rubiaceae","Simira","PP_Yarimi_9_Simira rubescens",NA,NA,NA
+"PP_Yarimi_9_Ceiba speciosa","MDP0795","MDP0795.mzXML","ceispe","PP_Yarimi_9","Ceiba speciosa","Malvaceae","Ceiba","PP_Yarimi_9_Ceiba speciosa",NA,NA,NA
+"PP_Yarimi_9_Sapindus saponaria","MDP0812","MDP0812.mzXML","sap1sap","PP_Yarimi_9","Sapindus saponaria","Sapindaceae","Sapindus","PP_Yarimi_9_Sapindus saponaria",NA,NA,NA
+"PP_Yarimi_9_Neea hermaphrodita","MDP0808","MDP0808.mzXML","neeher","PP_Yarimi_9","Neea hermaphrodita","Nyctaginaceae","Neea","PP_Yarimi_9_Neea hermaphrodita",NA,NA,NA
+"PP_Yarimi_9_Ficus obtusifolia","MDP0799","MDP0799.mzXML","ficobt","PP_Yarimi_9","Ficus obtusifolia","Moraceae","Ficus","PP_Yarimi_9_Ficus obtusifolia",NA,NA,NA
+"PP_Yarimi_9_Phyllostylon rhamnoides","MDP0810","MDP0810.mzXML","phy3rha","PP_Yarimi_9","Phyllostylon rhamnoides","Ulmaceae","Phyllostylon","PP_Yarimi_9_Phyllostylon rhamnoides",NA,NA,NA
+"PP_Yarimi_9_Oxandra espintana","MDP0809","MDP0809.mzXML","oxaesp","PP_Yarimi_9","Oxandra espintana","Annonaceae","Oxandra","PP_Yarimi_9_Oxandra espintana",NA,NA,NA
+"PP_Yarimi_9_Lonchocarpus MJM-7613","MDP0803","MDP0803.mzXML","lonMJM7613","PP_Yarimi_9","Lonchocarpus MJM-7613","Fabaceae","Lonchocarpus","PP_Yarimi_9_Lonchocarpus MJM-7613",NA,NA,NA
+"PP_Yarimi_9_Machaerium nyctitans","MDP0805","MDP0805.mzXML","mac1nyc","PP_Yarimi_9","Machaerium nyctitans","Fabaceae","Machaerium","PP_Yarimi_9_Machaerium nyctitans",NA,NA,NA
+"PP_Yarimi_9_Ampelocera ruizii","MDP0789","MDP0789.mzXML","amp1rui","PP_Yarimi_9","Ampelocera ruizii","Ulmaceae","Ampelocera","PP_Yarimi_9_Ampelocera ruizii",NA,NA,NA
+"PP_Yarimi_9_Pseudobombax septenatum","MDP0811","MDP0811.mzXML","pse1sep","PP_Yarimi_9","Pseudobombax septenatum","Malvaceae","Pseudobombax","PP_Yarimi_9_Pseudobombax septenatum",NA,NA,NA
+"PP_Yarimi_9_Casearia gossypiosperma","MDP0794","MDP0794.mzXML","casgos","PP_Yarimi_9","Casearia gossypiosperma","Salicaceae","Casearia","PP_Yarimi_9_Casearia gossypiosperma",NA,NA,NA
+"PP_Yarimi_9_Celtis loxensis","MDP0796","MDP0796.mzXML","cel2lox","PP_Yarimi_9","Celtis loxensis","Cannabaceae","Celtis","PP_Yarimi_9_Celtis loxensis",NA,NA,NA
+"PP_Yarimi_9_Agonandra peruviana","MDP0788","MDP0788.mzXML","ago1per","PP_Yarimi_9","Agonandra peruviana","Opiliaceae","Agonandra","PP_Yarimi_9_Agonandra peruviana",NA,NA,NA
+"PP_Yarimi_9_Urera baccifera","MDP0819","MDP0819.mzXML","urebac","PP_Yarimi_9","Urera baccifera","Urticaceae","Urera","PP_Yarimi_9_Urera baccifera",NA,NA,NA
+"PP_Yarimi_9_Luehea splendens","MDP0804","MDP0804.mzXML","lue1spl","PP_Yarimi_9","Luehea splendens","Malvaceae","Luehea","PP_Yarimi_9_Luehea splendens",NA,NA,NA
+"PP_Yarimi_9_Senegalia polyphylla","MDP0813","MDP0813.mzXML","sen1pol","PP_Yarimi_9","Senegalia polyphylla","Fabaceae","Senegalia","PP_Yarimi_9_Senegalia polyphylla",NA,NA,NA
+"PP_Yarimi_9_Hura crepitans","MDP0802","MDP0802.mzXML","hurcre","PP_Yarimi_9","Hura crepitans","Euphorbiaceae","Hura","PP_Yarimi_9_Hura crepitans",NA,NA,NA
+"PP_Yarimi_9_Myrocarpus venezuelensis","MDP0806","MDP0806.mzXML","myr6ven","PP_Yarimi_9","Myrocarpus venezuelensis","Fabaceae","Myrocarpus","PP_Yarimi_9_Myrocarpus venezuelensis",NA,NA,NA
+"PP_Yarimi_9_Eugenia uniflora","MDP0798","MDP0798.mzXML","euguni","PP_Yarimi_9","Eugenia uniflora","Myrtaceae","Eugenia","PP_Yarimi_9_Eugenia uniflora",NA,NA,NA
+"PP_Yarimi_9_Sweetia fruticosa","MDP0815","MDP0815.mzXML","swefru","PP_Yarimi_9","Sweetia fruticosa","Fabaceae","Sweetia","PP_Yarimi_9_Sweetia fruticosa",NA,NA,NA
+"PP_Yarimi_9_Myroxylon peruiferum","MDP0807","MDP0807.mzXML","myr7per","PP_Yarimi_9","Myroxylon peruiferum","Fabaceae","Myroxylon","PP_Yarimi_9_Myroxylon peruiferum",NA,NA,NA
+"PP_Yarimi_9_Anadenanthera colubrina","MDP0790","MDP0790.mzXML","anacol","PP_Yarimi_9","Anadenanthera colubrina","Fabaceae","Anadenanthera","PP_Yarimi_9_Anadenanthera colubrina",NA,NA,NA
